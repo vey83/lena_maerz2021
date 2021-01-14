@@ -361,3 +361,7 @@ time_end <- Sys.time()
 print(time_end-time_start)
 
 #Make Commit
+git2r::config(user.name = "awp-finanznachrichten",user.email = "sw@awp.ch")
+gitadd()
+gitcommit()
+gitpush()
