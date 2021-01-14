@@ -135,7 +135,7 @@ hist_storyfinder <- function(dta) {
 
 kanton_storyfinder <- function(dta) {
 
-  #Höchster Ja- und Nein-Anteil
+  #H?chster Ja- und Nein-Anteil
   for (kanton in unique(dta$Kantons_Nr)) {
     
     if (results_kantone$gebietAusgezaehlt[kanton] == TRUE) {
@@ -195,7 +195,7 @@ kanton_storyfinder <- function(dta) {
 
 kanton_storyfinder_kantonal <- function(dta) {
   
-  #Höchster Ja- und Nein-Anteil
+  #H?chster Ja- und Nein-Anteil
 
   
   

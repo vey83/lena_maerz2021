@@ -1,9 +1,8 @@
 #Zeit stoppen
 time_start <- Sys.time()
 
-
 #Working Directory definieren
-setwd("C:/Users/simon/OneDrive/LENA_Project/lena_november2020")
+setwd("C:/Users/simon/OneDrive/LENA_Project/lena_maerz2021")
 
 ###Config: Bibliotheken laden, Pfade/Links definieren, bereits vorhandene Daten laden
 source("config.R",encoding = "UTF-8")
@@ -46,7 +45,7 @@ Ja_Stimmen_Kanton <- results_kantone %>%
 
 results <- merge(results,Ja_Stimmen_Kanton)
 
-#Wie viele Gemeinden sind ausgezählt?
+#Wie viele Gemeinden sind ausgezählt
 cat(paste0(sum(results$Gebiet_Ausgezaehlt)," Gemeinden sind ausgezählt.\n"))
 
 #Neue Variablen

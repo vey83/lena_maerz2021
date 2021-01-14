@@ -12,9 +12,9 @@ library(jsonlite)
 library(readxl)
 library(git2r)
 
-print("BenÃ¶tigte Bibliotheken geladen\n")
+print("Benoetigte Bibliotheken geladen\n")
 
-#Funktion für Commit
+
 gitcommit <- function(msg = "commit from Rstudio", dir = getwd()){
   cmd = sprintf("git commit -m\"%s\"",msg)
   system(cmd)
