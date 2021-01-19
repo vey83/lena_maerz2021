@@ -100,10 +100,13 @@ format_data_g <- function(results) {
            Kanton_Short,
            Gemeinde_d,
            Gemeinde_f,
+           Gemeinde_i,
            Gemeinde_KT_d,
            Gemeinde_KT_f,
+           Gemeinde_KT_i,
            Kanton_d,
            Kanton_f,
+           Kanton_i,
            Kantons_Nr)
   return(out)
 }
@@ -169,8 +172,8 @@ treat_gemeinden <- function(res_comm) {
 augment_raw_data <- function(dta_raw) {
 
   dta <- dta_raw %>%
-    mutate(Ja_Nein = ifelse(Ja_Stimmen_Absolut > Nein_Stimmen_Absolut, "Ja", "Nein")) %>%
-    mutate(Oui_Non = ifelse(Ja_Stimmen_Absolut > Nein_Stimmen_Absolut, "oui", "non")) %>%
+    #mutate(Ja_Nein = ifelse(Ja_Stimmen_Absolut > Nein_Stimmen_Absolut, "Ja", "Nein")) %>%
+    #mutate(Oui_Non = ifelse(Ja_Stimmen_Absolut > Nein_Stimmen_Absolut, "oui", "non")) %>%
     mutate(Nein_Stimmen_In_Prozent = 100 - Ja_Stimmen_In_Prozent) %>%
     mutate(Unentschieden = ifelse(Ja_Stimmen_Absolut == Nein_Stimmen_Absolut, TRUE, FALSE)) %>%
     mutate(Einstimmig_Ja = ifelse(Ja_Stimmen_In_Prozent == 100, TRUE, FALSE)) %>%

@@ -53,11 +53,9 @@ gitpush <- function(dir = getwd()){
 
 #Link zu JSON-Daten / Daten einlesen
 link_json <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20201129-eidgAbstimmung.json" 
-#link_json <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20200927-eidgAbstimmung.json" 
 json_data <- fromJSON(link_json, flatten = TRUE)
 
 link_json_kantone <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20201129-kantAbstimmung.json"
-#link_json_kantone <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20200209-kantAbstimmung.json"
 json_data_kantone <- fromJSON(link_json_kantone, flatten = TRUE)
 
 print("Aktuelle Abstimmungsdaten geladen\n")
@@ -81,7 +79,7 @@ daten_kriegsmaterial_bfs <- read_excel("Data/daten_kriegsmaterial_bfs.xlsx",
 cat("Daten zu historischen Abstimmungen geladen\n")
 
 #Metadaten Gemeinden und Kantone
-meta_gmd_kt <- read_csv("Data/MASTERFILE_GDE.csv")
+meta_gmd_kt <- read_csv("Data/MASTERFILE_GDE_NEW.csv")
 
 #library(readxl)
 #italienisch <- read_excel("C:/Users/simon/OneDrive/Desktop/italienisch.xlsx")

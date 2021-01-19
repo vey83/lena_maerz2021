@@ -1,3 +1,5 @@
+View(results_kantone)
+
 #Zeit stoppen
 time_start <- Sys.time()
 
@@ -11,6 +13,7 @@ source("config.R",encoding = "UTF-8")
 source("functions_readin.R", encoding = "UTF-8")
 source("functions_storyfinder.R", encoding = "UTF-8")
 source("functions_storybuilder.R", encoding = "UTF-8")
+source("functions_output.R", encoding = "UTF-8")
 
 #Anzahl, Name und Nummer der Vorlagen von JSON einlesen
 vorlagen <- get_vorlagen(json_data,"de")
@@ -26,9 +29,9 @@ results <- get_results(json_data,i)
 
 #Emergency adapt
 #results$gebietAusgezaehlt[155] <- TRUE
-results$gebietAusgezaehlt[911] <- TRUE
-results$gebietAusgezaehlt[912] <- TRUE
-results$gebietAusgezaehlt[913] <- TRUE
+#results$gebietAusgezaehlt[911] <- TRUE
+#results$gebietAusgezaehlt[912] <- TRUE
+#results$gebietAusgezaehlt[913] <- TRUE
 
 #Daten anpassen Gemeinden
 results <- treat_gemeinden(results)
@@ -45,20 +48,22 @@ Ja_Stimmen_Kanton <- results_kantone %>%
 
 results <- merge(results,Ja_Stimmen_Kanton)
 
+
 #Wie viele Gemeinden sind ausgezählt
 cat(paste0(sum(results$Gebiet_Ausgezaehlt)," Gemeinden sind ausgezählt.\n"))
 
 #Neue Variablen
-results$Ja_Nein <- NA
-results$Oui_Non <- NA
-results$Nein_Stimmen_In_Prozent <- NA
-results$Unentschieden <- NA
-results$Einstimmig_Ja <- NA
-results$Einstimmig_Nein <- NA
-results$kleine_Gemeinde <- NA
-results$Storyboard <- NA
-results$Text_d <- "Die Resultate von dieser Gemeinde sind noch nicht bekannt."
-results$Text_f <- "Les résultats ne sont pas encore connus dans cette commune."
+results <- results %>%
+  mutate(Ja_Nein = NA,
+         Oui_Non = NA,
+         Unentschieden = NA,
+         Einstimmig_Ja = NA,
+         Einstimmig_Nein = NA,
+         kleine_Gemeinde = NA,
+         Storyboard = NA,
+         Text_d = "Die Resultate von dieser Gemeinde sind noch nicht bekannt.",
+         Text_f = "Les résultats ne sont pas encore connus dans cette commune.",
+         Text_i = "I resultati di questa comune non sono ancora noti.")
 
 hist_check <- FALSE
 
@@ -82,7 +87,6 @@ results <- lena_classics(results)
 
 }  
 
-
 #Historischer Vergleich (falls vorhanden)
 
 #Check Vorlagen-ID
@@ -102,7 +106,6 @@ results <- hist_storyfinder(results)
 #Check Vorlagen-ID
 if (vorlagen$id[i] == "6360") {
   
-
 #Falls mindestens ein Kanton ausgezählt -> Stories für die Kantone finden
   
 if (sum(results_kantone$gebietAusgezaehlt) > 0) {
@@ -112,7 +115,6 @@ results <- kanton_storyfinder(results)
 }
 
 }
-
 
 
 ###Storybuilder
@@ -160,66 +162,13 @@ results <- rbind(results,results_notavailable) %>%
 
 #Output Abstimmungen Gemeinde
 
-output_dw <- results %>%
-  select(Gemeinde_Nr,Ja_Stimmen_In_Prozent,Gemeinde_KT_d,Gemeinde_KT_f,Text_d,Text_f)
-
-#Anpassungen (Ticino Verzasca)
-gemeinde_adapt <- output_dw[output_dw$Gemeinde_Nr == 5399,] 
-gemeinde_adapt$Gemeinde_Nr[1] <- 5102
-output_dw <- rbind(output_dw,gemeinde_adapt)
-
-gemeinde_adapt$Gemeinde_Nr[1] <- 5095
-output_dw <- rbind(output_dw,gemeinde_adapt)
-
-gemeinde_adapt$Gemeinde_Nr[1] <- 5105
-output_dw <- rbind(output_dw,gemeinde_adapt)
-
-gemeinde_adapt$Gemeinde_Nr[1] <- 5129
-output_dw <- rbind(output_dw,gemeinde_adapt)
-
-gemeinde_adapt$Gemeinde_Nr[1] <- 5135
-output_dw <- rbind(output_dw,gemeinde_adapt)
-
-#Runden
-output_dw$Ja_Stimmen_In_Prozent <- round(output_dw$Ja_Stimmen_In_Prozent,1)
-
+output_dw <- get_output_gemeinden(results)
 
 #Output speichern
 write.csv(output_dw,paste0("Output/",vorlagen_short[i],"_dw.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
-
 #Output Abstimmungen Kantone
-output_dw_kantone <- results %>%
-  select(Kantons_Nr,Kanton_d,Kanton_f,Ja_Stimmen_In_Prozent_Kanton) %>%
-  mutate(Nein_Stimmen_In_Prozent_Kanton = round(100-Ja_Stimmen_In_Prozent_Kanton,1),
-         Ja_Stimmen_In_Prozent_Kanton = round(Ja_Stimmen_In_Prozent_Kanton,1),
-         Text_de = NA,
-         Text_fr = NA) %>%
-  unique()
-
-for (y in 1:nrow(output_dw_kantone)) {
-
-if (is.na(output_dw_kantone$Ja_Stimmen_In_Prozent_Kanton[y]) == TRUE) { 
-  
-  output_dw_kantone$Ja_Stimmen_In_Prozent_Kanton[y] <- 50
-  output_dw_kantone$Text_de[y] <- "Die Resultate von diesem Kanton sind noch nicht bekannt."
-  output_dw_kantone$Text_fr[y] <- "Les résultats ne sont pas encore connus dans ce canton."
-} else {
-  
-  count_gemeinden <- nrow(results[results$Kantons_Nr == output_dw_kantone$Kantons_Nr[y],])
-  counted <- nrow(results[results$Kantons_Nr == output_dw_kantone$Kantons_Nr[y] & results$Gebiet_Ausgezaehlt == TRUE,])
-  
-  output_dw_kantone$Text_de[y] <- paste0("Ja-Anteil: ",output_dw_kantone$Ja_Stimmen_In_Prozent_Kanton[y]," % <br>",
-                                      "Nein-Anteil: ",output_dw_kantone$Nein_Stimmen_In_Prozent_Kanton[y]," %<br><br>",
-                                      "Es sind ",counted," von ",count_gemeinden, " Gemeinden ausgezählt")
-  output_dw_kantone$Text_fr[y] <- paste0("pourcentage de oui: ",output_dw_kantone$Ja_Stimmen_In_Prozent_Kanton[y]," % <br>",
-                                         "pourcentage de non: ",output_dw_kantone$Nein_Stimmen_In_Prozent_Kanton[y]," %<br><br>",
-                                         "Les résultats de ",counted," des ",count_gemeinden, " communes sont connus") 
-  
-}  
-  
-}  
-
+output_dw_kantone <- get_output_kantone(results)
 
 write.csv(output_dw_kantone,paste0("Output/",vorlagen_short[i],"_dw_kantone.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
@@ -254,18 +203,19 @@ for (k in 1:length(kantonal_short) ) {
   cat(paste0(sum(results$Gebiet_Ausgezaehlt)," Gemeinden sind ausgezählt.\n"))
   
   #Neue Variablen
-  results$Ja_Nein <- NA
-  results$Oui_Non <- NA
-  results$Nein_Stimmen_In_Prozent <- NA
-  results$Unentschieden <- NA
-  results$Einstimmig_Ja <- NA
-  results$Einstimmig_Nein <- NA
-  results$kleine_Gemeinde <- NA
-  results$Highest_Yes_Kant <- FALSE
-  results$Highest_No_Kant <- FALSE
-  results$Storyboard <- NA
-  results$Text_d <- "Die Resultate von dieser Gemeinde sind noch nicht bekannt."
-  results$Text_f <- "Les résultats ne sont pas encore connus dans cette commune."
+  results <- results %>%
+  mutate(Ja_Nein = NA,
+  Oui_Non = NA,
+  Nein_Stimmen_In_Prozent = NA,
+  Unentschieden = NA,
+  Einstimmig_Ja = NA,
+  Einstimmig_Nein = NA,
+  kleine_Gemeinde = NA,
+  Highest_Yes_Kant = FALSE,
+  Highest_No_Kant = FALSE,
+  Storyboard = NA,
+  Text_d = "Die Resultate von dieser Gemeinde sind noch nicht bekannt.",
+  Text_f = "Les résultats ne sont pas encore connus dans cette commune.")
   
   hist_check <- FALSE
   
@@ -282,27 +232,7 @@ for (k in 1:length(kantonal_short) ) {
   #Intros generieren
   results <- normal_intro(results)
  
-  #Intro Spezialfall Avusy
-  
-  if (kantonal_short[k] == "GE_Avusy") {
-    
-   for (s in 1:nrow(results)) {
-     
-    if ( (results$Gemeinde_Nr[s] == 6604) & (results$Ja_Stimmen_Absolut[s] > results$Nein_Stimmen_Absolut[s]) ) {
-      
-      results$Storyboard[s] <- "Intro_Ja_Avusy"
-      
-    }
-     
-     if ( (results$Gemeinde_Nr[s] == 6604) & (results$Ja_Stimmen_Absolut[s] < results$Nein_Stimmen_Absolut[s]) ) {
-       
-       results$Storyboard[s] <- "Intro_Nein_Avusy"
-       
-     } 
-     
-   }
-    
-  }
+
   
   #Vergleich innerhalb des Kantons (falls Daten vom Kanton vorhanden) -> Ändern von FALSE auf TRUE
   
@@ -345,9 +275,7 @@ for (k in 1:length(kantonal_short) ) {
   #write.xlsx(results,paste0(kantonal_short[k],"_texte.xlsx"))
   
   ###Output generieren für Datawrapper
-  output_dw <- results %>%
-    select(Gemeinde_Nr,Ja_Stimmen_In_Prozent,Gemeinde_KT_d,Gemeinde_KT_f,Text_d,Text_f)
-  
+  output_dw <- get_output_gemeinden(results)
   
   write.csv(output_dw,paste0("Output/",kantonal_short[k],"_dw.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
   
