@@ -305,3 +305,4 @@ cat("Daten erfolgreich auf Github hochgeladen\n")
 
 #}
 
+View(output_dw)
