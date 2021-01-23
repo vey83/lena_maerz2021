@@ -29,13 +29,13 @@ build_texts <- function(dta) {
   
   dta$Text_d[i] <- text[,"Text_d"]
   dta$Text_f[i] <- text[,"Text_f"]
-  dta$Text_f[i] <- text[,"Text_i"]
+  dta$Text_i[i] <- text[,"Text_i"]
 
     } else {
   
       dta$Text_d[i] <- paste(dta$Text_d[i],text[,"Text_d"])
       dta$Text_f[i] <- paste(dta$Text_f[i],text[,"Text_f"])
-      dta$Text_f[i] <- paste(dta$Text_f[i],text[,"Text_i"])
+      dta$Text_i[i] <- paste(dta$Text_i[i],text[,"Text_i"])
    
 }
 

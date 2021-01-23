@@ -293,7 +293,7 @@ for (k in 1:length(kantonal_short) ) {
 
 #Wie lange hat LENA gebraucht
 time_end <- Sys.time()
-print(time_end-time_start)
+cat(time_end-time_start)
 
 #Make Commit
 git2r::config(user.name = "awp-finanznachrichten",user.email = "sw@awp.ch")
@@ -305,4 +305,3 @@ cat("Daten erfolgreich auf Github hochgeladen\n")
 
 #}
 
-View(output_dw)
