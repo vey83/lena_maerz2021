@@ -1,11 +1,12 @@
 get_output_gemeinden <- function(dta) {
 
   output_dw <- dta %>%
-    select(Gemeinde_Nr,Ja_Stimmen_In_Prozent,Nein_Stimmen_In_Prozent,Gemeinde_KT_d,Gemeinde_KT_f,Gemeinde_KT_i,Text_d,Text_f,Text_i)
+    select(Gemeinde_Nr,Gemeinde_color,Ja_Stimmen_In_Prozent,Nein_Stimmen_In_Prozent,Gemeinde_KT_d,Gemeinde_KT_f,Gemeinde_KT_i,Text_d,Text_f,Text_i)
   
   #Runden
   output_dw$Ja_Stimmen_In_Prozent <- round(output_dw$Ja_Stimmen_In_Prozent,1)
-  output_dw$Nein_Stimmen_In_Prozent <- round(output_dw$Ja_Stimmen_In_Prozent,1)
+  output_dw$Nein_Stimmen_In_Prozent <- round(output_dw$Nein_Stimmen_In_Prozent,1)
+  output_dw$Gemeinde_color <- round(output_dw$Gemeinde_color,1)
   
 return(output_dw)  
 }  
@@ -37,7 +38,7 @@ for (y in 1:nrow(output_dw_kantone)) {
     output_dw_kantone$Kanton_color[y] <- 50
     output_dw_kantone$Legende[y] <- paste0(output_dw_kantone$Gemeinden_counted[y],"/",output_dw_kantone$Gemeinden_overall[y])
     
-  } else if (output_dw_kantone$Gemeinden_counted[y] != output_dw_kantone$Gemeinden_overall[y]) {
+  } else if (output_dw_kantone$Gemeinden_counted[y] < output_dw_kantone$Gemeinden_overall[y]) {
     
     output_dw_kantone$Legende[y] <- paste0(output_dw_kantone$Gemeinden_counted[y],"/",output_dw_kantone$Gemeinden_overall[y])
     

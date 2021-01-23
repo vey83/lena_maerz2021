@@ -172,9 +172,10 @@ treat_gemeinden <- function(res_comm) {
 augment_raw_data <- function(dta_raw) {
 
   dta <- dta_raw %>%
-    #mutate(Ja_Nein = ifelse(Ja_Stimmen_Absolut > Nein_Stimmen_Absolut, "Ja", "Nein")) %>%
-    #mutate(Oui_Non = ifelse(Ja_Stimmen_Absolut > Nein_Stimmen_Absolut, "oui", "non")) %>%
+    mutate(Ja_Nein = ifelse(Ja_Stimmen_Absolut > Nein_Stimmen_Absolut, "Ja", "Nein")) %>%
+    mutate(Oui_Non = ifelse(Ja_Stimmen_Absolut > Nein_Stimmen_Absolut, "oui", "non")) %>%
     mutate(Nein_Stimmen_In_Prozent = 100 - Ja_Stimmen_In_Prozent) %>%
+    mutate(Gemeinde_color = Ja_Stimmen_In_Prozent) %>%
     mutate(Unentschieden = ifelse(Ja_Stimmen_Absolut == Nein_Stimmen_Absolut, TRUE, FALSE)) %>%
     mutate(Einstimmig_Ja = ifelse(Ja_Stimmen_In_Prozent == 100, TRUE, FALSE)) %>%
     mutate(Einstimmig_Nein = ifelse(Ja_Stimmen_In_Prozent == 0, TRUE, FALSE)) %>%

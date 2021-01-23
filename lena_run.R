@@ -1,13 +1,9 @@
-View(results_kantone)
-
-#Zeit stoppen
-time_start <- Sys.time()
-
 #Working Directory definieren
 setwd("C:/Users/simon/OneDrive/LENA_Project/lena_maerz2021")
 
 ###Config: Bibliotheken laden, Pfade/Links definieren, bereits vorhandene Daten laden
 source("config.R",encoding = "UTF-8")
+
 
 ###Funktionen laden
 source("functions_readin.R", encoding = "UTF-8")
@@ -18,7 +14,14 @@ source("functions_output.R", encoding = "UTF-8")
 #Anzahl, Name und Nummer der Vorlagen von JSON einlesen
 vorlagen <- get_vorlagen(json_data,"de")
 
-###Natioanle Abstimmungen###
+###LENA alle 5 Sekunden laufen lassen
+#repeat{
+
+#Sys.sleep(5)
+
+time_start <- Sys.time()
+
+###Nationale Abstimmungen###
 
 for (i in 1:length(vorlagen_short)) {
 
@@ -47,7 +50,6 @@ Ja_Stimmen_Kanton <- results_kantone %>%
          Highest_No_Kant = FALSE)
 
 results <- merge(results,Ja_Stimmen_Kanton)
-
 
 #Wie viele Gemeinden sind ausgezählt
 cat(paste0(sum(results$Gebiet_Ausgezaehlt)," Gemeinden sind ausgezählt.\n"))
@@ -91,10 +93,10 @@ results <- lena_classics(results)
 
 #Check Vorlagen-ID
 
-if (vorlagen$id[i] == "6370") { #6320
+if (vorlagen$id[i] == "6360") { 
 
 hist_check <- TRUE 
-data_hist <- format_data_hist(daten_kriegsmaterial_bfs)
+data_hist <- format_data_hist(daten_minarett_bfs)
 results <- merge(results,data_hist,all.x = TRUE)
 results <- hist_storyfinder(results)
 
@@ -104,7 +106,7 @@ results <- hist_storyfinder(results)
 #Vergleich innerhalb des Kantons (falls alle Daten vom Kanton vorhanden)
 
 #Check Vorlagen-ID
-if (vorlagen$id[i] == "6360") {
+if (vorlagen$id[i] == "6370") {
   
 #Falls mindestens ein Kanton ausgezählt -> Stories für die Kantone finden
   
@@ -120,7 +122,7 @@ results <- kanton_storyfinder(results)
 ###Storybuilder
 
 #Textvorlagen laden
-Textbausteine <- as.data.frame(read_excel("Data/Textbausteine_LENA_November2020.xlsx", 
+Textbausteine <- as.data.frame(read_excel("Data/Textbausteine_LENA_Maerz2021.xlsx", 
                                                sheet = vorlagen_short[i]))
 cat("Textvorlagen geladen\n\n")
 
@@ -140,7 +142,9 @@ results <- excuse_my_french(results)
 ###Ausgezählte und nicht ausgezählte Gemeinden wieder zusammenführen -> Immer gleiches Format für Datawrapper
 if (nrow(results_notavailable) > 0) {
 
-results_notavailable$Ja_Stimmen_In_Prozent <- 50
+results_notavailable$Ja_Stimmen_In_Prozent <- 0
+results_notavailable$Nein_Stimmen_In_Prozent <- 0
+results_notavailable$Gemeinde_color <- 50
 
 if (hist_check == TRUE) {
 results_notavailable$Hist_Ja_Stimmen_In_Prozent <- NA
@@ -161,6 +165,7 @@ results <- rbind(results,results_notavailable) %>%
 ###Output generieren für Datawrapper
 
 #Output Abstimmungen Gemeinde
+
 
 output_dw <- get_output_gemeinden(results)
 
@@ -185,8 +190,8 @@ for (k in 1:length(kantonal_short) ) {
   results <- get_results_kantonal(json_data_kantone,
                                   kantonal_number[k],
                                   kantonal_add[k])
-  
-  
+ 
+
   #Daten anpassen Gemeinden
   results <- treat_gemeinden(results)
   results <- format_data_g(results)
@@ -215,7 +220,8 @@ for (k in 1:length(kantonal_short) ) {
   Highest_No_Kant = FALSE,
   Storyboard = NA,
   Text_d = "Die Resultate von dieser Gemeinde sind noch nicht bekannt.",
-  Text_f = "Les résultats ne sont pas encore connus dans cette commune.")
+  Text_f = "Les résultats ne sont pas encore connus dans cette commune.",
+  Text_i = "I resultati di questa comune non sono ancora noti.")
   
   hist_check <- FALSE
   
@@ -243,7 +249,7 @@ for (k in 1:length(kantonal_short) ) {
   #}
   
   #Textvorlagen laden
-  Textbausteine <- as.data.frame(read_excel("Data/Textbausteine_LENA_November2020.xlsx", 
+  Textbausteine <- as.data.frame(read_excel("Data/Textbausteine_LENA_Maerz2021.xlsx", 
                                             sheet = kantonal_short[k]))
   cat("Textvorlagen geladen\n\n")
   
@@ -263,7 +269,9 @@ for (k in 1:length(kantonal_short) ) {
   ###Ausgezählte und nicht ausgezählte Gemeinden wieder zusammenführen -> Immer gleiches Format für Datawrapper
   if (nrow(results_notavailable) > 0) {
     
-    results_notavailable$Ja_Stimmen_In_Prozent <- 50
+    results_notavailable$Ja_Stimmen_In_Prozent <- 0
+    results_notavailable$Nein_Stimmen_In_Prozent <- 0
+    results_notavailable$Gemeinde_color <- 50
     
     results <- rbind(results,results_notavailable) %>%
       arrange(Gemeinde_Nr)
@@ -292,3 +300,8 @@ git2r::config(user.name = "awp-finanznachrichten",user.email = "sw@awp.ch")
 gitadd()
 gitcommit()
 gitpush()
+
+cat("Daten erfolgreich auf Github hochgeladen\n")
+
+#}
+
