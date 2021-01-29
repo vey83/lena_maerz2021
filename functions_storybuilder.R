@@ -70,8 +70,8 @@ for (i in 1:nrow(dta)) {
   dta$Text_f[i] <- str_replace_all(dta$Text_f[i],"#JaStimmenAbsolut",as.character(format(dta$Ja_Stimmen_Absolut[i],big.mark="'")))
   dta$Text_f[i] <- str_replace_all(dta$Text_f[i],"#NeinStimmenAbsolut",as.character(format(dta$Nein_Stimmen_Absolut[i],big.mark="'")))
   
-  dta$Text_i[i] <- str_replace_all(dta$Text_i[i],"#Gemeinde_f",dta$Gemeinde_f[i]) 
-  dta$Text_i[i] <- str_replace_all(dta$Text_i[i],"#Kanton_f",dta$Kanton_f[i])
+  dta$Text_i[i] <- str_replace_all(dta$Text_i[i],"#Gemeinde_i",dta$Gemeinde_f[i]) 
+  dta$Text_i[i] <- str_replace_all(dta$Text_i[i],"#Kanton_i",dta$Kanton_f[i])
   dta$Text_i[i] <- str_replace_all(dta$Text_i[i],"#JaStimmenInProzent",gsub("[.]",",",round(dta$Ja_Stimmen_In_Prozent[i],1)))
   dta$Text_i[i] <- str_replace_all(dta$Text_i[i],"#NeinStimmenInProzent",gsub("[.]",",",round(dta$Nein_Stimmen_In_Prozent[i],1)))
   dta$Text_i[i] <- str_replace_all(dta$Text_i[i],"#JaStimmenAbsolut",as.character(format(dta$Ja_Stimmen_Absolut[i],big.mark="'")))
