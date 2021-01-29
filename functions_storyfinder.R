@@ -167,6 +167,7 @@ counted <- c(1:26)[-unique(results_notavailable$Kantons_Nr)]
   dta <- storyboard_modifier(dta, selection, "KantonPhrase_Highest_No_Kant", mode = "append")
 
   selection <- is.na(dta$Ja_Stimmen_In_Prozent_Kanton) == FALSE &
+    dta$Kantons_Nr %in% counted == TRUE &
     dta$Highest_Yes_Kant == FALSE &
     dta$Highest_No_Kant == FALSE &
     dta$Ja_Stimmen_In_Prozent_Kanton > 50 &
@@ -174,6 +175,7 @@ counted <- c(1:26)[-unique(results_notavailable$Kantons_Nr)]
   dta <- storyboard_modifier(dta, selection, "KantonPhrase_Ja_Ja", mode = "append")
   
   selection <- is.na(dta$Ja_Stimmen_In_Prozent_Kanton) == FALSE &
+    dta$Kantons_Nr %in% counted == TRUE &
     dta$Highest_Yes_Kant == FALSE &
     dta$Highest_No_Kant == FALSE &
     dta$Ja_Stimmen_In_Prozent_Kanton < 50 &
@@ -181,6 +183,7 @@ counted <- c(1:26)[-unique(results_notavailable$Kantons_Nr)]
   dta <- storyboard_modifier(dta, selection, "KantonPhrase_Ja_Nein", mode = "append")
   
   selection <- is.na(dta$Ja_Stimmen_In_Prozent_Kanton) == FALSE &
+    dta$Kantons_Nr %in% counted == TRUE &
     dta$Highest_Yes_Kant == FALSE &
     dta$Highest_No_Kant == FALSE &
     dta$Ja_Stimmen_In_Prozent_Kanton > 50 &
@@ -188,6 +191,7 @@ counted <- c(1:26)[-unique(results_notavailable$Kantons_Nr)]
   dta <- storyboard_modifier(dta, selection, "KantonPhrase_Nein_Ja", mode = "append")
   
   selection <- is.na(dta$Ja_Stimmen_In_Prozent_Kanton) == FALSE &
+    dta$Kantons_Nr %in% counted == TRUE &
     dta$Highest_Yes_Kant == FALSE &
     dta$Highest_No_Kant == FALSE &
     dta$Ja_Stimmen_In_Prozent_Kanton < 50 &
