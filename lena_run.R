@@ -43,6 +43,7 @@ results <- format_data_g(results)
 #Kantonsdaten hinzufügen
 results_kantone <- get_results(json_data,i,"cantonal")
 
+json_data$schweiz$vorlagen$kantone
 Ja_Stimmen_Kanton <- results_kantone %>%
   select(Kantons_Nr,jaStimmenInProzent) %>%
   rename(Ja_Stimmen_In_Prozent_Kanton = jaStimmenInProzent) %>%
@@ -50,6 +51,7 @@ Ja_Stimmen_Kanton <- results_kantone %>%
          Highest_No_Kant = FALSE)
 
 results <- merge(results,Ja_Stimmen_Kanton)
+
 
 #Wie viele Gemeinden sind ausgezählt
 cat(paste0(sum(results$Gebiet_Ausgezaehlt)," Gemeinden sind ausgezählt.\n"))
@@ -110,7 +112,7 @@ if (vorlagen$id[i] == "6370") {
   
 #Falls mindestens ein Kanton ausgezählt -> Stories für die Kantone finden
   
-if (sum(results_kantone$gebietAusgezaehlt) > 0) {
+if (length(unique(results_notavailable$Kantons_Nr)) < 26) {
   
 results <- kanton_storyfinder(results)
 
