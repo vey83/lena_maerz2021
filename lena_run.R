@@ -15,9 +15,9 @@ source("functions_output.R", encoding = "UTF-8")
 vorlagen <- get_vorlagen(json_data,"de")
 
 ###LENA alle 5 Sekunden laufen lassen
-#repeat{
+repeat{
 
-#Sys.sleep(5)
+Sys.sleep(5)
 
 time_start <- Sys.time()
 
@@ -305,5 +305,5 @@ gitpush()
 
 cat("Daten erfolgreich auf Github hochgeladen\n")
 
-#}
+}
 

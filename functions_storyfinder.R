@@ -206,9 +206,6 @@ counted <- c(1:26)[-unique(results_notavailable$Kantons_Nr)]
 kanton_storyfinder_kantonal <- function(dta) {
   
   #H?chster Ja- und Nein-Anteil
-
-  
-  
   highest_gemeinde <- which.max(dta$Ja_Stimmen_In_Prozent)
   lowest_gemeinde <- which.min(dta$Ja_Stimmen_In_Prozent)
       
