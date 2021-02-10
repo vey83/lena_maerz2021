@@ -11,29 +11,32 @@ library(rjson)
 library(jsonlite)
 library(readxl)
 library(git2r)
+library(DatawRappr)
 
 cat("Benoetigte Bibliotheken geladen\n")
 
 #Link zu JSON-Daten / Daten einlesen
-link_json <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20201129-eidgAbstimmung.json" 
+link_json <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20210307-eidgAbstimmung.json" 
+#link_json <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20201129-eidgAbstimmung.json" 
 json_data <- fromJSON(link_json, flatten = TRUE)
 
-link_json_kantone <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20201129-kantAbstimmung.json"
+link_json_kantone <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20210307-kantAbstimmung.json"
+#link_json_kantone <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20201129-kantAbstimmung.json"
 json_data_kantone <- fromJSON(link_json_kantone, flatten = TRUE)
 
 cat("Aktuelle Abstimmungsdaten geladen\n")
 
 #Kurznamen Vorlagen (Verwendet im File mit den Textbausteinen)
-vorlagen_short <- c("Verhuellungsverbot","E-ID-Gesetz")
+vorlagen_short <- c("Verhuellungsverbot","E-ID-Gesetz","Indonesien")
 
 ###Kurznamen und Nummern kantonale Vorlagen
-kantonal_short <- c("GE_Coronavirus","ZH_Sozialdetektive","ZH_Polizeimeldungen")
+kantonal_short <- c("ZH_Sozialdetektive","GE_Coronavirus")
 
 #Nummer in JSON 
-kantonal_number <- c(4,11,11) #3,13,13
+kantonal_number <- c(1,6) #3,13,13
 
 #Falls mehrere Vorlagen innerhalb eines Kantons, Vorlage auswählen
-kantonal_add <- c(1,1,2) #  1,1,1
+kantonal_add <- c(2,1) #  1,1,1
 
 ###Vorhandene Daten laden Gripen / Masseneinwanderungsinitiative
 daten_minarett_bfs <- read_excel("Data/daten_minarett_bfs.xls", 
@@ -81,3 +84,5 @@ gitpush <- function(dir = getwd()){
   cmd <- paste(unlist(cmd_list),collapse = " & ")
   shell(cmd)
 }
+
+
