@@ -9,7 +9,8 @@ for (i in 1:length(vorlagen_short)) {
   ###Resultate aus JSON auslesen für Gemeinden
   results <- get_results(json_data,i)
   
-
+#Simulation Gemeinden
+source("data_simulation_gemeinden.R")
   
 
   #Emergency adapt
@@ -24,6 +25,9 @@ for (i in 1:length(vorlagen_short)) {
   
   #Kantonsdaten hinzufügen
   results_kantone <- get_results(json_data,i,"cantonal")
+  
+  #Simulation Kantone
+  source("data_simulation_kantone.R")
   
   json_data$schweiz$vorlagen$kantone
   Ja_Stimmen_Kanton <- results_kantone %>%
@@ -168,10 +172,8 @@ for (i in 1:length(vorlagen_short)) {
   
   }
   
-  dw_edit_chart("VuRbm",intro=undertitel_de,annotate=paste0("Letztes Update: ",format(Sys.time(),"%d.%m.%Y %H:%m Uhr")))
-  dw_publish_chart("VuRbm")
-  
-
+  #dw_edit_chart("bL14o",intro=undertitel_de,annotate=paste0("Letztes Update: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
+  #dw_publish_chart("bL14o")
   
   #Output Abstimmungen Kantone
   output_dw_kantone <- get_output_kantone(results)
@@ -184,3 +186,4 @@ for (i in 1:length(vorlagen_short)) {
 
 }
 
+View(output_dw_kantone)

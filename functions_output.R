@@ -11,7 +11,7 @@ get_output_gemeinden <- function(dta) {
 return(output_dw)  
 }  
 
-
+View(results_kantone)
 
 get_output_kantone <- function(dta) {
 
@@ -24,6 +24,8 @@ output_dw_kantone <- dta %>%
            Gemeinden_counted = 0,
            Legende = NA) %>%
     unique()
+
+View(output_dw_kantone)
 
 for (y in 1:nrow(output_dw_kantone)) {
   

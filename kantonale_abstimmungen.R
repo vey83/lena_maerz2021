@@ -104,3 +104,5 @@ for (k in 1:length(kantonal_short) ) {
   cat(paste0("\nGenerated output for Vorlage ",kantonal_short[k],"\n"))
   
 }
+
+

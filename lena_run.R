@@ -32,10 +32,10 @@ time_end <- Sys.time()
 cat(time_end-time_start)
 
 #Make Commit
-#git2r::config(user.name = "awp-finanznachrichten",user.email = "sw@awp.ch")
-#gitadd()
-#gitcommit()
-#gitpush()
+git2r::config(user.name = "awp-finanznachrichten",user.email = "sw@awp.ch")
+gitadd()
+gitcommit()
+gitpush()
 
 cat("Daten erfolgreich auf Github hochgeladen\n")
 
