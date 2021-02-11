@@ -49,6 +49,8 @@ meta_gmd_kt <- read_csv("Data/MASTERFILE_GDE_NEW.csv")
 
 cat("Metadaten zu Gemeinden und Kantonen geladen\n")
 
+#Datawrapper-Codes
+datawrapper_codes <- read_excel("Data/Datawrapper_Codes.xlsx")
 
 gitcommit <- function(msg = "commit from Rstudio", dir = getwd()){
   cmd = sprintf("git commit -m\"%s\"",msg)

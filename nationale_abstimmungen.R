@@ -162,6 +162,8 @@ source("data_simulation_gemeinden.R")
   
   #Datawrapper-Karten aktualisieren
   undertitel_de <- "Es sind noch keine Gemeinden ausgezählt."
+  undertitel_fr <- "Aucun résultat n'est encore connu."
+  undertitel_it <- "Nessun risultato è ancora noto."
   
   if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {
     
@@ -170,10 +172,27 @@ source("data_simulation_gemeinden.R")
            round(results_national$jaStimmenInProzent,1)," %</b> Ja, <b>",
            round(100-results_national$jaStimmenInProzent,1)," %</b> Nein")
   
+  undertitel_fr <- paste0("Le résultats de <b>",sum(results$Gebiet_Ausgezaehlt),"</b> des <b>",nrow(results),
+                          "</b> communes sont connus. Etat: <b>",
+                          round(results_national$jaStimmenInProzent,1)," %</b> oui, <b>",
+                          round(100-results_national$jaStimmenInProzent,1)," %</b> non")
+  
+  undertitel_it <- paste0("I risultati di <b>",sum(results$Gebiet_Ausgezaehlt),"</b> dei <b>",nrow(results),
+                          "</b> communi sono noti. Stato: <b>",
+                          round(results_national$jaStimmenInProzent,1)," %</b> sì, <b>",
+                          round(100-results_national$jaStimmenInProzent,1)," %</b> no")
+  
   }
   
-  #dw_edit_chart("bL14o",intro=undertitel_de,annotate=paste0("Letztes Update: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
-  #dw_publish_chart("bL14o")
+  
+  dw_edit_chart(datawrapper_codes[i,2],intro=undertitel_de,annotate=paste0("Letzte Aktualisierung: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
+  dw_publish_chart(datawrapper_codes[i,2])
+  
+  dw_edit_chart(datawrapper_codes[i,4],intro=undertitel_de,annotate=paste0("dernière mise à jour: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
+  dw_publish_chart(datawrapper_codes[i,4])
+  
+  dw_edit_chart(datawrapper_codes[i,6],intro=undertitel_de,annotate=paste0("Ultimo aggiornamento: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
+  dw_publish_chart(datawrapper_codes[i,6])
   
   #Output Abstimmungen Kantone
   output_dw_kantone <- get_output_kantone(results)
@@ -182,9 +201,14 @@ source("data_simulation_gemeinden.R")
   
   cat(paste0("\nGenerated output for Vorlage ",vorlagen_short[i],"\n"))
   
-  #dw_edit_chart("526qC",intro=undertitel_de,annotate=paste0("Letztes Update: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
-  #dw_publish_chart("526qC")
+  dw_edit_chart(datawrapper_codes[i,3],intro=undertitel_de,annotate=paste0("Letzte Aktualisierung: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
+  dw_publish_chart(datawrapper_codes[i,3])
   
+  dw_edit_chart(datawrapper_codes[i,5],intro=undertitel_de,annotate=paste0("dernière mise à jour: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
+  dw_publish_chart(datawrapper_codes[i,5])
+  
+  dw_edit_chart(datawrapper_codes[i,7],intro=undertitel_de,annotate=paste0("Ultimo aggiornamento: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
+  dw_publish_chart(datawrapper_codes[i,7])
   
   
 
