@@ -182,8 +182,12 @@ source("data_simulation_gemeinden.R")
   
   cat(paste0("\nGenerated output for Vorlage ",vorlagen_short[i],"\n"))
   
+  #dw_edit_chart("526qC",intro=undertitel_de,annotate=paste0("Letztes Update: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
+  #dw_publish_chart("526qC")
+  
+  
   
 
 }
 
-View(output_dw_kantone)
+View(results_national)

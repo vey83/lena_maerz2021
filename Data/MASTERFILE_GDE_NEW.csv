@@ -14,7 +14,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 13,ZH,Stallikon,Stallikon,Stallikon,Stallikon ZH,Stallikon (ZH),Stallikon ZH,Zürich,Zurich,Zurigo,1
 14,ZH,Wettswil am Albis,Wettswil am Albis,Wettswil am Albis,Wettswil am Albis ZH,Wettswil am Albis (ZH),Wettswil am Albis ZH,Zürich,Zurich,Zurigo,1
 21,ZH,Adlikon,Adlikon,Adlikon,Adlikon ZH,Adlikon (ZH),Adlikon ZH,Zürich,Zurich,Zurigo,1
-22,ZH,Benken ZH,Benken (ZH),Benken ZH,Benken ZH,Benken (ZH),Benken ZH ZH,Zürich,Zurich,Zurigo,1
+22,ZH,Benken ZH,Benken (ZH),Benken ZH,Benken ZH,Benken (ZH),Benken ZH,Zürich,Zurich,Zurigo,1
 23,ZH,Berg am Irchel,Berg am Irchel,Berg am Irchel,Berg am Irchel ZH,Berg am Irchel (ZH),Berg am Irchel ZH,Zürich,Zurich,Zurigo,1
 24,ZH,Buch am Irchel,Buch am Irchel,Buch am Irchel,Buch am Irchel ZH,Buch am Irchel (ZH),Buch am Irchel ZH,Zürich,Zurich,Zurigo,1
 25,ZH,Dachsen,Dachsen,Dachsen,Dachsen ZH,Dachsen (ZH),Dachsen ZH,Zürich,Zurich,Zurigo,1
@@ -58,7 +58,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 72,ZH,Winkel,Winkel,Winkel,Winkel ZH,Winkel (ZH),Winkel ZH,Zürich,Zurich,Zurigo,1
 81,ZH,Bachs,Bachs,Bachs,Bachs ZH,Bachs (ZH),Bachs ZH,Zürich,Zurich,Zurigo,1
 82,ZH,Boppelsen,Boppelsen,Boppelsen,Boppelsen ZH,Boppelsen (ZH),Boppelsen ZH,Zürich,Zurich,Zurigo,1
-83,ZH,Buchs ZH,Buchs (ZH),Buchs ZH,Buchs ZH,Buchs (ZH),Buchs ZH ZH,Zürich,Zurich,Zurigo,1
+83,ZH,Buchs ZH,Buchs (ZH),Buchs ZH,Buchs ZH,Buchs (ZH),Buchs ZH,Zürich,Zurich,Zurigo,1
 84,ZH,Dällikon,Dällikon,Dällikon,Dällikon ZH,Dällikon (ZH),Dällikon ZH,Zürich,Zurich,Zurigo,1
 85,ZH,Dänikon,Dänikon,Dänikon,Dänikon ZH,Dänikon (ZH),Dänikon ZH,Zürich,Zurich,Zurigo,1
 86,ZH,Dielsdorf,Dielsdorf,Dielsdorf,Dielsdorf ZH,Dielsdorf (ZH),Dielsdorf ZH,Zürich,Zurich,Zurigo,1
@@ -82,24 +82,24 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 112,ZH,Bubikon,Bubikon,Bubikon,Bubikon ZH,Bubikon (ZH),Bubikon ZH,Zürich,Zurich,Zurigo,1
 113,ZH,Dürnten,Dürnten,Dürnten,Dürnten ZH,Dürnten (ZH),Dürnten ZH,Zürich,Zurich,Zurigo,1
 114,ZH,Fischenthal,Fischenthal,Fischenthal,Fischenthal ZH,Fischenthal (ZH),Fischenthal ZH,Zürich,Zurich,Zurigo,1
-115,ZH,Gossau ZH,Gossau (ZH),Gossau ZH,Gossau ZH,Gossau (ZH),Gossau ZH ZH,Zürich,Zurich,Zurigo,1
+115,ZH,Gossau ZH,Gossau (ZH),Gossau ZH,Gossau ZH,Gossau (ZH),Gossau ZH,Zürich,Zurich,Zurigo,1
 116,ZH,Grüningen,Grüningen,Grüningen,Grüningen ZH,Grüningen (ZH),Grüningen ZH,Zürich,Zurich,Zurigo,1
 117,ZH,Hinwil,Hinwil,Hinwil,Hinwil ZH,Hinwil (ZH),Hinwil ZH,Zürich,Zurich,Zurigo,1
-118,ZH,Rüti ZH,Rüti (ZH),Rüti ZH,Rüti ZH,Rüti (ZH),Rüti ZH ZH,Zürich,Zurich,Zurigo,1
+118,ZH,Rüti ZH,Rüti (ZH),Rüti ZH,Rüti ZH,Rüti (ZH),Rüti ZH,Zürich,Zurich,Zurigo,1
 119,ZH,Seegräben,Seegräben,Seegräben,Seegräben ZH,Seegräben (ZH),Seegräben ZH,Zürich,Zurich,Zurigo,1
-120,ZH,Wald ZH,Wald (ZH),Wald ZH,Wald ZH,Wald (ZH),Wald ZH ZH,Zürich,Zurich,Zurigo,1
-121,ZH,Wetzikon ZH,Wetzikon (ZH),Wetzikon ZH,Wetzikon ZH,Wetzikon (ZH),Wetzikon ZH ZH,Zürich,Zurich,Zurigo,1
+120,ZH,Wald ZH,Wald (ZH),Wald ZH,Wald ZH,Wald (ZH),Wald ZH,Zürich,Zurich,Zurigo,1
+121,ZH,Wetzikon ZH,Wetzikon (ZH),Wetzikon ZH,Wetzikon ZH,Wetzikon (ZH),Wetzikon ZH,Zürich,Zurich,Zurigo,1
 131,ZH,Adliswil,Adliswil,Adliswil,Adliswil ZH,Adliswil (ZH),Adliswil ZH,Zürich,Zurich,Zurigo,1
-135,ZH,Kilchberg ZH,Kilchberg (ZH),Kilchberg ZH,Kilchberg ZH,Kilchberg (ZH),Kilchberg ZH ZH,Zürich,Zurich,Zurigo,1
+135,ZH,Kilchberg ZH,Kilchberg (ZH),Kilchberg ZH,Kilchberg ZH,Kilchberg (ZH),Kilchberg ZH,Zürich,Zurich,Zurigo,1
 136,ZH,Langnau am Albis,Langnau am Albis,Langnau am Albis,Langnau am Albis ZH,Langnau am Albis (ZH),Langnau am Albis ZH,Zürich,Zurich,Zurigo,1
 137,ZH,Oberrieden,Oberrieden,Oberrieden,Oberrieden ZH,Oberrieden (ZH),Oberrieden ZH,Zürich,Zurich,Zurigo,1
 138,ZH,Richterswil,Richterswil,Richterswil,Richterswil ZH,Richterswil (ZH),Richterswil ZH,Zürich,Zurich,Zurigo,1
 139,ZH,Rüschlikon,Rüschlikon,Rüschlikon,Rüschlikon ZH,Rüschlikon (ZH),Rüschlikon ZH,Zürich,Zurich,Zurigo,1
 141,ZH,Thalwil,Thalwil,Thalwil,Thalwil ZH,Thalwil (ZH),Thalwil ZH,Zürich,Zurich,Zurigo,1
-151,ZH,Erlenbach ZH,Erlenbach (ZH),Erlenbach ZH,Erlenbach ZH,Erlenbach (ZH),Erlenbach ZH ZH,Zürich,Zurich,Zurigo,1
+151,ZH,Erlenbach ZH,Erlenbach (ZH),Erlenbach ZH,Erlenbach ZH,Erlenbach (ZH),Erlenbach ZH,Zürich,Zurich,Zurigo,1
 152,ZH,Herrliberg,Herrliberg,Herrliberg,Herrliberg ZH,Herrliberg (ZH),Herrliberg ZH,Zürich,Zurich,Zurigo,1
 153,ZH,Hombrechtikon,Hombrechtikon,Hombrechtikon,Hombrechtikon ZH,Hombrechtikon (ZH),Hombrechtikon ZH,Zürich,Zurich,Zurigo,1
-154,ZH,Küsnacht ZH,Küsnacht (ZH),Küsnacht ZH,Küsnacht ZH,Küsnacht (ZH),Küsnacht ZH ZH,Zürich,Zurich,Zurigo,1
+154,ZH,Küsnacht ZH,Küsnacht (ZH),Küsnacht ZH,Küsnacht ZH,Küsnacht (ZH),Küsnacht ZH,Zürich,Zurich,Zurigo,1
 155,ZH,Männedorf,Männedorf,Männedorf,Männedorf ZH,Männedorf (ZH),Männedorf ZH,Zürich,Zurich,Zurigo,1
 156,ZH,Meilen,Meilen,Meilen,Meilen ZH,Meilen (ZH),Meilen ZH,Zürich,Zurich,Zurigo,1
 157,ZH,Oetwil am See,Oetwil am See,Oetwil am See,Oetwil am See ZH,Oetwil am See (ZH),Oetwil am See ZH,Zürich,Zurich,Zurigo,1
@@ -136,14 +136,14 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 221,ZH,Hettlingen,Hettlingen,Hettlingen,Hettlingen ZH,Hettlingen (ZH),Hettlingen ZH,Zürich,Zurich,Zurigo,1
 223,ZH,Neftenbach,Neftenbach,Neftenbach,Neftenbach ZH,Neftenbach (ZH),Neftenbach ZH,Zürich,Zurich,Zurigo,1
 224,ZH,Pfungen,Pfungen,Pfungen,Pfungen ZH,Pfungen (ZH),Pfungen ZH,Zürich,Zurich,Zurigo,1
-225,ZH,Rickenbach ZH,Rickenbach (ZH),Rickenbach ZH,Rickenbach ZH,Rickenbach (ZH),Rickenbach ZH ZH,Zürich,Zurich,Zurigo,1
-226,ZH,Schlatt ZH,Schlatt (ZH),Schlatt ZH,Schlatt ZH,Schlatt (ZH),Schlatt ZH ZH,Zürich,Zurich,Zurigo,1
+225,ZH,Rickenbach ZH,Rickenbach (ZH),Rickenbach ZH,Rickenbach ZH,Rickenbach (ZH),Rickenbach ZH,Zürich,Zurich,Zurigo,1
+226,ZH,Schlatt ZH,Schlatt (ZH),Schlatt ZH,Schlatt ZH,Schlatt (ZH),Schlatt ZH,Zürich,Zurich,Zurigo,1
 227,ZH,Seuzach,Seuzach,Seuzach,Seuzach ZH,Seuzach (ZH),Seuzach ZH,Zürich,Zurich,Zurigo,1
 228,ZH,Turbenthal,Turbenthal,Turbenthal,Turbenthal ZH,Turbenthal (ZH),Turbenthal ZH,Zürich,Zurich,Zurigo,1
 230,ZH,Winterthur,Winterthour,Winterthur,Winterthur ZH,Winterthour (ZH),Winterthur ZH,Zürich,Zurich,Zurigo,1
-231,ZH,Zell ZH,Zell (ZH),Zell ZH,Zell ZH,Zell (ZH),Zell ZH ZH,Zürich,Zurich,Zurigo,1
-241,ZH,Aesch ZH,Aesch (ZH),Aesch ZH,Aesch ZH,Aesch (ZH),Aesch ZH ZH,Zürich,Zurich,Zurigo,1
-242,ZH,Birmensdorf ZH,Birmensdorf (ZH),Birmensdorf ZH,Birmensdorf ZH,Birmensdorf (ZH),Birmensdorf ZH ZH,Zürich,Zurich,Zurigo,1
+231,ZH,Zell ZH,Zell (ZH),Zell ZH,Zell ZH,Zell (ZH),Zell ZH,Zürich,Zurich,Zurigo,1
+241,ZH,Aesch ZH,Aesch (ZH),Aesch ZH,Aesch ZH,Aesch (ZH),Aesch ZH,Zürich,Zurich,Zurigo,1
+242,ZH,Birmensdorf ZH,Birmensdorf (ZH),Birmensdorf ZH,Birmensdorf ZH,Birmensdorf (ZH),Birmensdorf ZH,Zürich,Zurich,Zurigo,1
 243,ZH,Dietikon,Dietikon,Dietikon,Dietikon ZH,Dietikon (ZH),Dietikon ZH,Zürich,Zurich,Zurigo,1
 244,ZH,Geroldswil,Geroldswil,Geroldswil,Geroldswil ZH,Geroldswil (ZH),Geroldswil ZH,Zürich,Zurich,Zurigo,1
 245,ZH,Oberengstringen,Oberengstringen,Oberengstringen,Oberengstringen ZH,Oberengstringen (ZH),Oberengstringen ZH,Zürich,Zurich,Zurigo,1
@@ -152,7 +152,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 248,ZH,Uitikon,Uitikon,Uitikon,Uitikon ZH,Uitikon (ZH),Uitikon ZH,Zürich,Zurich,Zurigo,1
 249,ZH,Unterengstringen,Unterengstringen,Unterengstringen,Unterengstringen ZH,Unterengstringen (ZH),Unterengstringen ZH,Zürich,Zurich,Zurigo,1
 250,ZH,Urdorf,Urdorf,Urdorf,Urdorf ZH,Urdorf (ZH),Urdorf ZH,Zürich,Zurich,Zurigo,1
-251,ZH,Weiningen ZH,Weiningen (ZH),Weiningen ZH,Weiningen ZH,Weiningen (ZH),Weiningen ZH ZH,Zürich,Zurich,Zurigo,1
+251,ZH,Weiningen ZH,Weiningen (ZH),Weiningen ZH,Weiningen ZH,Weiningen (ZH),Weiningen ZH,Zürich,Zurich,Zurigo,1
 261,ZH,Zürich,Zurich,Zurigo,Zürich ZH,Zurich (ZH),Zurigo ZH,Zürich,Zurich,Zurigo,1
 292,ZH,Stammheim,Stammheim,Stammheim,Stammheim ZH,Stammheim (ZH),Stammheim ZH,Zürich,Zurich,Zurigo,1
 293,ZH,Wädenswil,Wädenswil,Wädenswil,Wädenswil ZH,Wädenswil (ZH),Wädenswil ZH,Zürich,Zurich,Zurigo,1
@@ -185,7 +185,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 334,BE,Obersteckholz,Obersteckholz,Obersteckholz,Obersteckholz BE,Obersteckholz (BE),Obersteckholz BE,Bern,Berne,Berna,2
 335,BE,Oeschenbach,Oeschenbach,Oeschenbach,Oeschenbach BE,Oeschenbach (BE),Oeschenbach BE,Bern,Berne,Berna,2
 336,BE,Reisiswil,Reisiswil,Reisiswil,Reisiswil BE,Reisiswil (BE),Reisiswil BE,Bern,Berne,Berna,2
-337,BE,Roggwil BE,Roggwil (BE),Roggwil BE,Roggwil BE,Roggwil (BE),Roggwil BE BE,Bern,Berne,Berna,2
+337,BE,Roggwil BE,Roggwil (BE),Roggwil BE,Roggwil BE,Roggwil (BE),Roggwil BE,Bern,Berne,Berna,2
 338,BE,Rohrbach,Rohrbach,Rohrbach,Rohrbach BE,Rohrbach (BE),Rohrbach BE,Bern,Berne,Berna,2
 339,BE,Rohrbachgraben,Rohrbachgraben,Rohrbachgraben,Rohrbachgraben BE,Rohrbachgraben (BE),Rohrbachgraben BE,Bern,Berne,Berna,2
 340,BE,Rütschelen,Rütschelen,Rütschelen,Rütschelen BE,Rütschelen (BE),Rütschelen BE,Bern,Berne,Berna,2
@@ -213,7 +213,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 383,BE,Büren an der Aare,Büren an der Aare,Büren an der Aare,Büren an der Aare BE,Büren an der Aare (BE),Büren an der Aare BE,Bern,Berne,Berna,2
 385,BE,Diessbach bei Büren,Diessbach bei Büren,Diessbach bei Büren,Diessbach bei Büren BE,Diessbach bei Büren (BE),Diessbach bei Büren BE,Bern,Berne,Berna,2
 386,BE,Dotzigen,Dotzigen,Dotzigen,Dotzigen BE,Dotzigen (BE),Dotzigen BE,Bern,Berne,Berna,2
-387,BE,Lengnau BE,Longeau,Lengnau BE,Lengnau BE,Longeau (BE),Lengnau BE BE,Bern,Berne,Berna,2
+387,BE,Lengnau BE,Longeau,Lengnau BE,Lengnau BE,Longeau (BE),Lengnau BE,Bern,Berne,Berna,2
 388,BE,Leuzigen,Leuzigen,Leuzigen,Leuzigen BE,Leuzigen (BE),Leuzigen BE,Bern,Berne,Berna,2
 389,BE,Meienried,Meienried,Meienried,Meienried BE,Meienried (BE),Meienried BE,Bern,Berne,Berna,2
 390,BE,Meinisberg,Meinisberg,Meinisberg,Meinisberg BE,Meinisberg (BE),Meinisberg BE,Bern,Berne,Berna,2
@@ -232,7 +232,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 409,BE,Hindelbank,Hindelbank,Hindelbank,Hindelbank BE,Hindelbank (BE),Hindelbank BE,Bern,Berne,Berna,2
 410,BE,Höchstetten,Höchstetten,Höchstetten,Höchstetten BE,Höchstetten (BE),Höchstetten BE,Bern,Berne,Berna,2
 411,BE,Kernenried,Kernenried,Kernenried,Kernenried BE,Kernenried (BE),Kernenried BE,Bern,Berne,Berna,2
-412,BE,Kirchberg BE,Kirchberg (BE),Kirchberg BE,Kirchberg BE,Kirchberg (BE),Kirchberg BE BE,Bern,Berne,Berna,2
+412,BE,Kirchberg BE,Kirchberg (BE),Kirchberg BE,Kirchberg BE,Kirchberg (BE),Kirchberg BE,Bern,Berne,Berna,2
 413,BE,Koppigen,Koppigen,Koppigen,Koppigen BE,Koppigen (BE),Koppigen BE,Bern,Berne,Berna,2
 414,BE,Krauchthal,Krauchthal,Krauchthal,Krauchthal BE,Krauchthal (BE),Krauchthal BE,Bern,Berne,Berna,2
 415,BE,Lyssach,Lyssach,Lyssach,Lyssach BE,Lyssach (BE),Lyssach BE,Bern,Berne,Berna,2
@@ -250,8 +250,8 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 435,BE,La Ferrière,La Ferrière,La Ferrière,La Ferrière BE,La Ferrière (BE),La Ferrière BE,Bern,Berne,Berna,2
 437,BE,Mont-Tramelan,Mont-Tramelan,Mont-Tramelan,Mont-Tramelan BE,Mont-Tramelan (BE),Mont-Tramelan BE,Bern,Berne,Berna,2
 438,BE,Orvin,Orvin,Orvin,Orvin BE,Orvin (BE),Orvin BE,Bern,Berne,Berna,2
-441,BE,Renan BE,Renan (BE),Renan BE,Renan BE,Renan (BE),Renan BE BE,Bern,Berne,Berna,2
-442,BE,Romont BE,Romont (BE),Romont BE,Romont BE,Romont (BE),Romont BE BE,Bern,Berne,Berna,2
+441,BE,Renan BE,Renan (BE),Renan BE,Renan BE,Renan (BE),Renan BE,Bern,Berne,Berna,2
+442,BE,Romont BE,Romont (BE),Romont BE,Romont BE,Romont (BE),Romont BE,Bern,Berne,Berna,2
 443,BE,St. Immer,Saint-Imier,St. Immer,St. Immer BE,Saint-Imier (BE),St. Immer BE,Bern,Berne,Berna,2
 444,BE,Sonceboz-Sombeval,Sonceboz-Sombeval,Sonceboz-Sombeval,Sonceboz-Sombeval BE,Sonceboz-Sombeval (BE),Sonceboz-Sombeval BE,Bern,Berne,Berna,2
 445,BE,Sonvilier,Sonvilier,Sonvilier,Sonvilier BE,Sonvilier (BE),Sonvilier BE,Bern,Berne,Berna,2
@@ -295,7 +295,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 567,BE,Reichenbach im Kandertal,Reichenbach im Kandertal,Reichenbach im Kandertal,Reichenbach im Kandertal BE,Reichenbach im Kandertal (BE),Reichenbach im Kandertal BE,Bern,Berne,Berna,2
 571,BE,Beatenberg,Beatenberg,Beatenberg,Beatenberg BE,Beatenberg (BE),Beatenberg BE,Bern,Berne,Berna,2
 572,BE,Bönigen,Bönigen,Bönigen,Bönigen BE,Bönigen (BE),Bönigen BE,Bern,Berne,Berna,2
-573,BE,Brienz BE,Brienz (BE),Brienz BE,Brienz BE,Brienz (BE),Brienz BE BE,Bern,Berne,Berna,2
+573,BE,Brienz BE,Brienz (BE),Brienz BE,Brienz BE,Brienz (BE),Brienz BE,Bern,Berne,Berna,2
 574,BE,Brienzwiler,Brienzwiler,Brienzwiler,Brienzwiler BE,Brienzwiler (BE),Brienzwiler BE,Bern,Berne,Berna,2
 575,BE,Därligen,Därligen,Därligen,Därligen BE,Därligen (BE),Därligen BE,Bern,Berne,Berna,2
 576,BE,Grindelwald,Grindelwald,Grindelwald,Grindelwald BE,Grindelwald (BE),Grindelwald BE,Bern,Berne,Berna,2
@@ -311,12 +311,12 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 587,BE,Matten bei Interlaken,Matten bei Interlaken,Matten bei Interlaken,Matten bei Interlaken BE,Matten bei Interlaken (BE),Matten bei Interlaken BE,Bern,Berne,Berna,2
 588,BE,Niederried bei Interlaken,Niederried bei Interlaken,Niederried bei Interlaken,Niederried bei Interlaken BE,Niederried bei Interlaken (BE),Niederried bei Interlaken BE,Bern,Berne,Berna,2
 589,BE,Oberried am Brienzersee,Oberried am Brienzersee,Oberried am Brienzersee,Oberried am Brienzersee BE,Oberried am Brienzersee (BE),Oberried am Brienzersee BE,Bern,Berne,Berna,2
-590,BE,Ringgenberg BE,Ringgenberg (BE),Ringgenberg BE,Ringgenberg BE,Ringgenberg (BE),Ringgenberg BE BE,Bern,Berne,Berna,2
+590,BE,Ringgenberg BE,Ringgenberg (BE),Ringgenberg BE,Ringgenberg BE,Ringgenberg (BE),Ringgenberg BE,Bern,Berne,Berna,2
 591,BE,Saxeten,Saxeten,Saxeten,Saxeten BE,Saxeten (BE),Saxeten BE,Bern,Berne,Berna,2
 592,BE,Schwanden bei Brienz,Schwanden bei Brienz,Schwanden bei Brienz,Schwanden bei Brienz BE,Schwanden bei Brienz (BE),Schwanden bei Brienz BE,Bern,Berne,Berna,2
 593,BE,Unterseen,Unterseen,Unterseen,Unterseen BE,Unterseen (BE),Unterseen BE,Bern,Berne,Berna,2
 594,BE,Wilderswil,Wilderswil,Wilderswil,Wilderswil BE,Wilderswil (BE),Wilderswil BE,Bern,Berne,Berna,2
-602,BE,Arni BE,Arni (BE),Arni BE,Arni BE,Arni (BE),Arni BE BE,Bern,Berne,Berna,2
+602,BE,Arni BE,Arni (BE),Arni BE,Arni BE,Arni (BE),Arni BE,Bern,Berne,Berna,2
 603,BE,Biglen,Biglen,Biglen,Biglen BE,Biglen (BE),Biglen BE,Bern,Berne,Berna,2
 605,BE,Bowil,Bowil,Bowil,Bowil BE,Bowil (BE),Bowil BE,Bern,Berne,Berna,2
 606,BE,Brenzikofen,Brenzikofen,Brenzikofen,Brenzikofen BE,Brenzikofen (BE),Brenzikofen BE,Bern,Berne,Berna,2
@@ -352,7 +352,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 671,BE,Wileroltigen,Wileroltigen,Wileroltigen,Wileroltigen BE,Wileroltigen (BE),Wileroltigen BE,Bern,Berne,Berna,2
 681,BE,Belprahon,Belprahon,Belprahon,Belprahon BE,Belprahon (BE),Belprahon BE,Bern,Berne,Berna,2
 683,BE,Champoz,Champoz,Champoz,Champoz BE,Champoz (BE),Champoz BE,Bern,Berne,Berna,2
-687,BE,Corcelles BE,Corcelles (BE),Corcelles BE,Corcelles BE,Corcelles (BE),Corcelles BE BE,Bern,Berne,Berna,2
+687,BE,Corcelles BE,Corcelles (BE),Corcelles BE,Corcelles BE,Corcelles (BE),Corcelles BE,Bern,Berne,Berna,2
 690,BE,Court,Court,Court,Court BE,Court (BE),Court BE,Bern,Berne,Berna,2
 691,BE,Crémines,Crémines,Crémines,Crémines BE,Crémines (BE),Crémines BE,Bern,Berne,Berna,2
 692,BE,Eschert,Eschert,Eschert,Eschert BE,Eschert (BE),Eschert BE,Bern,Berne,Berna,2
@@ -363,7 +363,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 703,BE,Reconvilier,Reconvilier,Reconvilier,Reconvilier BE,Reconvilier (BE),Reconvilier BE,Bern,Berne,Berna,2
 704,BE,Roches BE,Roches (BE),Roches BE,Roches BE,Roches (BE),Roches BE BE,Bern,Berne,Berna,2
 706,BE,Saicourt,Saicourt,Saicourt,Saicourt BE,Saicourt (BE),Saicourt BE,Bern,Berne,Berna,2
-707,BE,Saules BE,Saules (BE),Saules BE,Saules BE,Saules (BE),Saules BE BE,Bern,Berne,Berna,2
+707,BE,Saules BE,Saules (BE),Saules BE,Saules BE,Saules (BE),Saules BE,Bern,Berne,Berna,2
 708,BE,Schelten,La Scheulte,Schelten,Schelten BE,La Scheulte (BE),Schelten BE,Bern,Berne,Berna,2
 709,BE,Seehof,Seehof,Seehof,Seehof BE,Seehof (BE),Seehof BE,Bern,Berne,Berna,2
 711,BE,Sorvilier,Sorvilier,Sorvilier,Sorvilier BE,Sorvilier (BE),Sorvilier BE,Bern,Berne,Berna,2
@@ -428,7 +428,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 868,BE,Jaberg,Jaberg,Jaberg,Jaberg BE,Jaberg (BE),Jaberg BE,Bern,Berne,Berna,2
 869,BE,Kaufdorf,Kaufdorf,Kaufdorf,Kaufdorf BE,Kaufdorf (BE),Kaufdorf BE,Bern,Berne,Berna,2
 870,BE,Kehrsatz,Kehrsatz,Kehrsatz,Kehrsatz BE,Kehrsatz (BE),Kehrsatz BE,Bern,Berne,Berna,2
-872,BE,Kirchdorf BE,Kirchdorf (BE),Kirchdorf BE,Kirchdorf BE,Kirchdorf (BE),Kirchdorf BE BE,Bern,Berne,Berna,2
+872,BE,Kirchdorf BE,Kirchdorf (BE),Kirchdorf BE,Kirchdorf BE,Kirchdorf (BE),Kirchdorf BE,Bern,Berne,Berna,2
 877,BE,Niedermuhlern,Niedermuhlern,Niedermuhlern,Niedermuhlern BE,Niedermuhlern (BE),Niedermuhlern BE,Bern,Berne,Berna,2
 879,BE,Riggisberg,Riggisberg,Riggisberg,Riggisberg BE,Riggisberg (BE),Riggisberg BE,Bern,Berne,Berna,2
 880,BE,Rüeggisberg,Rüeggisberg,Rüeggisberg,Rüeggisberg BE,Rüeggisberg (BE),Rüeggisberg BE,Bern,Berne,Berna,2
@@ -463,7 +463,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 936,BE,Pohlern,Pohlern,Pohlern,Pohlern BE,Pohlern (BE),Pohlern BE,Bern,Berne,Berna,2
 938,BE,Sigriswil,Sigriswil,Sigriswil,Sigriswil BE,Sigriswil (BE),Sigriswil BE,Bern,Berne,Berna,2
 939,BE,Steffisburg,Steffisburg,Steffisburg,Steffisburg BE,Steffisburg (BE),Steffisburg BE,Bern,Berne,Berna,2
-940,BE,Teuffenthal BE,Teuffenthal (BE),Teuffenthal BE,Teuffenthal BE,Teuffenthal (BE),Teuffenthal BE BE,Bern,Berne,Berna,2
+940,BE,Teuffenthal BE,Teuffenthal (BE),Teuffenthal BE,Teuffenthal BE,Teuffenthal (BE),Teuffenthal BE,Bern,Berne,Berna,2
 941,BE,Thierachern,Thierachern,Thierachern,Thierachern BE,Thierachern (BE),Thierachern BE,Bern,Berne,Berna,2
 942,BE,Thun,Thoune,Thun,Thun BE,Thoune (BE),Thun BE,Bern,Berne,Berna,2
 943,BE,Uebeschi,Uebeschi,Uebeschi,Uebeschi BE,Uebeschi (BE),Uebeschi BE,Bern,Berne,Berna,2
@@ -480,7 +480,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 956,BE,Rüegsau,Rüegsau,Rüegsau,Rüegsau BE,Rüegsau (BE),Rüegsau BE,Bern,Berne,Berna,2
 957,BE,Sumiswald,Sumiswald,Sumiswald,Sumiswald BE,Sumiswald (BE),Sumiswald BE,Bern,Berne,Berna,2
 958,BE,Trachselwald,Trachselwald,Trachselwald,Trachselwald BE,Trachselwald (BE),Trachselwald BE,Bern,Berne,Berna,2
-959,BE,Walterswil BE,Walterswil (BE),Walterswil BE,Walterswil BE,Walterswil (BE),Walterswil BE BE,Bern,Berne,Berna,2
+959,BE,Walterswil BE,Walterswil (BE),Walterswil BE,Walterswil BE,Walterswil (BE),Walterswil BE,Bern,Berne,Berna,2
 960,BE,Wyssachen,Wyssachen,Wyssachen,Wyssachen BE,Wyssachen (BE),Wyssachen BE,Bern,Berne,Berna,2
 971,BE,Attiswil,Attiswil,Attiswil,Attiswil BE,Attiswil (BE),Attiswil BE,Bern,Berne,Berna,2
 972,BE,Berken,Berken,Berken,Berken BE,Berken (BE),Berken BE,Bern,Berne,Berna,2
@@ -505,17 +505,17 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 1001,LU,Doppleschwand,Doppleschwand,Doppleschwand,Doppleschwand LU,Doppleschwand (LU),Doppleschwand LU,Luzern,Lucerne,Lucerna,3
 1002,LU,Entlebuch,Entlebuch,Entlebuch,Entlebuch LU,Entlebuch (LU),Entlebuch LU,Luzern,Lucerne,Lucerna,3
 1004,LU,Flühli,Flühli,Flühli,Flühli LU,Flühli (LU),Flühli LU,Luzern,Lucerne,Lucerna,3
-1005,LU,Hasle LU,Hasle (LU),Hasle LU,Hasle LU,Hasle (LU),Hasle LU LU,Luzern,Lucerne,Lucerna,3
+1005,LU,Hasle LU,Hasle (LU),Hasle LU,Hasle LU,Hasle (LU),Hasle LU,Luzern,Lucerne,Lucerna,3
 1007,LU,Romoos,Romoos,Romoos,Romoos LU,Romoos (LU),Romoos LU,Luzern,Lucerne,Lucerna,3
 1008,LU,Schüpfheim,Schüpfheim,Schüpfheim,Schüpfheim LU,Schüpfheim (LU),Schüpfheim LU,Luzern,Lucerne,Lucerna,3
 1009,LU,Werthenstein,Werthenstein,Werthenstein,Werthenstein LU,Werthenstein (LU),Werthenstein LU,Luzern,Lucerne,Lucerna,3
 1010,LU,Escholzmatt-Marbach,Escholzmatt-Marbach,Escholzmatt-Marbach,Escholzmatt-Marbach LU,Escholzmatt-Marbach (LU),Escholzmatt-Marbach LU,Luzern,Lucerne,Lucerna,3
-1021,LU,Aesch LU,Aesch (LU),Aesch LU,Aesch LU,Aesch (LU),Aesch LU LU,Luzern,Lucerne,Lucerna,3
+1021,LU,Aesch LU,Aesch (LU),Aesch LU,Aesch LU,Aesch (LU),Aesch LU,Luzern,Lucerne,Lucerna,3
 1022,LU,Altwis,Altwis,Altwis,Altwis LU,Altwis (LU),Altwis LU,Luzern,Lucerne,Lucerna,3
 1023,LU,Ballwil,Ballwil,Ballwil,Ballwil LU,Ballwil (LU),Ballwil LU,Luzern,Lucerne,Lucerna,3
 1024,LU,Emmen,Emmen,Emmen,Emmen LU,Emmen (LU),Emmen LU,Luzern,Lucerne,Lucerna,3
 1025,LU,Ermensee,Ermensee,Ermensee,Ermensee LU,Ermensee (LU),Ermensee LU,Luzern,Lucerne,Lucerna,3
-1026,LU,Eschenbach LU,Eschenbach (LU),Eschenbach LU,Eschenbach LU,Eschenbach (LU),Eschenbach LU LU,Luzern,Lucerne,Lucerna,3
+1026,LU,Eschenbach LU,Eschenbach (LU),Eschenbach LU,Eschenbach LU,Eschenbach (LU),Eschenbach LU,Luzern,Lucerne,Lucerna,3
 1030,LU,Hitzkirch,Hitzkirch,Hitzkirch,Hitzkirch LU,Hitzkirch (LU),Hitzkirch LU,Luzern,Lucerne,Lucerna,3
 1031,LU,Hochdorf,Hochdorf,Hochdorf,Hochdorf LU,Hochdorf (LU),Hochdorf LU,Luzern,Lucerne,Lucerna,3
 1032,LU,Hohenrain,Hohenrain,Hohenrain,Hohenrain LU,Hohenrain (LU),Hohenrain LU,Luzern,Lucerne,Lucerna,3
@@ -554,7 +554,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 1093,LU,Neuenkirch,Neuenkirch,Neuenkirch,Neuenkirch LU,Neuenkirch (LU),Neuenkirch LU,Luzern,Lucerne,Lucerna,3
 1094,LU,Nottwil,Nottwil,Nottwil,Nottwil LU,Nottwil (LU),Nottwil LU,Luzern,Lucerne,Lucerna,3
 1095,LU,Oberkirch,Oberkirch,Oberkirch,Oberkirch LU,Oberkirch (LU),Oberkirch LU,Luzern,Lucerne,Lucerna,3
-1097,LU,Rickenbach LU,Rickenbach (LU),Rickenbach LU,Rickenbach LU,Rickenbach (LU),Rickenbach LU LU,Luzern,Lucerne,Lucerna,3
+1097,LU,Rickenbach LU,Rickenbach (LU),Rickenbach LU,Rickenbach LU,Rickenbach (LU),Rickenbach LU,Luzern,Lucerne,Lucerna,3
 1098,LU,Ruswil,Ruswil,Ruswil,Ruswil LU,Ruswil (LU),Ruswil LU,Luzern,Lucerne,Lucerna,3
 1099,LU,Schenkon,Schenkon,Schenkon,Schenkon LU,Schenkon (LU),Schenkon LU,Luzern,Lucerne,Lucerna,3
 1100,LU,Schlierbach,Schlierbach,Schlierbach,Schlierbach LU,Schlierbach (LU),Schlierbach LU,Luzern,Lucerne,Lucerna,3
@@ -584,7 +584,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 1147,LU,Wikon,Wikon,Wikon,Wikon LU,Wikon (LU),Wikon LU,Luzern,Lucerne,Lucerna,3
 1150,LU,Zell LU,Zell (LU),Zell LU,Zell LU,Zell (LU),Zell LU LU,Luzern,Lucerne,Lucerna,3
 1151,LU,Willisau,Willisau,Willisau,Willisau LU,Willisau (LU),Willisau LU,Luzern,Lucerne,Lucerna,3
-1201,UR,Altdorf UR,Altdorf (UR),Altdorf UR,Altdorf UR,Altdorf (UR),Altdorf UR UR,Uri,Uri,Uri,4
+1201,UR,Altdorf UR,Altdorf (UR),Altdorf UR,Altdorf UR,Altdorf (UR),Altdorf UR,Uri,Uri,Uri,4
 1202,UR,Andermatt,Andermatt,Andermatt,Andermatt UR,Andermatt (UR),Andermatt UR,Uri,Uri,Uri,4
 1203,UR,Attinghausen,Attinghausen,Attinghausen,Attinghausen UR,Attinghausen (UR),Attinghausen UR,Uri,Uri,Uri,4
 1204,UR,Bauen,Bauen,Bauen,Bauen UR,Bauen (UR),Bauen UR,Uri,Uri,Uri,4
@@ -597,7 +597,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 1211,UR,Isenthal,Isenthal,Isenthal,Isenthal UR,Isenthal (UR),Isenthal UR,Uri,Uri,Uri,4
 1212,UR,Realp,Realp,Realp,Realp UR,Realp (UR),Realp UR,Uri,Uri,Uri,4
 1213,UR,Schattdorf,Schattdorf,Schattdorf,Schattdorf UR,Schattdorf (UR),Schattdorf UR,Uri,Uri,Uri,4
-1214,UR,Seedorf UR,Seedorf (UR),Seedorf UR,Seedorf UR,Seedorf (UR),Seedorf UR UR,Uri,Uri,Uri,4
+1214,UR,Seedorf UR,Seedorf (UR),Seedorf UR,Seedorf UR,Seedorf (UR),Seedorf UR,Uri,Uri,Uri,4
 1215,UR,Seelisberg,Seelisberg,Seelisberg,Seelisberg UR,Seelisberg (UR),Seelisberg UR,Uri,Uri,Uri,4
 1216,UR,Silenen,Silenen,Silenen,Silenen UR,Silenen (UR),Silenen UR,Uri,Uri,Uri,4
 1217,UR,Sisikon,Sisikon,Sisikon,Sisikon UR,Sisikon (UR),Sisikon UR,Uri,Uri,Uri,4
@@ -609,7 +609,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 1321,SZ,Feusisberg,Feusisberg,Feusisberg,Feusisberg SZ,Feusisberg (SZ),Feusisberg SZ,Schwyz,Schwyz,Svitto,5
 1322,SZ,Freienbach,Freienbach,Freienbach,Freienbach SZ,Freienbach (SZ),Freienbach SZ,Schwyz,Schwyz,Svitto,5
 1323,SZ,Wollerau,Wollerau,Wollerau,Wollerau SZ,Wollerau (SZ),Wollerau SZ,Schwyz,Schwyz,Svitto,5
-1331,SZ,Küssnacht SZ,Küssnacht (SZ),Küssnacht SZ,Küssnacht SZ,Küssnacht (SZ),Küssnacht SZ SZ,Schwyz,Schwyz,Svitto,5
+1331,SZ,Küssnacht SZ,Küssnacht (SZ),Küssnacht SZ,Küssnacht SZ,Küssnacht (SZ),Küssnacht SZ,Schwyz,Schwyz,Svitto,5
 1341,SZ,Altendorf,Altendorf,Altendorf,Altendorf SZ,Altendorf (SZ),Altendorf SZ,Schwyz,Schwyz,Svitto,5
 1342,SZ,Galgenen,Galgenen,Galgenen,Galgenen SZ,Galgenen (SZ),Galgenen SZ,Schwyz,Schwyz,Svitto,5
 1343,SZ,Innerthal,Innerthal,Innerthal,Innerthal SZ,Innerthal (SZ),Innerthal SZ,Schwyz,Schwyz,Svitto,5
@@ -618,7 +618,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 1346,SZ,Schübelbach,Schübelbach,Schübelbach,Schübelbach SZ,Schübelbach (SZ),Schübelbach SZ,Schwyz,Schwyz,Svitto,5
 1347,SZ,Tuggen,Tuggen,Tuggen,Tuggen SZ,Tuggen (SZ),Tuggen SZ,Schwyz,Schwyz,Svitto,5
 1348,SZ,Vorderthal,Vorderthal,Vorderthal,Vorderthal SZ,Vorderthal (SZ),Vorderthal SZ,Schwyz,Schwyz,Svitto,5
-1349,SZ,Wangen SZ,Wangen (SZ),Wangen SZ,Wangen SZ,Wangen (SZ),Wangen SZ SZ,Schwyz,Schwyz,Svitto,5
+1349,SZ,Wangen SZ,Wangen (SZ),Wangen SZ,Wangen SZ,Wangen (SZ),Wangen SZ,Schwyz,Schwyz,Svitto,5
 1361,SZ,Alpthal,Alpthal,Alpthal,Alpthal SZ,Alpthal (SZ),Alpthal SZ,Schwyz,Schwyz,Svitto,5
 1362,SZ,Arth,Arth,Arth,Arth SZ,Arth (SZ),Arth SZ,Schwyz,Schwyz,Svitto,5
 1363,SZ,Illgau,Illgau,Illgau,Illgau SZ,Illgau (SZ),Illgau SZ,Schwyz,Schwyz,Svitto,5
@@ -647,8 +647,8 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 1504,NW,Emmetten,Emmetten,Emmetten,Emmetten NW,Emmetten (NW),Emmetten NW,Nidwalden,Nidwald,Nidvaldo,7
 1505,NW,Ennetbürgen,Ennetbürgen,Ennetbürgen,Ennetbürgen NW,Ennetbürgen (NW),Ennetbürgen NW,Nidwalden,Nidwald,Nidvaldo,7
 1506,NW,Ennetmoos,Ennetmoos,Ennetmoos,Ennetmoos NW,Ennetmoos (NW),Ennetmoos NW,Nidwalden,Nidwald,Nidvaldo,7
-1507,NW,Hergiswil NW,Hergiswil (NW),Hergiswil NW,Hergiswil NW,Hergiswil (NW),Hergiswil NW NW,Nidwalden,Nidwald,Nidvaldo,7
-1508,NW,Oberdorf NW,Oberdorf (NW),Oberdorf NW,Oberdorf NW,Oberdorf (NW),Oberdorf NW NW,Nidwalden,Nidwald,Nidvaldo,7
+1507,NW,Hergiswil NW,Hergiswil (NW),Hergiswil NW,Hergiswil NW,Hergiswil (NW),Hergiswil NW,Nidwalden,Nidwald,Nidvaldo,7
+1508,NW,Oberdorf NW,Oberdorf (NW),Oberdorf NW,Oberdorf NW,Oberdorf (NW),Oberdorf NW,Nidwalden,Nidwald,Nidvaldo,7
 1509,NW,Stans,Stans,Stans,Stans NW,Stans (NW),Stans NW,Nidwalden,Nidwald,Nidvaldo,7
 1510,NW,Stansstad,Stansstad,Stansstad,Stansstad NW,Stansstad (NW),Stansstad NW,Nidwalden,Nidwald,Nidvaldo,7
 1511,NW,Wolfenschiessen,Wolfenschiessen,Wolfenschiessen,Wolfenschiessen NW,Wolfenschiessen (NW),Wolfenschiessen NW,Nidwalden,Nidwald,Nidvaldo,7
@@ -666,17 +666,17 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 1709,ZG,Unterägeri,Unterägeri,Unterägeri,Unterägeri ZG,Unterägeri (ZG),Unterägeri ZG,Zug,Zoug,Zugo,9
 1710,ZG,Walchwil,Walchwil,Walchwil,Walchwil ZG,Walchwil (ZG),Walchwil ZG,Zug,Zoug,Zugo,9
 1711,ZG,Zug,Zoug,Zugo,Zug ZG,Zoug (ZG),Zugo ZG,Zug,Zoug,Zugo,9
-2008,FR,Châtillon FR,Châtillon (FR),Châtillon FR,Châtillon FR,Châtillon (FR),Châtillon FR FR,Freiburg,Fribourg,Friburgo,10
+2008,FR,Châtillon FR,Châtillon (FR),Châtillon FR,Châtillon FR,Châtillon (FR),Châtillon FR,Freiburg,Fribourg,Friburgo,10
 2009,FR,Cheiry,Cheiry,Cheiry,Cheiry FR,Cheiry (FR),Cheiry FR,Freiburg,Fribourg,Friburgo,10
-2011,FR,Cugy FR,Cugy (FR),Cugy FR,Cugy FR,Cugy (FR),Cugy FR FR,Freiburg,Fribourg,Friburgo,10
+2011,FR,Cugy FR,Cugy (FR),Cugy FR,Cugy FR,Cugy (FR),Cugy FR,Freiburg,Fribourg,Friburgo,10
 2016,FR,Fétigny,Fétigny,Fétigny,Fétigny FR,Fétigny (FR),Fétigny FR,Freiburg,Fribourg,Friburgo,10
 2022,FR,Gletterens,Gletterens,Gletterens,Gletterens FR,Gletterens (FR),Gletterens FR,Freiburg,Fribourg,Friburgo,10
-2025,FR,Lully FR,Lully (FR),Lully FR,Lully FR,Lully (FR),Lully FR FR,Freiburg,Fribourg,Friburgo,10
+2025,FR,Lully FR,Lully (FR),Lully FR,Lully FR,Lully (FR),Lully FR,Freiburg,Fribourg,Friburgo,10
 2027,FR,Ménières,Ménières,Ménières,Ménières FR,Ménières (FR),Ménières FR,Freiburg,Fribourg,Friburgo,10
-2029,FR,Montagny FR,Montagny (FR),Montagny FR,Montagny FR,Montagny (FR),Montagny FR FR,Freiburg,Fribourg,Friburgo,10
+2029,FR,Montagny FR,Montagny (FR),Montagny FR,Montagny FR,Montagny (FR),Montagny FR,Freiburg,Fribourg,Friburgo,10
 2035,FR,Nuvilly,Nuvilly,Nuvilly,Nuvilly FR,Nuvilly (FR),Nuvilly FR,Freiburg,Fribourg,Friburgo,10
 2038,FR,Prévondavaux,Prévondavaux,Prévondavaux,Prévondavaux FR,Prévondavaux (FR),Prévondavaux FR,Freiburg,Fribourg,Friburgo,10
-2041,FR,Saint-Aubin FR,Saint-Aubin (FR),Saint-Aubin FR,Saint-Aubin FR,Saint-Aubin (FR),Saint-Aubin FR FR,Freiburg,Fribourg,Friburgo,10
+2041,FR,Saint-Aubin FR,Saint-Aubin (FR),Saint-Aubin FR,Saint-Aubin FR,Saint-Aubin (FR),Saint-Aubin FR,Freiburg,Fribourg,Friburgo,10
 2043,FR,Sévaz,Sévaz,Sévaz,Sévaz FR,Sévaz (FR),Sévaz FR,Freiburg,Fribourg,Friburgo,10
 2044,FR,Surpierre,Surpierre,Surpierre,Surpierre FR,Surpierre (FR),Surpierre FR,Freiburg,Fribourg,Friburgo,10
 2045,FR,Vallon,Vallon,Vallon,Vallon FR,Vallon (FR),Vallon FR,Freiburg,Fribourg,Friburgo,10
@@ -690,12 +690,12 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 2066,FR,Chapelle (Glâne),Chapelle (Glâne),Chapelle (Glâne),Chapelle (Glâne) FR,Chapelle (Glâne) (FR),Chapelle (Glâne) FR,Freiburg,Fribourg,Friburgo,10
 2067,FR,Le Châtelard,Le Châtelard,Le Châtelard,Le Châtelard FR,Le Châtelard (FR),Le Châtelard FR,Freiburg,Fribourg,Friburgo,10
 2068,FR,Châtonnaye,Châtonnaye,Châtonnaye,Châtonnaye FR,Châtonnaye (FR),Châtonnaye FR,Freiburg,Fribourg,Friburgo,10
-2072,FR,Ecublens FR,Ecublens (FR),Ecublens FR,Ecublens FR,Ecublens (FR),Ecublens FR FR,Freiburg,Fribourg,Friburgo,10
+2072,FR,Ecublens FR,Ecublens (FR),Ecublens FR,Ecublens FR,Ecublens (FR),Ecublens FR,Freiburg,Fribourg,Friburgo,10
 2079,FR,Grangettes,Grangettes,Grangettes,Grangettes FR,Grangettes (FR),Grangettes FR,Freiburg,Fribourg,Friburgo,10
 2086,FR,Massonnens,Massonnens,Massonnens,Massonnens FR,Massonnens (FR),Massonnens FR,Freiburg,Fribourg,Friburgo,10
-2087,FR,Mézières FR,Mézières (FR),Mézières FR,Mézières FR,Mézières (FR),Mézières FR FR,Freiburg,Fribourg,Friburgo,10
+2087,FR,Mézières FR,Mézières (FR),Mézières FR,Mézières FR,Mézières (FR),Mézières FR,Freiburg,Fribourg,Friburgo,10
 2089,FR,Montet (Glâne),Montet (Glâne),Montet (Glâne),Montet (Glâne) FR,Montet (Glâne) (FR),Montet (Glâne) FR,Freiburg,Fribourg,Friburgo,10
-2096,FR,Romont FR,Romont (FR),Romont FR,Romont FR,Romont (FR),Romont FR FR,Freiburg,Fribourg,Friburgo,10
+2096,FR,Romont FR,Romont (FR),Romont FR,Romont FR,Romont (FR),Romont FR,Freiburg,Fribourg,Friburgo,10
 2097,FR,Rue,Rue,Rue,Rue FR,Rue (FR),Rue FR,Freiburg,Fribourg,Friburgo,10
 2099,FR,Siviriez,Siviriez,Siviriez,Siviriez FR,Siviriez (FR),Siviriez FR,Freiburg,Fribourg,Friburgo,10
 2102,FR,Ursy,Ursy,Ursy,Ursy FR,Ursy (FR),Ursy FR,Freiburg,Fribourg,Friburgo,10
@@ -718,7 +718,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 2138,FR,Jaun,Bellegarde,Jaun,Jaun FR,Bellegarde (FR),Jaun FR,Freiburg,Fribourg,Friburgo,10
 2140,FR,Marsens,Marsens,Marsens,Marsens FR,Marsens (FR),Marsens FR,Freiburg,Fribourg,Friburgo,10
 2143,FR,Morlon,Morlon,Morlon,Morlon FR,Morlon (FR),Morlon FR,Freiburg,Fribourg,Friburgo,10
-2145,FR,Le Pâquier FR,Le Pâquier (FR),Le Pâquier FR,Le Pâquier FR,Le Pâquier (FR),Le Pâquier FR FR,Freiburg,Fribourg,Friburgo,10
+2145,FR,Le Pâquier FR,Le Pâquier (FR),Le Pâquier FR,Le Pâquier FR,Le Pâquier (FR),Le Pâquier FR,Freiburg,Fribourg,Friburgo,10
 2147,FR,Pont-la-Ville,Pont-la-Ville,Pont-la-Ville,Pont-la-Ville FR,Pont-la-Ville (FR),Pont-la-Ville FR,Freiburg,Fribourg,Friburgo,10
 2148,FR,Riaz,Riaz,Riaz,Riaz FR,Riaz (FR),Riaz FR,Freiburg,Fribourg,Friburgo,10
 2149,FR,La Roche,La Roche,La Roche,La Roche FR,La Roche (FR),La Roche FR,Freiburg,Fribourg,Friburgo,10
@@ -734,8 +734,8 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 2175,FR,Belfaux,Belfaux,Belfaux,Belfaux FR,Belfaux (FR),Belfaux FR,Freiburg,Fribourg,Friburgo,10
 2177,FR,Chénens,Chénens,Chénens,Chénens FR,Chénens (FR),Chénens FR,Freiburg,Fribourg,Friburgo,10
 2183,FR,Corminboeuf,Corminboeuf,Corminboeuf,Corminboeuf FR,Corminboeuf (FR),Corminboeuf FR,Freiburg,Fribourg,Friburgo,10
-2186,FR,Cottens FR,Cottens (FR),Cottens FR,Cottens FR,Cottens (FR),Cottens FR FR,Freiburg,Fribourg,Friburgo,10
-2189,FR,Ependes FR,Ependes (FR),Ependes FR,Ependes FR,Ependes (FR),Ependes FR FR,Freiburg,Fribourg,Friburgo,10
+2186,FR,Cottens FR,Cottens (FR),Cottens FR,Cottens FR,Cottens (FR),Cottens FR,Freiburg,Fribourg,Friburgo,10
+2189,FR,Ependes FR,Ependes (FR),Ependes FR,Ependes FR,Ependes (FR),Ependes FR,Freiburg,Fribourg,Friburgo,10
 2194,FR,Ferpicloz,Ferpicloz,Ferpicloz,Ferpicloz FR,Ferpicloz (FR),Ferpicloz FR,Freiburg,Fribourg,Friburgo,10
 2196,FR,Freiburg,Fribourg,Friburgo,Freiburg FR,Fribourg (FR),Friburgo FR,Freiburg,Fribourg,Friburgo,10
 2197,FR,Givisiez,Givisiez,Givisiez,Givisiez FR,Givisiez (FR),Givisiez FR,Freiburg,Fribourg,Friburgo,10
@@ -743,7 +743,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 2200,FR,Grolley,Grolley,Grolley,Grolley FR,Grolley (FR),Grolley FR,Freiburg,Fribourg,Friburgo,10
 2206,FR,Marly,Marly,Marly,Marly FR,Marly (FR),Marly FR,Freiburg,Fribourg,Friburgo,10
 2208,FR,Matran,Matran,Matran,Matran FR,Matran (FR),Matran FR,Freiburg,Fribourg,Friburgo,10
-2211,FR,Neyruz FR,Neyruz (FR),Neyruz FR,Neyruz FR,Neyruz (FR),Neyruz FR FR,Freiburg,Fribourg,Friburgo,10
+2211,FR,Neyruz FR,Neyruz (FR),Neyruz FR,Neyruz FR,Neyruz (FR),Neyruz FR,Freiburg,Fribourg,Friburgo,10
 2216,FR,Pierrafortscha,Pierrafortscha,Pierrafortscha,Pierrafortscha FR,Pierrafortscha (FR),Pierrafortscha FR,Freiburg,Fribourg,Friburgo,10
 2217,FR,Ponthaux,Ponthaux,Ponthaux,Ponthaux FR,Ponthaux (FR),Ponthaux FR,Freiburg,Fribourg,Friburgo,10
 2220,FR,Le Mouret,Le Mouret,Le Mouret,Le Mouret FR,Le Mouret (FR),Le Mouret FR,Freiburg,Fribourg,Friburgo,10
@@ -751,14 +751,15 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 2226,FR,Treyvaux,Treyvaux,Treyvaux,Treyvaux FR,Treyvaux (FR),Treyvaux FR,Freiburg,Fribourg,Friburgo,10
 2228,FR,Villars-sur-Glâne,Villars-sur-Glâne,Villars-sur-Glâne,Villars-sur-Glâne FR,Villars-sur-Glâne (FR),Villars-sur-Glâne FR,Freiburg,Fribourg,Friburgo,10
 2230,FR,Villarsel-sur-Marly,Villarsel-sur-Marly,Villarsel-sur-Marly,Villarsel-sur-Marly FR,Villarsel-sur-Marly (FR),Villarsel-sur-Marly FR,Freiburg,Fribourg,Friburgo,10
-2233,FR,Hauterive FR,Hauterive (FR),Hauterive FR,Hauterive FR,Hauterive (FR),Hauterive FR FR,Freiburg,Fribourg,Friburgo,10
+2233,FR,Hauterive FR,Hauterive (FR),Hauterive FR,Hauterive FR,Hauterive (FR),Hauterive FR,Freiburg,Fribourg,Friburgo,10
 2234,FR,La Brillaz,La Brillaz,La Brillaz,La Brillaz FR,La Brillaz (FR),La Brillaz FR,Freiburg,Fribourg,Friburgo,10
 2235,FR,La Sonnaz,La Sonnaz,La Sonnaz,La Sonnaz FR,La Sonnaz (FR),La Sonnaz FR,Freiburg,Fribourg,Friburgo,10
 2236,FR,Gibloux,Gibloux,Gibloux,Gibloux FR,Gibloux (FR),Gibloux FR,Freiburg,Fribourg,Friburgo,10
 2237,FR,Prez,Prez,Prez,Prez FR,Prez (FR),Prez FR,Freiburg,Fribourg,Friburgo,10
+2238,FR,Bois-d'Amont,Bois-d'Amont,Bois-d'Amont,Bois-d'Amont FR,Bois-d'Amont (FR),Bois-d'Amont FR,Freiburg,Fribourg,Friburgo,10
 2250,FR,Gurwolf,Courgevaux,Gurwolf,Gurwolf FR,Courgevaux (FR),Gurwolf FR,Freiburg,Fribourg,Friburgo,10
 2254,FR,Courtepin,Courtepin,Courtepin,Courtepin FR,Courtepin (FR),Courtepin FR,Freiburg,Fribourg,Friburgo,10
-2257,FR,Cressier FR,Cressier (FR),Cressier FR,Cressier FR,Cressier (FR),Cressier FR FR,Freiburg,Fribourg,Friburgo,10
+2257,FR,Cressier FR,Cressier (FR),Cressier FR,Cressier FR,Cressier (FR),Cressier FR,Freiburg,Fribourg,Friburgo,10
 2258,FR,Fräschels,Fräschels,Fräschels,Fräschels FR,Fräschels (FR),Fräschels FR,Freiburg,Fribourg,Friburgo,10
 2259,FR,Galmiz,Galmiz,Galmiz,Galmiz FR,Galmiz (FR),Galmiz FR,Freiburg,Fribourg,Friburgo,10
 2260,FR,Gempenach,Champagny,Gempenach,Gempenach FR,Champagny (FR),Gempenach FR,Freiburg,Fribourg,Friburgo,10
@@ -785,7 +786,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 2302,FR,St. Antoni,Saint-Antoine,St. Antoni,St. Antoni FR,Saint-Antoine (FR),St. Antoni FR,Freiburg,Fribourg,Friburgo,10
 2303,FR,St. Silvester,Saint-Silvestre,St. Silvester,St. Silvester FR,Saint-Silvestre (FR),St. Silvester FR,Freiburg,Fribourg,Friburgo,10
 2304,FR,St. Ursen,Saint-Ours,St. Ursen,St. Ursen FR,Saint-Ours (FR),St. Ursen FR,Freiburg,Fribourg,Friburgo,10
-2305,FR,Schmitten FR,Schmitten (FR),Schmitten FR,Schmitten FR,Schmitten (FR),Schmitten FR FR,Freiburg,Fribourg,Friburgo,10
+2305,FR,Schmitten FR,Schmitten (FR),Schmitten FR,Schmitten FR,Schmitten (FR),Schmitten FR,Freiburg,Fribourg,Friburgo,10
 2306,FR,Tafers,Tavel,Tafers,Tafers FR,Tavel (FR),Tafers FR,Freiburg,Fribourg,Friburgo,10
 2307,FR,Tentlingen,Tinterin,Tentlingen,Tentlingen FR,Tinterin (FR),Tentlingen FR,Freiburg,Fribourg,Friburgo,10
 2308,FR,Ueberstorf,Ueberstorf,Ueberstorf,Ueberstorf FR,Ueberstorf (FR),Ueberstorf FR,Freiburg,Fribourg,Friburgo,10
@@ -795,7 +796,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 2325,FR,Châtel-Saint-Denis,Châtel-Saint-Denis,Châtel-Saint-Denis,Châtel-Saint-Denis FR,Châtel-Saint-Denis (FR),Châtel-Saint-Denis FR,Freiburg,Fribourg,Friburgo,10
 2328,FR,Granges (Veveyse),Granges (Veveyse),Granges (Veveyse),Granges (Veveyse) FR,Granges (Veveyse) (FR),Granges (Veveyse) FR,Freiburg,Fribourg,Friburgo,10
 2333,FR,Remaufens,Remaufens,Remaufens,Remaufens FR,Remaufens (FR),Remaufens FR,Freiburg,Fribourg,Friburgo,10
-2335,FR,Saint-Martin FR,Saint-Martin (FR),Saint-Martin FR,Saint-Martin FR,Saint-Martin (FR),Saint-Martin FR FR,Freiburg,Fribourg,Friburgo,10
+2335,FR,Saint-Martin FR,Saint-Martin (FR),Saint-Martin FR,Saint-Martin FR,Saint-Martin (FR),Saint-Martin FR,Freiburg,Fribourg,Friburgo,10
 2336,FR,Semsales,Semsales,Semsales,Semsales FR,Semsales (FR),Semsales FR,Freiburg,Fribourg,Friburgo,10
 2337,FR,Le Flon,Le Flon,Le Flon,Le Flon FR,Le Flon (FR),Le Flon FR,Freiburg,Fribourg,Friburgo,10
 2338,FR,La Verrerie,La Verrerie,La Verrerie,La Verrerie FR,La Verrerie (FR),La Verrerie FR,Freiburg,Fribourg,Friburgo,10
@@ -811,11 +812,12 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 2422,SO,Balsthal,Balsthal,Balsthal,Balsthal SO,Balsthal (SO),Balsthal SO,Solothurn,Soleure,Soletta,11
 2423,SO,Gänsbrunnen,Gänsbrunnen,Gänsbrunnen,Gänsbrunnen SO,Gänsbrunnen (SO),Gänsbrunnen SO,Solothurn,Soleure,Soletta,11
 2424,SO,Herbetswil,Herbetswil,Herbetswil,Herbetswil SO,Herbetswil (SO),Herbetswil SO,Solothurn,Soleure,Soletta,11
-2425,SO,Holderbank SO,Holderbank (SO),Holderbank SO,Holderbank SO,Holderbank (SO),Holderbank SO SO,Solothurn,Soleure,Soletta,11
+2425,SO,Holderbank SO,Holderbank (SO),Holderbank SO,Holderbank SO,Holderbank (SO),Holderbank SO,Solothurn,Soleure,Soletta,11
 2426,SO,Laupersdorf,Laupersdorf,Laupersdorf,Laupersdorf SO,Laupersdorf (SO),Laupersdorf SO,Solothurn,Soleure,Soletta,11
 2427,SO,Matzendorf,Matzendorf,Matzendorf,Matzendorf SO,Matzendorf (SO),Matzendorf SO,Solothurn,Soleure,Soletta,11
 2428,SO,Mümliswil-Ramiswil,Mümliswil-Ramiswil,Mümliswil-Ramiswil,Mümliswil-Ramiswil SO,Mümliswil-Ramiswil (SO),Mümliswil-Ramiswil SO,Solothurn,Soleure,Soletta,11
 2429,SO,Welschenrohr,Welschenrohr,Welschenrohr,Welschenrohr SO,Welschenrohr (SO),Welschenrohr SO,Solothurn,Soleure,Soletta,11
+2430,SO,Welschenrohr-Gänsbrunnen,Welschenrohr-Gänsbrunnen,Welschenrohr-Gänsbrunnen,Welschenrohr-Gänsbrunnen SO,Welschenrohr-Gänsbrunnen (SO),Welschenrohr-Gänsbrunnen (SO),Solothurn,Soleure,Soletta,11
 2445,SO,Biezwil,Biezwil,Biezwil,Biezwil SO,Biezwil (SO),Biezwil SO,Solothurn,Soleure,Soletta,11
 2455,SO,Lüterkofen-Ichertswil,Lüterkofen-Ichertswil,Lüterkofen-Ichertswil,Lüterkofen-Ichertswil SO,Lüterkofen-Ichertswil (SO),Lüterkofen-Ichertswil SO,Solothurn,Soleure,Soletta,11
 2456,SO,Lüterswil-Gächliwil,Lüterswil-Gächliwil,Lüterswil-Gächliwil,Lüterswil-Gächliwil SO,Lüterswil-Gächliwil (SO),Lüterswil-Gächliwil SO,Solothurn,Soleure,Soletta,11
@@ -825,7 +827,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 2464,SO,Lüsslingen-Nennigkofen,Lüsslingen-Nennigkofen,Lüsslingen-Nennigkofen,Lüsslingen-Nennigkofen SO,Lüsslingen-Nennigkofen (SO),Lüsslingen-Nennigkofen SO,Solothurn,Soleure,Soletta,11
 2465,SO,Buchegg,Buchegg,Buchegg,Buchegg SO,Buchegg (SO),Buchegg SO,Solothurn,Soleure,Soletta,11
 2471,SO,Bättwil,Bättwil,Bättwil,Bättwil SO,Bättwil (SO),Bättwil SO,Solothurn,Soleure,Soletta,11
-2472,SO,Büren SO,Büren (SO),Büren SO,Büren SO,Büren (SO),Büren SO SO,Solothurn,Soleure,Soletta,11
+2472,SO,Büren SO,Büren (SO),Büren SO,Büren SO,Büren (SO),Büren SO,Solothurn,Soleure,Soletta,11
 2473,SO,Dornach,Dornach,Dornach,Dornach SO,Dornach (SO),Dornach SO,Solothurn,Soleure,Soletta,11
 2474,SO,Gempen,Gempen,Gempen,Gempen SO,Gempen (SO),Gempen SO,Solothurn,Soleure,Soletta,11
 2475,SO,Hochwald,Hochwald,Hochwald,Hochwald SO,Hochwald (SO),Hochwald SO,Solothurn,Soleure,Soletta,11
@@ -840,13 +842,13 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 2493,SO,Lostorf,Lostorf,Lostorf,Lostorf SO,Lostorf (SO),Lostorf SO,Solothurn,Soleure,Soletta,11
 2495,SO,Niedergösgen,Niedergösgen,Niedergösgen,Niedergösgen SO,Niedergösgen (SO),Niedergösgen SO,Solothurn,Soleure,Soletta,11
 2497,SO,Obergösgen,Obergösgen,Obergösgen,Obergösgen SO,Obergösgen (SO),Obergösgen SO,Solothurn,Soleure,Soletta,11
-2498,SO,Rohr SO,Rohr (SO),Rohr SO,Rohr SO,Rohr (SO),Rohr SO SO,Solothurn,Soleure,Soletta,11
+2498,SO,Rohr SO,Rohr (SO),Rohr SO,Rohr SO,Rohr (SO),Rohr SO,Solothurn,Soleure,Soletta,11
 2499,SO,Stüsslingen,Stüsslingen,Stüsslingen,Stüsslingen SO,Stüsslingen (SO),Stüsslingen SO,Solothurn,Soleure,Soletta,11
 2500,SO,Trimbach,Trimbach,Trimbach,Trimbach SO,Trimbach (SO),Trimbach SO,Solothurn,Soleure,Soletta,11
 2501,SO,Winznau,Winznau,Winznau,Winznau SO,Winznau (SO),Winznau SO,Solothurn,Soleure,Soletta,11
-2502,SO,Wisen SO,Wisen (SO),Wisen SO,Wisen SO,Wisen (SO),Wisen SO SO,Solothurn,Soleure,Soletta,11
-2503,SO,Erlinsbach SO,Erlinsbach (SO),Erlinsbach SO,Erlinsbach SO,Erlinsbach (SO),Erlinsbach SO SO,Solothurn,Soleure,Soletta,11
-2511,SO,Aeschi SO,Aeschi (SO),Aeschi SO,Aeschi SO,Aeschi (SO),Aeschi SO SO,Solothurn,Soleure,Soletta,11
+2502,SO,Wisen SO,Wisen (SO),Wisen SO,Wisen SO,Wisen (SO),Wisen SO,Solothurn,Soleure,Soletta,11
+2503,SO,Erlinsbach SO,Erlinsbach (SO),Erlinsbach SO,Erlinsbach SO,Erlinsbach (SO),Erlinsbach SO,Solothurn,Soleure,Soletta,11
+2511,SO,Aeschi SO,Aeschi (SO),Aeschi SO,Aeschi SO,Aeschi (SO),Aeschi SO,Solothurn,Soleure,Soletta,11
 2513,SO,Biberist,Biberist,Biberist,Biberist SO,Biberist (SO),Biberist SO,Solothurn,Soleure,Soletta,11
 2514,SO,Bolken,Bolken,Bolken,Bolken SO,Bolken (SO),Bolken SO,Solothurn,Soleure,Soletta,11
 2516,SO,Deitingen,Deitingen,Deitingen,Deitingen SO,Deitingen (SO),Deitingen SO,Solothurn,Soleure,Soletta,11
@@ -876,7 +878,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 2549,SO,Kammersrohr,Kammersrohr,Kammersrohr,Kammersrohr SO,Kammersrohr (SO),Kammersrohr SO,Solothurn,Soleure,Soletta,11
 2550,SO,Langendorf,Langendorf,Langendorf,Langendorf SO,Langendorf (SO),Langendorf SO,Solothurn,Soleure,Soletta,11
 2551,SO,Lommiswil,Lommiswil,Lommiswil,Lommiswil SO,Lommiswil (SO),Lommiswil SO,Solothurn,Soleure,Soletta,11
-2553,SO,Oberdorf SO,Oberdorf (SO),Oberdorf SO,Oberdorf SO,Oberdorf (SO),Oberdorf SO SO,Solothurn,Soleure,Soletta,11
+2553,SO,Oberdorf SO,Oberdorf (SO),Oberdorf SO,Oberdorf SO,Oberdorf (SO),Oberdorf SO,Solothurn,Soleure,Soletta,11
 2554,SO,Riedholz,Riedholz,Riedholz,Riedholz SO,Riedholz (SO),Riedholz SO,Solothurn,Soleure,Soletta,11
 2555,SO,Rüttenen,Rüttenen,Rüttenen,Rüttenen SO,Rüttenen (SO),Rüttenen SO,Solothurn,Soleure,Soletta,11
 2556,SO,Selzach,Selzach,Selzach,Selzach SO,Selzach (SO),Selzach SO,Solothurn,Soleure,Soletta,11
@@ -888,16 +890,16 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 2576,SO,Gretzenbach,Gretzenbach,Gretzenbach,Gretzenbach SO,Gretzenbach (SO),Gretzenbach SO,Solothurn,Soleure,Soletta,11
 2578,SO,Gunzgen,Gunzgen,Gunzgen,Gunzgen SO,Gunzgen (SO),Gunzgen SO,Solothurn,Soleure,Soletta,11
 2579,SO,Hägendorf,Hägendorf,Hägendorf,Hägendorf SO,Hägendorf (SO),Hägendorf SO,Solothurn,Soleure,Soletta,11
-2580,SO,Kappel SO,Kappel (SO),Kappel SO,Kappel SO,Kappel (SO),Kappel SO SO,Solothurn,Soleure,Soletta,11
+2580,SO,Kappel SO,Kappel (SO),Kappel SO,Kappel SO,Kappel (SO),Kappel SO,Solothurn,Soleure,Soletta,11
 2581,SO,Olten,Olten,Olten,Olten SO,Olten (SO),Olten SO,Solothurn,Soleure,Soletta,11
-2582,SO,Rickenbach SO,Rickenbach (SO),Rickenbach SO,Rickenbach SO,Rickenbach (SO),Rickenbach SO SO,Solothurn,Soleure,Soletta,11
+2582,SO,Rickenbach SO,Rickenbach (SO),Rickenbach SO,Rickenbach SO,Rickenbach (SO),Rickenbach SO,Solothurn,Soleure,Soletta,11
 2583,SO,Schönenwerd,Schönenwerd,Schönenwerd,Schönenwerd SO,Schönenwerd (SO),Schönenwerd SO,Solothurn,Soleure,Soletta,11
 2584,SO,Starrkirch-Wil,Starrkirch-Wil,Starrkirch-Wil,Starrkirch-Wil SO,Starrkirch-Wil (SO),Starrkirch-Wil SO,Solothurn,Soleure,Soletta,11
-2585,SO,Walterswil SO,Walterswil (SO),Walterswil SO,Walterswil SO,Walterswil (SO),Walterswil SO SO,Solothurn,Soleure,Soletta,11
+2585,SO,Walterswil SO,Walterswil (SO),Walterswil SO,Walterswil SO,Walterswil (SO),Walterswil SO,Solothurn,Soleure,Soletta,11
 2586,SO,Wangen bei Olten,Wangen bei Olten,Wangen bei Olten,Wangen bei Olten SO,Wangen bei Olten (SO),Wangen bei Olten SO,Solothurn,Soleure,Soletta,11
 2601,SO,Solothurn,Soleure,Soletta,Solothurn SO,Soleure (SO),Soletta SO,Solothurn,Soleure,Soletta,11
 2611,SO,Bärschwil,Bärschwil,Bärschwil,Bärschwil SO,Bärschwil (SO),Bärschwil SO,Solothurn,Soleure,Soletta,11
-2612,SO,Beinwil SO,Beinwil (SO),Beinwil SO,Beinwil SO,Beinwil (SO),Beinwil SO SO,Solothurn,Soleure,Soletta,11
+2612,SO,Beinwil SO,Beinwil (SO),Beinwil SO,Beinwil SO,Beinwil (SO),Beinwil SO,Solothurn,Soleure,Soletta,11
 2613,SO,Breitenbach,Breitenbach,Breitenbach,Breitenbach SO,Breitenbach (SO),Breitenbach SO,Solothurn,Soleure,Soletta,11
 2614,SO,Büsserach,Büsserach,Büsserach,Büsserach SO,Büsserach (SO),Büsserach SO,Solothurn,Soleure,Soletta,11
 2615,SO,Erschwil,Erschwil,Erschwil,Erschwil SO,Erschwil (SO),Erschwil SO,Solothurn,Soleure,Soletta,11
@@ -911,7 +913,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 2701,BS,Basel,Bâle,Basilea,Basel BS,Bâle (BS),Basilea BS,Basel-Stadt,Bâle-Ville,Basilea Città,12
 2702,BS,Bettingen,Bettingen,Bettingen,Bettingen BS,Bettingen (BS),Bettingen BS,Basel-Stadt,Bâle-Ville,Basilea Città,12
 2703,BS,Riehen,Riehen,Riehen,Riehen BS,Riehen (BS),Riehen BS,Basel-Stadt,Bâle-Ville,Basilea Città,12
-2761,BL,Aesch BL,Aesch (BL),Aesch BL,Aesch BL,Aesch (BL),Aesch BL BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
+2761,BL,Aesch BL,Aesch (BL),Aesch BL,Aesch BL,Aesch (BL),Aesch BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2762,BL,Allschwil,Allschwil,Allschwil,Allschwil BL,Allschwil (BL),Allschwil BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2763,BL,Arlesheim,Arlesheim,Arlesheim,Arlesheim BL,Arlesheim (BL),Arlesheim BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2764,BL,Biel-Benken,Biel-Benken,Biel-Benken,Biel-Benken BL,Biel-Benken (BL),Biel-Benken BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
@@ -921,9 +923,9 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 2768,BL,Ettingen,Ettingen,Ettingen,Ettingen BL,Ettingen (BL),Ettingen BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2769,BL,Münchenstein,Münchenstein,Münchenstein,Münchenstein BL,Münchenstein (BL),Münchenstein BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2770,BL,Muttenz,Muttenz,Muttenz,Muttenz BL,Muttenz (BL),Muttenz BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
-2771,BL,Oberwil BL,Oberwil (BL),Oberwil BL,Oberwil BL,Oberwil (BL),Oberwil BL BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
+2771,BL,Oberwil BL,Oberwil (BL),Oberwil BL,Oberwil BL,Oberwil (BL),Oberwil BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2772,BL,Pfeffingen,Pfeffingen,Pfeffingen,Pfeffingen BL,Pfeffingen (BL),Pfeffingen BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
-2773,BL,Reinach BL,Reinach (BL),Reinach BL,Reinach BL,Reinach (BL),Reinach BL BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
+2773,BL,Reinach BL,Reinach (BL),Reinach BL,Reinach BL,Reinach (BL),Reinach BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2774,BL,Schönenbuch,Schönenbuch,Schönenbuch,Schönenbuch BL,Schönenbuch (BL),Schönenbuch BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2775,BL,Therwil,Therwil,Therwil,Therwil BL,Therwil (BL),Therwil BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2781,BL,Blauen,Blauen,Blauen,Blauen BL,Blauen (BL),Blauen BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
@@ -963,13 +965,13 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 2848,BL,Hemmiken,Hemmiken,Hemmiken,Hemmiken BL,Hemmiken (BL),Hemmiken BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2849,BL,Itingen,Itingen,Itingen,Itingen BL,Itingen (BL),Itingen BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2850,BL,Känerkinden,Känerkinden,Känerkinden,Känerkinden BL,Känerkinden (BL),Känerkinden BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
-2851,BL,Kilchberg BL,Kilchberg (BL),Kilchberg BL,Kilchberg BL,Kilchberg (BL),Kilchberg BL BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
+2851,BL,Kilchberg BL,Kilchberg (BL),Kilchberg BL,Kilchberg BL,Kilchberg (BL),Kilchberg BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2852,BL,Läufelfingen,Läufelfingen,Läufelfingen,Läufelfingen BL,Läufelfingen (BL),Läufelfingen BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2853,BL,Maisprach,Maisprach,Maisprach,Maisprach BL,Maisprach (BL),Maisprach BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2854,BL,Nusshof,Nusshof,Nusshof,Nusshof BL,Nusshof (BL),Nusshof BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2855,BL,Oltingen,Oltingen,Oltingen,Oltingen BL,Oltingen (BL),Oltingen BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2856,BL,Ormalingen,Ormalingen,Ormalingen,Ormalingen BL,Ormalingen (BL),Ormalingen BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
-2857,BL,Rickenbach BL,Rickenbach (BL),Rickenbach BL,Rickenbach BL,Rickenbach (BL),Rickenbach BL BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
+2857,BL,Rickenbach BL,Rickenbach (BL),Rickenbach BL,Rickenbach BL,Rickenbach (BL),Rickenbach BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2858,BL,Rothenfluh,Rothenfluh,Rothenfluh,Rothenfluh BL,Rothenfluh (BL),Rothenfluh BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2859,BL,Rümlingen,Rümlingen,Rümlingen,Rümlingen BL,Rümlingen (BL),Rümlingen BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2860,BL,Rünenberg,Rünenberg,Rünenberg,Rünenberg BL,Rünenberg (BL),Rünenberg BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
@@ -993,7 +995,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 2889,BL,Lauwil,Lauwil,Lauwil,Lauwil BL,Lauwil (BL),Lauwil BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2890,BL,Liedertswil,Liedertswil,Liedertswil,Liedertswil BL,Liedertswil (BL),Liedertswil BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2891,BL,Niederdorf,Niederdorf,Niederdorf,Niederdorf BL,Niederdorf (BL),Niederdorf BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
-2892,BL,Oberdorf BL,Oberdorf (BL),Oberdorf BL,Oberdorf BL,Oberdorf (BL),Oberdorf BL BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
+2892,BL,Oberdorf BL,Oberdorf (BL),Oberdorf BL,Oberdorf BL,Oberdorf (BL),Oberdorf BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2893,BL,Reigoldswil,Reigoldswil,Reigoldswil,Reigoldswil BL,Reigoldswil (BL),Reigoldswil BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2894,BL,Titterten,Titterten,Titterten,Titterten BL,Titterten (BL),Titterten BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
 2895,BL,Waldenburg,Waldenburg,Waldenburg,Waldenburg BL,Waldenburg (BL),Waldenburg BL,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,13
@@ -1002,10 +1004,10 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 2904,SH,Neunkirch,Neunkirch,Neunkirch,Neunkirch SH,Neunkirch (SH),Neunkirch SH,Schaffhausen,Schaffhouse,Sciaffusa,14
 2914,SH,Büttenhardt,Büttenhardt,Büttenhardt,Büttenhardt SH,Büttenhardt (SH),Büttenhardt SH,Schaffhausen,Schaffhouse,Sciaffusa,14
 2915,SH,Dörflingen,Dörflingen,Dörflingen,Dörflingen SH,Dörflingen (SH),Dörflingen SH,Schaffhausen,Schaffhouse,Sciaffusa,14
-2917,SH,Lohn SH,Lohn (SH),Lohn SH,Lohn SH,Lohn (SH),Lohn SH SH,Schaffhausen,Schaffhouse,Sciaffusa,14
-2919,SH,Stetten SH,Stetten (SH),Stetten SH,Stetten SH,Stetten (SH),Stetten SH SH,Schaffhausen,Schaffhouse,Sciaffusa,14
+2917,SH,Lohn SH,Lohn (SH),Lohn SH,Lohn SH,Lohn (SH),Lohn SH,Schaffhausen,Schaffhouse,Sciaffusa,14
+2919,SH,Stetten SH,Stetten (SH),Stetten SH,Stetten SH,Stetten (SH),Stetten SH,Schaffhausen,Schaffhouse,Sciaffusa,14
 2920,SH,Thayngen,Thayngen,Thayngen,Thayngen SH,Thayngen (SH),Thayngen SH,Schaffhausen,Schaffhouse,Sciaffusa,14
-2931,SH,Bargen SH,Bargen (SH),Bargen SH,Bargen SH,Bargen (SH),Bargen SH SH,Schaffhausen,Schaffhouse,Sciaffusa,14
+2931,SH,Bargen SH,Bargen (SH),Bargen SH,Bargen SH,Bargen (SH),Bargen SH,Schaffhausen,Schaffhouse,Sciaffusa,14
 2932,SH,Beringen,Beringen,Beringen,Beringen SH,Beringen (SH),Beringen SH,Schaffhausen,Schaffhouse,Sciaffusa,14
 2933,SH,Buchberg,Buchberg,Buchberg,Buchberg SH,Buchberg (SH),Buchberg SH,Schaffhausen,Schaffhouse,Sciaffusa,14
 2936,SH,Merishausen,Merishausen,Merishausen,Merishausen SH,Merishausen (SH),Merishausen SH,Schaffhausen,Schaffhouse,Sciaffusa,14
@@ -1015,7 +1017,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 2951,SH,Beggingen,Beggingen,Beggingen,Beggingen SH,Beggingen (SH),Beggingen SH,Schaffhausen,Schaffhouse,Sciaffusa,14
 2952,SH,Schleitheim,Schleitheim,Schleitheim,Schleitheim SH,Schleitheim (SH),Schleitheim SH,Schaffhausen,Schaffhouse,Sciaffusa,14
 2953,SH,Siblingen,Siblingen,Siblingen,Siblingen SH,Siblingen (SH),Siblingen SH,Schaffhausen,Schaffhouse,Sciaffusa,14
-2961,SH,Buch SH,Buch (SH),Buch SH,Buch SH,Buch (SH),Buch SH SH,Schaffhausen,Schaffhouse,Sciaffusa,14
+2961,SH,Buch SH,Buch (SH),Buch SH,Buch SH,Buch (SH),Buch SH,Schaffhausen,Schaffhouse,Sciaffusa,14
 2962,SH,Hemishofen,Hemishofen,Hemishofen,Hemishofen SH,Hemishofen (SH),Hemishofen SH,Schaffhausen,Schaffhouse,Sciaffusa,14
 2963,SH,Ramsen,Ramsen,Ramsen,Ramsen SH,Ramsen (SH),Ramsen SH,Schaffhausen,Schaffhouse,Sciaffusa,14
 2964,SH,Stein am Rhein,Stein am Rhein,Stein am Rhein,Stein am Rhein SH,Stein am Rhein (SH),Stein am Rhein SH,Schaffhausen,Schaffhouse,Sciaffusa,14
@@ -1027,20 +1029,20 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 3002,AR,Hundwil,Hundwil,Hundwil,Hundwil AR,Hundwil (AR),Hundwil AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
 3003,AR,Schönengrund,Schönengrund,Schönengrund,Schönengrund AR,Schönengrund (AR),Schönengrund AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
 3004,AR,Schwellbrunn,Schwellbrunn,Schwellbrunn,Schwellbrunn AR,Schwellbrunn (AR),Schwellbrunn AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
-3005,AR,Stein AR,Stein (AR),Stein AR,Stein AR,Stein (AR),Stein AR AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
+3005,AR,Stein AR,Stein (AR),Stein AR,Stein AR,Stein (AR),Stein AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
 3006,AR,Urnäsch,Urnäsch,Urnäsch,Urnäsch AR,Urnäsch (AR),Urnäsch AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
 3007,AR,Waldstatt,Waldstatt,Waldstatt,Waldstatt AR,Waldstatt (AR),Waldstatt AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
 3021,AR,Bühler,Bühler,Bühler,Bühler AR,Bühler (AR),Bühler AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
 3022,AR,Gais,Gais,Gais,Gais AR,Gais (AR),Gais AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
 3023,AR,Speicher,Speicher,Speicher,Speicher AR,Speicher (AR),Speicher AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
-3024,AR,Teufen AR,Teufen (AR),Teufen AR,Teufen AR,Teufen (AR),Teufen AR AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
+3024,AR,Teufen AR,Teufen (AR),Teufen AR,Teufen AR,Teufen (AR),Teufen AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
 3025,AR,Trogen,Trogen,Trogen,Trogen AR,Trogen (AR),Trogen AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
-3031,AR,Grub AR,Grub (AR),Grub AR,Grub AR,Grub (AR),Grub AR AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
+3031,AR,Grub AR,Grub (AR),Grub AR,Grub AR,Grub (AR),Grub AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
 3032,AR,Heiden,Heiden,Heiden,Heiden AR,Heiden (AR),Heiden AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
 3033,AR,Lutzenberg,Lutzenberg,Lutzenberg,Lutzenberg AR,Lutzenberg (AR),Lutzenberg AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
 3034,AR,Rehetobel,Rehetobel,Rehetobel,Rehetobel AR,Rehetobel (AR),Rehetobel AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
-3035,AR,Reute AR,Reute (AR),Reute AR,Reute AR,Reute (AR),Reute AR AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
-3036,AR,Wald AR,Wald (AR),Wald AR,Wald AR,Wald (AR),Wald AR AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
+3035,AR,Reute AR,Reute (AR),Reute AR,Reute AR,Reute (AR),Reute AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
+3036,AR,Wald AR,Wald (AR),Wald AR,Wald AR,Wald (AR),Wald AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
 3037,AR,Walzenhausen,Walzenhausen,Walzenhausen,Walzenhausen AR,Walzenhausen (AR),Walzenhausen AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
 3038,AR,Wolfhalden,Wolfhalden,Wolfhalden,Wolfhalden AR,Wolfhalden (AR),Wolfhalden AR,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,15
 3101,AI,Appenzell,Appenzell,Appenzello,Appenzell AI,Appenzell (AI),Appenzello AI,Appenzell Innerrhoden,Appenzell Rhodes-Intérieures,Appenzello Interno,16
@@ -1053,7 +1055,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 3202,SG,Muolen,Muolen,Muolen,Muolen SG,Muolen (SG),Muolen SG,St. Gallen,Saint-Gall,San Gallo,17
 3203,SG,St. Gallen,Saint-Gall,San Gallo,St. Gallen SG,Saint-Gall (SG),San Gallo SG,St. Gallen,Saint-Gall,San Gallo,17
 3204,SG,Wittenbach,Wittenbach,Wittenbach,Wittenbach SG,Wittenbach (SG),Wittenbach SG,St. Gallen,Saint-Gall,San Gallo,17
-3211,SG,Berg SG,Berg (SG),Berg SG,Berg SG,Berg (SG),Berg SG SG,St. Gallen,Saint-Gall,San Gallo,17
+3211,SG,Berg SG,Berg (SG),Berg SG,Berg SG,Berg (SG),Berg SG,St. Gallen,Saint-Gall,San Gallo,17
 3212,SG,Eggersriet,Eggersriet,Eggersriet,Eggersriet SG,Eggersriet (SG),Eggersriet SG,St. Gallen,Saint-Gall,San Gallo,17
 3213,SG,Goldach,Goldach,Goldach,Goldach SG,Goldach (SG),Goldach SG,St. Gallen,Saint-Gall,San Gallo,17
 3214,SG,Mörschwil,Mörschwil,Mörschwil,Mörschwil SG,Mörschwil (SG),Mörschwil SG,St. Gallen,Saint-Gall,San Gallo,17
@@ -1062,7 +1064,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 3217,SG,Steinach,Steinach,Steinach,Steinach SG,Steinach (SG),Steinach SG,St. Gallen,Saint-Gall,San Gallo,17
 3218,SG,Tübach,Tübach,Tübach,Tübach SG,Tübach (SG),Tübach SG,St. Gallen,Saint-Gall,San Gallo,17
 3219,SG,Untereggen,Untereggen,Untereggen,Untereggen SG,Untereggen (SG),Untereggen SG,St. Gallen,Saint-Gall,San Gallo,17
-3231,SG,Au SG,Au (SG),Au SG,Au SG,Au (SG),Au SG SG,St. Gallen,Saint-Gall,San Gallo,17
+3231,SG,Au SG,Au (SG),Au SG,Au SG,Au (SG),Au SG,St. Gallen,Saint-Gall,San Gallo,17
 3232,SG,Balgach,Balgach,Balgach,Balgach SG,Balgach (SG),Balgach SG,St. Gallen,Saint-Gall,San Gallo,17
 3233,SG,Berneck,Berneck,Berneck,Berneck SG,Berneck (SG),Berneck SG,St. Gallen,Saint-Gall,San Gallo,17
 3234,SG,Diepoldsau,Diepoldsau,Diepoldsau,Diepoldsau SG,Diepoldsau (SG),Diepoldsau SG,St. Gallen,Saint-Gall,San Gallo,17
@@ -1072,11 +1074,11 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 3238,SG,Widnau,Widnau,Widnau,Widnau SG,Widnau (SG),Widnau SG,St. Gallen,Saint-Gall,San Gallo,17
 3251,SG,Altstätten,Altstätten,Altstätten,Altstätten SG,Altstätten (SG),Altstätten SG,St. Gallen,Saint-Gall,San Gallo,17
 3252,SG,Eichberg,Eichberg,Eichberg,Eichberg SG,Eichberg (SG),Eichberg SG,St. Gallen,Saint-Gall,San Gallo,17
-3253,SG,Marbach SG,Marbach (SG),Marbach SG,Marbach SG,Marbach (SG),Marbach SG SG,St. Gallen,Saint-Gall,San Gallo,17
-3254,SG,Oberriet SG,Oberriet (SG),Oberriet SG,Oberriet SG,Oberriet (SG),Oberriet SG SG,St. Gallen,Saint-Gall,San Gallo,17
+3253,SG,Marbach SG,Marbach (SG),Marbach SG,Marbach SG,Marbach (SG),Marbach SG,St. Gallen,Saint-Gall,San Gallo,17
+3254,SG,Oberriet SG,Oberriet (SG),Oberriet SG,Oberriet SG,Oberriet (SG),Oberriet SG,St. Gallen,Saint-Gall,San Gallo,17
 3255,SG,Rebstein,Rebstein,Rebstein,Rebstein SG,Rebstein (SG),Rebstein SG,St. Gallen,Saint-Gall,San Gallo,17
-3256,SG,Rüthi SG,Rüthi (SG),Rüthi SG,Rüthi SG,Rüthi (SG),Rüthi SG SG,St. Gallen,Saint-Gall,San Gallo,17
-3271,SG,Buchs SG,Buchs (SG),Buchs SG,Buchs SG,Buchs (SG),Buchs SG SG,St. Gallen,Saint-Gall,San Gallo,17
+3256,SG,Rüthi SG,Rüthi (SG),Rüthi SG,Rüthi SG,Rüthi (SG),Rüthi SG,St. Gallen,Saint-Gall,San Gallo,17
+3271,SG,Buchs SG,Buchs (SG),Buchs SG,Buchs SG,Buchs (SG),Buchs SG,St. Gallen,Saint-Gall,San Gallo,17
 3272,SG,Gams,Gams,Gams,Gams SG,Gams (SG),Gams SG,St. Gallen,Saint-Gall,San Gallo,17
 3273,SG,Grabs,Grabs,Grabs,Grabs SG,Grabs (SG),Grabs SG,St. Gallen,Saint-Gall,San Gallo,17
 3274,SG,Sennwald,Sennwald,Sennwald,Sennwald SG,Sennwald (SG),Sennwald SG,St. Gallen,Saint-Gall,San Gallo,17
@@ -1091,7 +1093,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 3297,SG,Vilters-Wangs,Vilters-Wangs,Vilters-Wangs,Vilters-Wangs SG,Vilters-Wangs (SG),Vilters-Wangs SG,St. Gallen,Saint-Gall,San Gallo,17
 3298,SG,Walenstadt,Walenstadt,Walenstadt,Walenstadt SG,Walenstadt (SG),Walenstadt SG,St. Gallen,Saint-Gall,San Gallo,17
 3311,SG,Amden,Amden,Amden,Amden SG,Amden (SG),Amden SG,St. Gallen,Saint-Gall,San Gallo,17
-3312,SG,Benken SG,Benken (SG),Benken SG,Benken SG,Benken (SG),Benken SG SG,St. Gallen,Saint-Gall,San Gallo,17
+3312,SG,Benken SG,Benken (SG),Benken SG,Benken SG,Benken (SG),Benken SG,St. Gallen,Saint-Gall,San Gallo,17
 3313,SG,Kaltbrunn,Kaltbrunn,Kaltbrunn,Kaltbrunn SG,Kaltbrunn (SG),Kaltbrunn SG,St. Gallen,Saint-Gall,San Gallo,17
 3315,SG,Schänis,Schänis,Schänis,Schänis SG,Schänis (SG),Schänis SG,St. Gallen,Saint-Gall,San Gallo,17
 3316,SG,Weesen,Weesen,Weesen,Weesen SG,Weesen (SG),Weesen SG,St. Gallen,Saint-Gall,San Gallo,17
@@ -1099,7 +1101,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 3339,SG,Uznach,Uznach,Uznach,Uznach SG,Uznach (SG),Uznach SG,St. Gallen,Saint-Gall,San Gallo,17
 3340,SG,Rapperswil-Jona,Rapperswil-Jona,Rapperswil-Jona,Rapperswil-Jona SG,Rapperswil-Jona (SG),Rapperswil-Jona SG,St. Gallen,Saint-Gall,San Gallo,17
 3341,SG,Gommiswald,Gommiswald,Gommiswald,Gommiswald SG,Gommiswald (SG),Gommiswald SG,St. Gallen,Saint-Gall,San Gallo,17
-3342,SG,Eschenbach SG,Eschenbach (SG),Eschenbach SG,Eschenbach SG,Eschenbach (SG),Eschenbach SG SG,St. Gallen,Saint-Gall,San Gallo,17
+3342,SG,Eschenbach SG,Eschenbach (SG),Eschenbach SG,Eschenbach SG,Eschenbach (SG),Eschenbach SG,St. Gallen,Saint-Gall,San Gallo,17
 3352,SG,Ebnat-Kappel,Ebnat-Kappel,Ebnat-Kappel,Ebnat-Kappel SG,Ebnat-Kappel (SG),Ebnat-Kappel SG,St. Gallen,Saint-Gall,San Gallo,17
 3359,SG,Wildhaus-Alt St. Johann,Wildhaus-Alt St. Johann,Wildhaus-Alt St. Johann,Wildhaus-Alt St. Johann SG,Wildhaus-Alt St. Johann (SG),Wildhaus-Alt St. Johann SG,St. Gallen,Saint-Gall,San Gallo,17
 3360,SG,Nesslau,Nesslau,Nesslau,Nesslau SG,Nesslau (SG),Nesslau SG,St. Gallen,Saint-Gall,San Gallo,17
@@ -1108,7 +1110,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 3375,SG,Oberhelfenschwil,Oberhelfenschwil,Oberhelfenschwil,Oberhelfenschwil SG,Oberhelfenschwil (SG),Oberhelfenschwil SG,St. Gallen,Saint-Gall,San Gallo,17
 3378,SG,Neckertal,Neckertal,Neckertal,Neckertal SG,Neckertal (SG),Neckertal SG,St. Gallen,Saint-Gall,San Gallo,17
 3379,SG,Wattwil,Wattwil,Wattwil,Wattwil SG,Wattwil (SG),Wattwil SG,St. Gallen,Saint-Gall,San Gallo,17
-3392,SG,Kirchberg SG,Kirchberg (SG),Kirchberg SG,Kirchberg SG,Kirchberg (SG),Kirchberg SG SG,St. Gallen,Saint-Gall,San Gallo,17
+3392,SG,Kirchberg SG,Kirchberg (SG),Kirchberg SG,Kirchberg SG,Kirchberg (SG),Kirchberg SG,St. Gallen,Saint-Gall,San Gallo,17
 3393,SG,Lütisburg,Lütisburg,Lütisburg,Lütisburg SG,Lütisburg (SG),Lütisburg SG,St. Gallen,Saint-Gall,San Gallo,17
 3394,SG,Mosnang,Mosnang,Mosnang,Mosnang SG,Mosnang (SG),Mosnang SG,St. Gallen,Saint-Gall,San Gallo,17
 3395,SG,Bütschwil-Ganterschwil,Bütschwil-Ganterschwil,Bütschwil-Ganterschwil,Bütschwil-Ganterschwil SG,Bütschwil-Ganterschwil (SG),Bütschwil-Ganterschwil SG,St. Gallen,Saint-Gall,San Gallo,17
@@ -1120,15 +1122,15 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 3422,SG,Niederbüren,Niederbüren,Niederbüren,Niederbüren SG,Niederbüren (SG),Niederbüren SG,St. Gallen,Saint-Gall,San Gallo,17
 3423,SG,Niederhelfenschwil,Niederhelfenschwil,Niederhelfenschwil,Niederhelfenschwil SG,Niederhelfenschwil (SG),Niederhelfenschwil SG,St. Gallen,Saint-Gall,San Gallo,17
 3424,SG,Oberbüren,Oberbüren,Oberbüren,Oberbüren SG,Oberbüren (SG),Oberbüren SG,St. Gallen,Saint-Gall,San Gallo,17
-3426,SG,Zuzwil SG,Zuzwil (SG),Zuzwil SG,Zuzwil SG,Zuzwil (SG),Zuzwil SG SG,St. Gallen,Saint-Gall,San Gallo,17
-3427,SG,Wil SG,Wil (SG),Wil SG,Wil SG,Wil (SG),Wil SG SG,St. Gallen,Saint-Gall,San Gallo,17
-3441,SG,Andwil SG,Andwil (SG),Andwil SG,Andwil SG,Andwil (SG),Andwil SG SG,St. Gallen,Saint-Gall,San Gallo,17
+3426,SG,Zuzwil SG,Zuzwil (SG),Zuzwil SG,Zuzwil SG,Zuzwil (SG),Zuzwil SG,St. Gallen,Saint-Gall,San Gallo,17
+3427,SG,Wil SG,Wil (SG),Wil SG,Wil SG,Wil (SG),Wil SG,St. Gallen,Saint-Gall,San Gallo,17
+3441,SG,Andwil SG,Andwil (SG),Andwil SG,Andwil SG,Andwil (SG),Andwil SG,St. Gallen,Saint-Gall,San Gallo,17
 3442,SG,Gaiserwald,Gaiserwald,Gaiserwald,Gaiserwald SG,Gaiserwald (SG),Gaiserwald SG,St. Gallen,Saint-Gall,San Gallo,17
-3443,SG,Gossau SG,Gossau (SG),Gossau SG,Gossau SG,Gossau (SG),Gossau SG SG,St. Gallen,Saint-Gall,San Gallo,17
+3443,SG,Gossau SG,Gossau (SG),Gossau SG,Gossau SG,Gossau (SG),Gossau SG,St. Gallen,Saint-Gall,San Gallo,17
 3444,SG,Waldkirch,Waldkirch,Waldkirch,Waldkirch SG,Waldkirch (SG),Waldkirch SG,St. Gallen,Saint-Gall,San Gallo,17
 3506,GR,Vaz/Obervaz,Vaz/Obervaz,Vaz/Obervaz,Vaz/Obervaz GR,Vaz/Obervaz (GR),Vaz/Obervaz GR,Graubünden,Grisons,Grigioni,18
 3513,GR,Lantsch/Lenz,Lantsch/Lenz,Lantsch/Lenz,Lantsch/Lenz GR,Lantsch/Lenz (GR),Lantsch/Lenz GR,Graubünden,Grisons,Grigioni,18
-3514,GR,Schmitten GR,Schmitten (GR),Schmitten GR,Schmitten GR,Schmitten (GR),Schmitten GR GR,Graubünden,Grisons,Grigioni,18
+3514,GR,Schmitten GR,Schmitten (GR),Schmitten GR,Schmitten GR,Schmitten (GR),Schmitten GR,Graubünden,Grisons,Grigioni,18
 3542,GR,Albula/Alvra,Albula/Alvra,Albula/Alvra,Albula/Alvra GR,Albula/Alvra (GR),Albula/Alvra GR,Graubünden,Grisons,Grigioni,18
 3543,GR,Surses,Surses,Surses,Surses GR,Surses (GR),Surses GR,Graubünden,Grisons,Grigioni,18
 3544,GR,Bergün Filisur,Bergün Filisur,Bergün Filisur,Bergün Filisur GR,Bergün Filisur (GR),Bergün Filisur GR,Graubünden,Grisons,Grigioni,18
@@ -1158,12 +1160,13 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 3701,GR,Andeer,Andeer,Andeer,Andeer GR,Andeer (GR),Andeer GR,Graubünden,Grisons,Grigioni,18
 3703,GR,Casti-Wergenstein,Casti-Wergenstein,Casti-Wergenstein,Casti-Wergenstein GR,Casti-Wergenstein (GR),Casti-Wergenstein GR,Graubünden,Grisons,Grigioni,18
 3705,GR,Donat,Donat,Donat,Donat GR,Donat (GR),Donat GR,Graubünden,Grisons,Grigioni,18
-3707,GR,Lohn GR,Lohn (GR),Lohn GR,Lohn GR,Lohn (GR),Lohn GR GR,Graubünden,Grisons,Grigioni,18
+3707,GR,Lohn GR,Lohn (GR),Lohn GR,Lohn GR,Lohn (GR),Lohn GR,Graubünden,Grisons,Grigioni,18
 3708,GR,Mathon,Mathon,Mathon,Mathon GR,Mathon (GR),Mathon GR,Graubünden,Grisons,Grigioni,18
 3711,GR,Rongellen,Rongellen,Rongellen,Rongellen GR,Rongellen (GR),Rongellen GR,Graubünden,Grisons,Grigioni,18
 3712,GR,Zillis-Reischen,Zillis-Reischen,Zillis-Reischen,Zillis-Reischen GR,Zillis-Reischen (GR),Zillis-Reischen GR,Graubünden,Grisons,Grigioni,18
 3713,GR,Ferrera,Ferrera,Ferrera,Ferrera GR,Ferrera (GR),Ferrera GR,Graubünden,Grisons,Grigioni,18
 3714,GR,Rheinwald,Rheinwald,Rheinwald,Rheinwald GR,Rheinwald (GR),Rheinwald GR,Graubünden,Grisons,Grigioni,18
+3715,GR,Muntogna da Schons,Muntogna da Schons,Muntogna da Schons,Muntogna da Schons GR,Muntogna da Schons (GR),Muntogna da Schons GR,Graubünden,Grisons,Grigioni,18
 3721,GR,Bonaduz,Bonaduz,Bonaduz,Bonaduz GR,Bonaduz (GR),Bonaduz GR,Graubünden,Grisons,Grigioni,18
 3722,GR,Domat/Ems,Domat/Ems,Domat/Ems,Domat/Ems GR,Domat/Ems (GR),Domat/Ems GR,Graubünden,Grisons,Grigioni,18
 3723,GR,Rhäzüns,Rhäzüns,Rhäzüns,Rhäzüns GR,Rhäzüns (GR),Rhäzüns GR,Graubünden,Grisons,Grigioni,18
@@ -1196,7 +1199,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 3823,GR,Soazza,Soazza,Soazza,Soazza GR,Soazza (GR),Soazza GR,Graubünden,Grisons,Grigioni,18
 3831,GR,Cama,Cama,Cama,Cama GR,Cama (GR),Cama GR,Graubünden,Grisons,Grigioni,18
 3832,GR,Grono,Grono,Grono,Grono GR,Grono (GR),Grono GR,Graubünden,Grisons,Grigioni,18
-3834,GR,Roveredo GR,Roveredo (GR),Roveredo GR,Roveredo GR,Roveredo (GR),Roveredo GR GR,Graubünden,Grisons,Grigioni,18
+3834,GR,Roveredo GR,Roveredo (GR),Roveredo GR,Roveredo GR,Roveredo (GR),Roveredo GR,Graubünden,Grisons,Grigioni,18
 3835,GR,San Vittore,San Vittore,San Vittore,San Vittore GR,San Vittore (GR),San Vittore GR,Graubünden,Grisons,Grigioni,18
 3837,GR,Calanca,Calanca,Calanca,Calanca GR,Calanca (GR),Calanca GR,Graubünden,Grisons,Grigioni,18
 3847,GR,Val Müstair,Val Müstair,Val Müstair,Val Müstair GR,Val Müstair (GR),Val Müstair GR,Graubünden,Grisons,Grigioni,18
@@ -1233,9 +1236,9 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 3988,GR,Obersaxen Mundaun,Obersaxen Mundaun,Obersaxen Mundaun,Obersaxen Mundaun GR,Obersaxen Mundaun (GR),Obersaxen Mundaun GR,Graubünden,Grisons,Grigioni,18
 4001,AG,Aarau,Aarau,Aarau,Aarau AG,Aarau (AG),Aarau AG,Aargau,Argovie,Argovia,19
 4002,AG,Biberstein,Biberstein,Biberstein,Biberstein AG,Biberstein (AG),Biberstein AG,Aargau,Argovie,Argovia,19
-4003,AG,Buchs AG,Buchs (AG),Buchs AG,Buchs AG,Buchs (AG),Buchs AG AG,Aargau,Argovie,Argovia,19
+4003,AG,Buchs AG,Buchs (AG),Buchs AG,Buchs AG,Buchs (AG),Buchs AG,Aargau,Argovie,Argovia,19
 4004,AG,Densbüren,Densbüren,Densbüren,Densbüren AG,Densbüren (AG),Densbüren AG,Aargau,Argovie,Argovia,19
-4005,AG,Erlinsbach AG,Erlinsbach (AG),Erlinsbach AG,Erlinsbach AG,Erlinsbach (AG),Erlinsbach AG AG,Aargau,Argovie,Argovia,19
+4005,AG,Erlinsbach AG,Erlinsbach (AG),Erlinsbach AG,Erlinsbach AG,Erlinsbach (AG),Erlinsbach AG,Aargau,Argovie,Argovia,19
 4006,AG,Gränichen,Gränichen,Gränichen,Gränichen AG,Gränichen (AG),Gränichen AG,Aargau,Argovie,Argovia,19
 4007,AG,Hirschthal,Hirschthal,Hirschthal,Hirschthal AG,Hirschthal (AG),Hirschthal AG,Aargau,Argovie,Argovia,19
 4008,AG,Küttigen,Küttigen,Küttigen,Küttigen AG,Küttigen (AG),Küttigen AG,Aargau,Argovie,Argovia,19
@@ -1246,7 +1249,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 4021,AG,Baden,Baden,Baden,Baden AG,Baden (AG),Baden AG,Aargau,Argovie,Argovia,19
 4022,AG,Bellikon,Bellikon,Bellikon,Bellikon AG,Bellikon (AG),Bellikon AG,Aargau,Argovie,Argovia,19
 4023,AG,Bergdietikon,Bergdietikon,Bergdietikon,Bergdietikon AG,Bergdietikon (AG),Bergdietikon AG,Aargau,Argovie,Argovia,19
-4024,AG,Birmenstorf AG,Birmenstorf (AG),Birmenstorf AG,Birmenstorf AG,Birmenstorf (AG),Birmenstorf AG AG,Aargau,Argovie,Argovia,19
+4024,AG,Birmenstorf AG,Birmenstorf (AG),Birmenstorf AG,Birmenstorf AG,Birmenstorf (AG),Birmenstorf AG,Aargau,Argovie,Argovia,19
 4026,AG,Ennetbaden,Ennetbaden,Ennetbaden,Ennetbaden AG,Ennetbaden (AG),Ennetbaden AG,Aargau,Argovie,Argovia,19
 4027,AG,Fislisbach,Fislisbach,Fislisbach,Fislisbach AG,Fislisbach (AG),Fislisbach AG,Aargau,Argovie,Argovia,19
 4028,AG,Freienwil,Freienwil,Freienwil,Freienwil AG,Freienwil (AG),Freienwil AG,Aargau,Argovie,Argovia,19
@@ -1261,7 +1264,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 4038,AG,Obersiggenthal,Obersiggenthal,Obersiggenthal,Obersiggenthal AG,Obersiggenthal (AG),Obersiggenthal AG,Aargau,Argovie,Argovia,19
 4039,AG,Remetschwil,Remetschwil,Remetschwil,Remetschwil AG,Remetschwil (AG),Remetschwil AG,Aargau,Argovie,Argovia,19
 4040,AG,Spreitenbach,Spreitenbach,Spreitenbach,Spreitenbach AG,Spreitenbach (AG),Spreitenbach AG,Aargau,Argovie,Argovia,19
-4041,AG,Stetten AG,Stetten (AG),Stetten AG,Stetten AG,Stetten (AG),Stetten AG AG,Aargau,Argovie,Argovia,19
+4041,AG,Stetten AG,Stetten (AG),Stetten AG,Stetten AG,Stetten (AG),Stetten AG,Aargau,Argovie,Argovia,19
 4042,AG,Turgi,Turgi,Turgi,Turgi AG,Turgi (AG),Turgi AG,Aargau,Argovie,Argovia,19
 4044,AG,Untersiggenthal,Untersiggenthal,Untersiggenthal,Untersiggenthal AG,Untersiggenthal (AG),Untersiggenthal AG,Aargau,Argovie,Argovia,19
 4045,AG,Wettingen,Wettingen,Wettingen,Wettingen AG,Wettingen (AG),Wettingen AG,Aargau,Argovie,Argovia,19
@@ -1269,16 +1272,16 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 4047,AG,Würenlingen,Würenlingen,Würenlingen,Würenlingen AG,Würenlingen (AG),Würenlingen AG,Aargau,Argovie,Argovia,19
 4048,AG,Würenlos,Würenlos,Würenlos,Würenlos AG,Würenlos (AG),Würenlos AG,Aargau,Argovie,Argovia,19
 4049,AG,Ehrendingen,Ehrendingen,Ehrendingen,Ehrendingen AG,Ehrendingen (AG),Ehrendingen AG,Aargau,Argovie,Argovia,19
-4061,AG,Arni AG,Arni (AG),Arni AG,Arni AG,Arni (AG),Arni AG AG,Aargau,Argovie,Argovia,19
+4061,AG,Arni AG,Arni (AG),Arni AG,Arni AG,Arni (AG),Arni AG,Aargau,Argovie,Argovia,19
 4062,AG,Berikon,Berikon,Berikon,Berikon AG,Berikon (AG),Berikon AG,Aargau,Argovie,Argovia,19
-4063,AG,Bremgarten AG,Bremgarten (AG),Bremgarten AG,Bremgarten AG,Bremgarten (AG),Bremgarten AG AG,Aargau,Argovie,Argovia,19
+4063,AG,Bremgarten AG,Bremgarten (AG),Bremgarten AG,Bremgarten AG,Bremgarten (AG),Bremgarten AG,Aargau,Argovie,Argovia,19
 4064,AG,Büttikon,Büttikon,Büttikon,Büttikon AG,Büttikon (AG),Büttikon AG,Aargau,Argovie,Argovia,19
 4065,AG,Dottikon,Dottikon,Dottikon,Dottikon AG,Dottikon (AG),Dottikon AG,Aargau,Argovie,Argovia,19
 4066,AG,Eggenwil,Eggenwil,Eggenwil,Eggenwil AG,Eggenwil (AG),Eggenwil AG,Aargau,Argovie,Argovia,19
 4067,AG,Fischbach-Göslikon,Fischbach-Göslikon,Fischbach-Göslikon,Fischbach-Göslikon AG,Fischbach-Göslikon (AG),Fischbach-Göslikon AG,Aargau,Argovie,Argovia,19
 4068,AG,Hägglingen,Hägglingen,Hägglingen,Hägglingen AG,Hägglingen (AG),Hägglingen AG,Aargau,Argovie,Argovia,19
 4071,AG,Jonen,Jonen,Jonen,Jonen AG,Jonen (AG),Jonen AG,Aargau,Argovie,Argovia,19
-4072,AG,Niederwil AG,Niederwil (AG),Niederwil AG,Niederwil AG,Niederwil (AG),Niederwil AG AG,Aargau,Argovie,Argovia,19
+4072,AG,Niederwil AG,Niederwil (AG),Niederwil AG,Niederwil AG,Niederwil (AG),Niederwil AG,Aargau,Argovie,Argovia,19
 4073,AG,Oberlunkhofen,Oberlunkhofen,Oberlunkhofen,Oberlunkhofen AG,Oberlunkhofen (AG),Oberlunkhofen AG,Aargau,Argovie,Argovia,19
 4074,AG,Oberwil-Lieli,Oberwil-Lieli,Oberwil-Lieli,Oberwil-Lieli AG,Oberwil-Lieli (AG),Oberwil-Lieli AG,Aargau,Argovie,Argovia,19
 4075,AG,Rudolfstetten-Friedlisberg,Rudolfstetten-Friedlisberg,Rudolfstetten-Friedlisberg,Rudolfstetten-Friedlisberg AG,Rudolfstetten-Friedlisberg (AG),Rudolfstetten-Friedlisberg AG,Aargau,Argovie,Argovia,19
@@ -1288,7 +1291,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 4079,AG,Unterlunkhofen,Unterlunkhofen,Unterlunkhofen,Unterlunkhofen AG,Unterlunkhofen (AG),Unterlunkhofen AG,Aargau,Argovie,Argovia,19
 4080,AG,Villmergen,Villmergen,Villmergen,Villmergen AG,Villmergen (AG),Villmergen AG,Aargau,Argovie,Argovia,19
 4081,AG,Widen,Widen,Widen,Widen AG,Widen (AG),Widen AG,Aargau,Argovie,Argovia,19
-4082,AG,Wohlen AG,Wohlen (AG),Wohlen AG,Wohlen AG,Wohlen (AG),Wohlen AG AG,Aargau,Argovie,Argovia,19
+4082,AG,Wohlen AG,Wohlen (AG),Wohlen AG,Wohlen AG,Wohlen (AG),Wohlen AG,Aargau,Argovie,Argovia,19
 4083,AG,Zufikon,Zufikon,Zufikon,Zufikon AG,Zufikon (AG),Zufikon AG,Aargau,Argovie,Argovia,19
 4084,AG,Islisberg,Islisberg,Islisberg,Islisberg AG,Islisberg (AG),Islisberg AG,Aargau,Argovie,Argovia,19
 4091,AG,Auenstein,Auenstein,Auenstein,Auenstein AG,Auenstein (AG),Auenstein AG,Aargau,Argovie,Argovia,19
@@ -1299,7 +1302,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 4096,AG,Effingen,Effingen,Effingen,Effingen AG,Effingen (AG),Effingen AG,Aargau,Argovie,Argovia,19
 4097,AG,Elfingen,Elfingen,Elfingen,Elfingen AG,Elfingen (AG),Elfingen AG,Aargau,Argovie,Argovia,19
 4099,AG,Habsburg,Habsburg,Habsburg,Habsburg AG,Habsburg (AG),Habsburg AG,Aargau,Argovie,Argovia,19
-4100,AG,Hausen AG,Hausen (AG),Hausen AG,Hausen AG,Hausen (AG),Hausen AG AG,Aargau,Argovie,Argovia,19
+4100,AG,Hausen AG,Hausen (AG),Hausen AG,Hausen AG,Hausen (AG),Hausen AG,Aargau,Argovie,Argovia,19
 4104,AG,Lupfig,Lupfig,Lupfig,Lupfig AG,Lupfig (AG),Lupfig AG,Aargau,Argovie,Argovia,19
 4105,AG,Mandach,Mandach,Mandach,Mandach AG,Mandach (AG),Mandach AG,Aargau,Argovie,Argovia,19
 4106,AG,Mönthal,Mönthal,Mönthal,Mönthal AG,Mönthal (AG),Mönthal AG,Aargau,Argovie,Argovia,19
@@ -1307,8 +1310,8 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 4110,AG,Remigen,Remigen,Remigen,Remigen AG,Remigen (AG),Remigen AG,Aargau,Argovie,Argovia,19
 4111,AG,Riniken,Riniken,Riniken,Riniken AG,Riniken (AG),Riniken AG,Aargau,Argovie,Argovia,19
 4112,AG,Rüfenach,Rüfenach,Rüfenach,Rüfenach AG,Rüfenach (AG),Rüfenach AG,Aargau,Argovie,Argovia,19
-4117,AG,Thalheim AG,Thalheim (AG),Thalheim AG,Thalheim AG,Thalheim (AG),Thalheim AG AG,Aargau,Argovie,Argovia,19
-4120,AG,Veltheim AG,Veltheim (AG),Veltheim AG,Veltheim AG,Veltheim (AG),Veltheim AG AG,Aargau,Argovie,Argovia,19
+4117,AG,Thalheim AG,Thalheim (AG),Thalheim AG,Thalheim AG,Thalheim (AG),Thalheim AG,Aargau,Argovie,Argovia,19
+4120,AG,Veltheim AG,Veltheim (AG),Veltheim AG,Veltheim AG,Veltheim (AG),Veltheim AG,Aargau,Argovie,Argovia,19
 4121,AG,Villigen,Villigen,Villigen,Villigen AG,Villigen (AG),Villigen AG,Aargau,Argovie,Argovia,19
 4122,AG,Villnachern,Villnachern,Villnachern,Villnachern AG,Villnachern (AG),Villnachern AG,Aargau,Argovie,Argovia,19
 4123,AG,Windisch,Windisch,Windisch,Windisch AG,Windisch (AG),Windisch AG,Aargau,Argovie,Argovia,19
@@ -1316,19 +1319,19 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 4125,AG,Schinznach,Schinznach,Schinznach,Schinznach AG,Schinznach (AG),Schinznach AG,Aargau,Argovie,Argovia,19
 4131,AG,Beinwil am See,Beinwil am See,Beinwil am See,Beinwil am See AG,Beinwil am See (AG),Beinwil am See AG,Aargau,Argovie,Argovia,19
 4132,AG,Birrwil,Birrwil,Birrwil,Birrwil AG,Birrwil (AG),Birrwil AG,Aargau,Argovie,Argovia,19
-4133,AG,Burg AG,Burg (AG),Burg AG,Burg AG,Burg (AG),Burg AG AG,Aargau,Argovie,Argovia,19
+4133,AG,Burg AG,Burg (AG),Burg AG,Burg AG,Burg (AG),Burg AG,Aargau,Argovie,Argovia,19
 4134,AG,Dürrenäsch,Dürrenäsch,Dürrenäsch,Dürrenäsch AG,Dürrenäsch (AG),Dürrenäsch AG,Aargau,Argovie,Argovia,19
 4135,AG,Gontenschwil,Gontenschwil,Gontenschwil,Gontenschwil AG,Gontenschwil (AG),Gontenschwil AG,Aargau,Argovie,Argovia,19
 4136,AG,Holziken,Holziken,Holziken,Holziken AG,Holziken (AG),Holziken AG,Aargau,Argovie,Argovia,19
-4137,AG,Leimbach AG,Leimbach (AG),Leimbach AG,Leimbach AG,Leimbach (AG),Leimbach AG AG,Aargau,Argovie,Argovia,19
+4137,AG,Leimbach AG,Leimbach (AG),Leimbach AG,Leimbach AG,Leimbach (AG),Leimbach AG,Aargau,Argovie,Argovia,19
 4138,AG,Leutwil,Leutwil,Leutwil,Leutwil AG,Leutwil (AG),Leutwil AG,Aargau,Argovie,Argovia,19
 4139,AG,Menziken,Menziken,Menziken,Menziken AG,Menziken (AG),Menziken AG,Aargau,Argovie,Argovia,19
 4140,AG,Oberkulm,Oberkulm,Oberkulm,Oberkulm AG,Oberkulm (AG),Oberkulm AG,Aargau,Argovie,Argovia,19
-4141,AG,Reinach AG,Reinach (AG),Reinach AG,Reinach AG,Reinach (AG),Reinach AG AG,Aargau,Argovie,Argovia,19
+4141,AG,Reinach AG,Reinach (AG),Reinach AG,Reinach AG,Reinach (AG),Reinach AG,Aargau,Argovie,Argovia,19
 4142,AG,Schlossrued,Schlossrued,Schlossrued,Schlossrued AG,Schlossrued (AG),Schlossrued AG,Aargau,Argovie,Argovia,19
 4143,AG,Schmiedrued,Schmiedrued,Schmiedrued,Schmiedrued AG,Schmiedrued (AG),Schmiedrued AG,Aargau,Argovie,Argovia,19
 4144,AG,Schöftland,Schöftland,Schöftland,Schöftland AG,Schöftland (AG),Schöftland AG,Aargau,Argovie,Argovia,19
-4145,AG,Teufenthal AG,Teufenthal (AG),Teufenthal AG,Teufenthal AG,Teufenthal (AG),Teufenthal AG AG,Aargau,Argovie,Argovia,19
+4145,AG,Teufenthal AG,Teufenthal (AG),Teufenthal AG,Teufenthal AG,Teufenthal (AG),Teufenthal AG,Aargau,Argovie,Argovia,19
 4146,AG,Unterkulm,Unterkulm,Unterkulm,Unterkulm AG,Unterkulm (AG),Unterkulm AG,Aargau,Argovie,Argovia,19
 4147,AG,Zetzwil,Zetzwil,Zetzwil,Zetzwil AG,Zetzwil (AG),Zetzwil AG,Aargau,Argovie,Argovia,19
 4161,AG,Eiken,Eiken,Eiken,Eiken AG,Eiken (AG),Eiken AG,Aargau,Argovie,Argovia,19
@@ -1339,7 +1342,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 4167,AG,Hornussen,Hornussen,Hornussen,Hornussen AG,Hornussen (AG),Hornussen AG,Aargau,Argovie,Argovia,19
 4169,AG,Kaisten,Kaisten,Kaisten,Kaisten AG,Kaisten (AG),Kaisten AG,Aargau,Argovie,Argovia,19
 4170,AG,Laufenburg,Laufenburg,Laufenburg,Laufenburg AG,Laufenburg (AG),Laufenburg AG,Aargau,Argovie,Argovia,19
-4172,AG,Münchwilen AG,Münchwilen (AG),Münchwilen AG,Münchwilen AG,Münchwilen (AG),Münchwilen AG AG,Aargau,Argovie,Argovia,19
+4172,AG,Münchwilen AG,Münchwilen (AG),Münchwilen AG,Münchwilen AG,Münchwilen (AG),Münchwilen AG,Aargau,Argovie,Argovia,19
 4173,AG,Oberhof,Oberhof,Oberhof,Oberhof AG,Oberhof (AG),Oberhof AG,Aargau,Argovie,Argovia,19
 4175,AG,Oeschgen,Oeschgen,Oeschgen,Oeschgen AG,Oeschgen (AG),Oeschgen AG,Aargau,Argovie,Argovia,19
 4176,AG,Schwaderloch,Schwaderloch,Schwaderloch,Schwaderloch AG,Schwaderloch (AG),Schwaderloch AG,Aargau,Argovie,Argovia,19
@@ -1357,7 +1360,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 4196,AG,Fahrwangen,Fahrwangen,Fahrwangen,Fahrwangen AG,Fahrwangen (AG),Fahrwangen AG,Aargau,Argovie,Argovia,19
 4197,AG,Hallwil,Hallwil,Hallwil,Hallwil AG,Hallwil (AG),Hallwil AG,Aargau,Argovie,Argovia,19
 4198,AG,Hendschiken,Hendschiken,Hendschiken,Hendschiken AG,Hendschiken (AG),Hendschiken AG,Aargau,Argovie,Argovia,19
-4199,AG,Holderbank AG,Holderbank (AG),Holderbank AG,Holderbank AG,Holderbank (AG),Holderbank AG AG,Aargau,Argovie,Argovia,19
+4199,AG,Holderbank AG,Holderbank (AG),Holderbank AG,Holderbank AG,Holderbank (AG),Holderbank AG,Aargau,Argovie,Argovia,19
 4200,AG,Hunzenschwil,Hunzenschwil,Hunzenschwil,Hunzenschwil AG,Hunzenschwil (AG),Hunzenschwil AG,Aargau,Argovie,Argovia,19
 4201,AG,Lenzburg,Lenzburg,Lenzburg,Lenzburg AG,Lenzburg (AG),Lenzburg AG,Aargau,Argovie,Argovia,19
 4202,AG,Meisterschwanden,Meisterschwanden,Meisterschwanden,Meisterschwanden AG,Meisterschwanden (AG),Meisterschwanden AG,Aargau,Argovie,Argovia,19
@@ -1383,7 +1386,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 4233,AG,Kallern,Kallern,Kallern,Kallern AG,Kallern (AG),Kallern AG,Aargau,Argovie,Argovia,19
 4234,AG,Merenschwand,Merenschwand,Merenschwand,Merenschwand AG,Merenschwand (AG),Merenschwand AG,Aargau,Argovie,Argovia,19
 4235,AG,Mühlau,Mühlau,Mühlau,Mühlau AG,Mühlau (AG),Mühlau AG,Aargau,Argovie,Argovia,19
-4236,AG,Muri AG,Muri (AG),Muri AG,Muri AG,Muri (AG),Muri AG AG,Aargau,Argovie,Argovia,19
+4236,AG,Muri AG,Muri (AG),Muri AG,Muri AG,Muri (AG),Muri AG,Aargau,Argovie,Argovia,19
 4237,AG,Oberrüti,Oberrüti,Oberrüti,Oberrüti AG,Oberrüti (AG),Oberrüti AG,Aargau,Argovie,Argovia,19
 4238,AG,Rottenschwil,Rottenschwil,Rottenschwil,Rottenschwil AG,Rottenschwil (AG),Rottenschwil AG,Aargau,Argovie,Argovia,19
 4239,AG,Sins,Sins,Sins,Sins AG,Sins (AG),Sins AG,Aargau,Argovie,Argovia,19
@@ -1397,7 +1400,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 4257,AG,Olsberg,Olsberg,Olsberg,Olsberg AG,Olsberg (AG),Olsberg AG,Aargau,Argovie,Argovia,19
 4258,AG,Rheinfelden,Rheinfelden,Rheinfelden,Rheinfelden AG,Rheinfelden (AG),Rheinfelden AG,Aargau,Argovie,Argovia,19
 4259,AG,Schupfart,Schupfart,Schupfart,Schupfart AG,Schupfart (AG),Schupfart AG,Aargau,Argovie,Argovia,19
-4260,AG,Stein AG,Stein (AG),Stein AG,Stein AG,Stein (AG),Stein AG AG,Aargau,Argovie,Argovia,19
+4260,AG,Stein AG,Stein (AG),Stein AG,Stein AG,Stein (AG),Stein AG,Aargau,Argovie,Argovia,19
 4261,AG,Wallbach,Wallbach,Wallbach,Wallbach AG,Wallbach (AG),Wallbach AG,Aargau,Argovie,Argovia,19
 4262,AG,Wegenstetten,Wegenstetten,Wegenstetten,Wegenstetten AG,Wegenstetten (AG),Wegenstetten AG,Aargau,Argovie,Argovia,19
 4263,AG,Zeiningen,Zeiningen,Zeiningen,Zeiningen AG,Zeiningen (AG),Zeiningen AG,Aargau,Argovie,Argovia,19
@@ -1430,10 +1433,10 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 4309,AG,Klingnau,Klingnau,Klingnau,Klingnau AG,Klingnau (AG),Klingnau AG,Aargau,Argovie,Argovia,19
 4310,AG,Koblenz,Koblenz,Koblenz,Koblenz AG,Koblenz (AG),Koblenz AG,Aargau,Argovie,Argovia,19
 4311,AG,Leibstadt,Leibstadt,Leibstadt,Leibstadt AG,Leibstadt (AG),Leibstadt AG,Aargau,Argovie,Argovia,19
-4312,AG,Lengnau AG,Lengnau (AG),Lengnau AG,Lengnau AG,Lengnau (AG),Lengnau AG AG,Aargau,Argovie,Argovia,19
+4312,AG,Lengnau AG,Lengnau (AG),Lengnau AG,Lengnau AG,Lengnau (AG),Lengnau AG,Aargau,Argovie,Argovia,19
 4313,AG,Leuggern,Leuggern,Leuggern,Leuggern AG,Leuggern (AG),Leuggern AG,Aargau,Argovie,Argovia,19
 4314,AG,Mellikon,Mellikon,Mellikon,Mellikon AG,Mellikon (AG),Mellikon AG,Aargau,Argovie,Argovia,19
-4315,AG,Rekingen AG,Rekingen (AG),Rekingen AG,Rekingen AG,Rekingen (AG),Rekingen AG AG,Aargau,Argovie,Argovia,19
+4315,AG,Rekingen AG,Rekingen (AG),Rekingen AG,Rekingen AG,Rekingen (AG),Rekingen AG,Aargau,Argovie,Argovia,19
 4316,AG,Rietheim,Rietheim,Rietheim,Rietheim AG,Rietheim (AG),Rietheim AG,Aargau,Argovie,Argovia,19
 4317,AG,Rümikon,Rümikon,Rümikon,Rümikon AG,Rümikon (AG),Rümikon AG,Aargau,Argovie,Argovia,19
 4318,AG,Schneisingen,Schneisingen,Schneisingen,Schneisingen AG,Schneisingen (AG),Schneisingen AG,Aargau,Argovie,Argovia,19
@@ -1447,7 +1450,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 4416,TG,Hefenhofen,Hefenhofen,Hefenhofen,Hefenhofen TG,Hefenhofen (TG),Hefenhofen TG,Thurgau,Thurgovie,Turgovia,20
 4421,TG,Horn,Horn,Horn,Horn TG,Horn (TG),Horn TG,Thurgau,Thurgovie,Turgovia,20
 4426,TG,Kesswil,Kesswil,Kesswil,Kesswil TG,Kesswil (TG),Kesswil TG,Thurgau,Thurgovie,Turgovia,20
-4431,TG,Roggwil TG,Roggwil (TG),Roggwil TG,Roggwil TG,Roggwil (TG),Roggwil TG TG,Thurgau,Thurgovie,Turgovia,20
+4431,TG,Roggwil TG,Roggwil (TG),Roggwil TG,Roggwil TG,Roggwil (TG),Roggwil TG,Thurgau,Thurgovie,Turgovia,20
 4436,TG,Romanshorn,Romanshorn,Romanshorn,Romanshorn TG,Romanshorn (TG),Romanshorn TG,Thurgau,Thurgovie,Turgovia,20
 4441,TG,Salmsach,Salmsach,Salmsach,Salmsach TG,Salmsach (TG),Salmsach TG,Thurgau,Thurgovie,Turgovia,20
 4446,TG,Sommeri,Sommeri,Sommeri,Sommeri TG,Sommeri (TG),Sommeri TG,Thurgau,Thurgovie,Turgovia,20
@@ -1462,7 +1465,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 4511,TG,Zihlschlacht-Sitterdorf,Zihlschlacht-Sitterdorf,Zihlschlacht-Sitterdorf,Zihlschlacht-Sitterdorf TG,Zihlschlacht-Sitterdorf (TG),Zihlschlacht-Sitterdorf TG,Thurgau,Thurgovie,Turgovia,20
 4536,TG,Basadingen-Schlattingen,Basadingen-Schlattingen,Basadingen-Schlattingen,Basadingen-Schlattingen TG,Basadingen-Schlattingen (TG),Basadingen-Schlattingen TG,Thurgau,Thurgovie,Turgovia,20
 4545,TG,Diessenhofen,Diessenhofen,Diessenhofen,Diessenhofen TG,Diessenhofen (TG),Diessenhofen TG,Thurgau,Thurgovie,Turgovia,20
-4546,TG,Schlatt TG,Schlatt (TG),Schlatt TG,Schlatt TG,Schlatt (TG),Schlatt TG TG,Thurgau,Thurgovie,Turgovia,20
+4546,TG,Schlatt TG,Schlatt (TG),Schlatt TG,Schlatt TG,Schlatt (TG),Schlatt TG,Thurgau,Thurgovie,Turgovia,20
 4551,TG,Aadorf,Aadorf,Aadorf,Aadorf TG,Aadorf (TG),Aadorf TG,Thurgau,Thurgovie,Turgovia,20
 4561,TG,Felben-Wellhausen,Felben-Wellhausen,Felben-Wellhausen,Felben-Wellhausen TG,Felben-Wellhausen (TG),Felben-Wellhausen TG,Thurgau,Thurgovie,Turgovia,20
 4566,TG,Frauenfeld,Frauenfeld,Frauenfeld,Frauenfeld TG,Frauenfeld (TG),Frauenfeld TG,Thurgau,Thurgovie,Turgovia,20
@@ -1493,13 +1496,13 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 4724,TG,Eschlikon,Eschlikon,Eschlikon,Eschlikon TG,Eschlikon (TG),Eschlikon TG,Thurgau,Thurgovie,Turgovia,20
 4726,TG,Fischingen,Fischingen,Fischingen,Fischingen TG,Fischingen (TG),Fischingen TG,Thurgau,Thurgovie,Turgovia,20
 4741,TG,Lommis,Lommis,Lommis,Lommis TG,Lommis (TG),Lommis TG,Thurgau,Thurgovie,Turgovia,20
-4746,TG,Münchwilen TG,Münchwilen (TG),Münchwilen TG,Münchwilen TG,Münchwilen (TG),Münchwilen TG TG,Thurgau,Thurgovie,Turgovia,20
-4751,TG,Rickenbach TG,Rickenbach (TG),Rickenbach TG,Rickenbach TG,Rickenbach (TG),Rickenbach TG TG,Thurgau,Thurgovie,Turgovia,20
+4746,TG,Münchwilen TG,Münchwilen (TG),Münchwilen TG,Münchwilen TG,Münchwilen (TG),Münchwilen TG,Thurgau,Thurgovie,Turgovia,20
+4751,TG,Rickenbach TG,Rickenbach (TG),Rickenbach TG,Rickenbach TG,Rickenbach (TG),Rickenbach TG,Thurgau,Thurgovie,Turgovia,20
 4756,TG,Schönholzerswilen,Schönholzerswilen,Schönholzerswilen,Schönholzerswilen TG,Schönholzerswilen (TG),Schönholzerswilen TG,Thurgau,Thurgovie,Turgovia,20
 4761,TG,Sirnach,Sirnach,Sirnach,Sirnach TG,Sirnach (TG),Sirnach TG,Thurgau,Thurgovie,Turgovia,20
 4776,TG,Tobel-Tägerschen,Tobel-Tägerschen,Tobel-Tägerschen,Tobel-Tägerschen TG,Tobel-Tägerschen (TG),Tobel-Tägerschen TG,Thurgau,Thurgovie,Turgovia,20
 4781,TG,Wängi,Wängi,Wängi,Wängi TG,Wängi (TG),Wängi TG,Thurgau,Thurgovie,Turgovia,20
-4786,TG,Wilen TG,Wilen (TG),Wilen TG,Wilen TG,Wilen (TG),Wilen TG TG,Thurgau,Thurgovie,Turgovia,20
+4786,TG,Wilen TG,Wilen (TG),Wilen TG,Wilen TG,Wilen (TG),Wilen TG,Thurgau,Thurgovie,Turgovia,20
 4791,TG,Wuppenau,Wuppenau,Wuppenau,Wuppenau TG,Wuppenau (TG),Wuppenau TG,Thurgau,Thurgovie,Turgovia,20
 4801,TG,Berlingen,Berlingen,Berlingen,Berlingen TG,Berlingen (TG),Berlingen TG,Thurgau,Thurgovie,Turgovia,20
 4806,TG,Eschenz,Eschenz,Eschenz,Eschenz TG,Eschenz (TG),Eschenz TG,Thurgau,Thurgovie,Turgovia,20
@@ -1514,9 +1517,9 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 4864,TG,Steckborn,Steckborn,Steckborn,Steckborn TG,Steckborn (TG),Steckborn TG,Thurgau,Thurgovie,Turgovia,20
 4871,TG,Wagenhausen,Wagenhausen,Wagenhausen,Wagenhausen TG,Wagenhausen (TG),Wagenhausen TG,Thurgau,Thurgovie,Turgovia,20
 4881,TG,Amlikon-Bissegg,Amlikon-Bissegg,Amlikon-Bissegg,Amlikon-Bissegg TG,Amlikon-Bissegg (TG),Amlikon-Bissegg TG,Thurgau,Thurgovie,Turgovia,20
-4891,TG,Berg TG,Berg (TG),Berg TG,Berg TG,Berg (TG),Berg TG TG,Thurgau,Thurgovie,Turgovia,20
+4891,TG,Berg TG,Berg (TG),Berg TG,Berg TG,Berg (TG),Berg TG,Thurgau,Thurgovie,Turgovia,20
 4901,TG,Birwinken,Birwinken,Birwinken,Birwinken TG,Birwinken (TG),Birwinken TG,Thurgau,Thurgovie,Turgovia,20
-4911,TG,Bürglen TG,Bürglen (TG),Bürglen TG,Bürglen TG,Bürglen (TG),Bürglen TG TG,Thurgau,Thurgovie,Turgovia,20
+4911,TG,Bürglen TG,Bürglen (TG),Bürglen TG,Bürglen TG,Bürglen (TG),Bürglen TG,Thurgau,Thurgovie,Turgovia,20
 4921,TG,Bussnang,Bussnang,Bussnang,Bussnang TG,Bussnang (TG),Bussnang TG,Thurgau,Thurgovie,Turgovia,20
 4941,TG,Märstetten,Märstetten,Märstetten,Märstetten TG,Märstetten (TG),Märstetten TG,Thurgau,Thurgovie,Turgovia,20
 4946,TG,Weinfelden,Weinfelden,Weinfelden,Weinfelden TG,Weinfelden (TG),Weinfelden TG,Thurgau,Thurgovie,Turgovia,20
@@ -1649,8 +1652,8 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 5410,VD,Ormont-Dessous,Ormont-Dessous,Ormont-Dessous,Ormont-Dessous VD,Ormont-Dessous (VD),Ormont-Dessous VD,Waadt,Vaud,Vaud,22
 5411,VD,Ormont-Dessus,Ormont-Dessus,Ormont-Dessus,Ormont-Dessus VD,Ormont-Dessus (VD),Ormont-Dessus VD,Waadt,Vaud,Vaud,22
 5412,VD,Rennaz,Rennaz,Rennaz,Rennaz VD,Rennaz (VD),Rennaz VD,Waadt,Vaud,Vaud,22
-5413,VD,Roche VD,Roche (VD),Roche VD,Roche VD,Roche (VD),Roche VD VD,Waadt,Vaud,Vaud,22
-5414,VD,Villeneuve VD,Villeneuve (VD),Villeneuve VD,Villeneuve VD,Villeneuve (VD),Villeneuve VD VD,Waadt,Vaud,Vaud,22
+5413,VD,Roche VD,Roche (VD),Roche VD,Roche VD,Roche (VD),Roche VD,Waadt,Vaud,Vaud,22
+5414,VD,Villeneuve VD,Villeneuve (VD),Villeneuve VD,Villeneuve VD,Villeneuve (VD),Villeneuve VD,Waadt,Vaud,Vaud,22
 5415,VD,Yvorne,Yvorne,Yvorne,Yvorne VD,Yvorne (VD),Yvorne VD,Waadt,Vaud,Vaud,22
 5421,VD,Apples,Apples,Apples,Apples VD,Apples (VD),Apples VD,Waadt,Vaud,Vaud,22
 5422,VD,Aubonne,Aubonne,Aubonne,Aubonne VD,Aubonne (VD),Aubonne VD,Waadt,Vaud,Vaud,22
@@ -1662,7 +1665,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 5428,VD,Gimel,Gimel,Gimel,Gimel VD,Gimel (VD),Gimel VD,Waadt,Vaud,Vaud,22
 5429,VD,Longirod,Longirod,Longirod,Longirod VD,Longirod (VD),Longirod VD,Waadt,Vaud,Vaud,22
 5430,VD,Marchissy,Marchissy,Marchissy,Marchissy VD,Marchissy (VD),Marchissy VD,Waadt,Vaud,Vaud,22
-5431,VD,Mollens VD,Mollens (VD),Mollens VD,Mollens VD,Mollens (VD),Mollens VD VD,Waadt,Vaud,Vaud,22
+5431,VD,Mollens VD,Mollens (VD),Mollens VD,Mollens VD,Mollens (VD),Mollens VD,Waadt,Vaud,Vaud,22
 5432,VD,Montherod,Montherod,Montherod,Montherod VD,Montherod (VD),Montherod VD,Waadt,Vaud,Vaud,22
 5434,VD,Saint-George,Saint-George,Saint-George,Saint-George VD,Saint-George (VD),Saint-George VD,Waadt,Vaud,Vaud,22
 5435,VD,Saint-Livres,Saint-Livres,Saint-Livres,Saint-Livres VD,Saint-Livres (VD),Saint-Livres VD,Waadt,Vaud,Vaud,22
@@ -1679,7 +1682,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 5475,VD,Chavannes-le-Veyron,Chavannes-le-Veyron,Chavannes-le-Veyron,Chavannes-le-Veyron VD,Chavannes-le-Veyron (VD),Chavannes-le-Veyron VD,Waadt,Vaud,Vaud,22
 5476,VD,Chevilly,Chevilly,Chevilly,Chevilly VD,Chevilly (VD),Chevilly VD,Waadt,Vaud,Vaud,22
 5477,VD,Cossonay,Cossonay,Cossonay,Cossonay VD,Cossonay (VD),Cossonay VD,Waadt,Vaud,Vaud,22
-5478,VD,Cottens VD,Cottens (VD),Cottens VD,Cottens VD,Cottens (VD),Cottens VD VD,Waadt,Vaud,Vaud,22
+5478,VD,Cottens VD,Cottens (VD),Cottens VD,Cottens VD,Cottens (VD),Cottens VD,Waadt,Vaud,Vaud,22
 5479,VD,Cuarnens,Cuarnens,Cuarnens,Cuarnens VD,Cuarnens (VD),Cuarnens VD,Waadt,Vaud,Vaud,22
 5480,VD,Daillens,Daillens,Daillens,Daillens VD,Daillens (VD),Daillens VD,Waadt,Vaud,Vaud,22
 5481,VD,Dizy,Dizy,Dizy,Dizy VD,Dizy (VD),Dizy VD,Waadt,Vaud,Vaud,22
@@ -1690,7 +1693,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 5486,VD,L'Isle,L'Isle,L'Isle,L'Isle VD,L'Isle (VD),L'Isle VD,Waadt,Vaud,Vaud,22
 5487,VD,Lussery-Villars,Lussery-Villars,Lussery-Villars,Lussery-Villars VD,Lussery-Villars (VD),Lussery-Villars VD,Waadt,Vaud,Vaud,22
 5488,VD,Mauraz,Mauraz,Mauraz,Mauraz VD,Mauraz (VD),Mauraz VD,Waadt,Vaud,Vaud,22
-5489,VD,Mex VD,Mex (VD),Mex VD,Mex VD,Mex (VD),Mex VD VD,Waadt,Vaud,Vaud,22
+5489,VD,Mex VD,Mex (VD),Mex VD,Mex VD,Mex (VD),Mex VD,Waadt,Vaud,Vaud,22
 5490,VD,Moiry,Moiry,Moiry,Moiry VD,Moiry (VD),Moiry VD,Waadt,Vaud,Vaud,22
 5491,VD,Mont-la-Ville,Mont-la-Ville,Mont-la-Ville,Mont-la-Ville VD,Mont-la-Ville (VD),Mont-la-Ville VD,Waadt,Vaud,Vaud,22
 5492,VD,Montricher,Montricher,Montricher,Montricher VD,Montricher (VD),Montricher VD,Waadt,Vaud,Vaud,22
@@ -1709,19 +1712,19 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 5513,VD,Bioley-Orjulaz,Bioley-Orjulaz,Bioley-Orjulaz,Bioley-Orjulaz VD,Bioley-Orjulaz (VD),Bioley-Orjulaz VD,Waadt,Vaud,Vaud,22
 5514,VD,Bottens,Bottens,Bottens,Bottens VD,Bottens (VD),Bottens VD,Waadt,Vaud,Vaud,22
 5515,VD,Bretigny-sur-Morrens,Bretigny-sur-Morrens,Bretigny-sur-Morrens,Bretigny-sur-Morrens VD,Bretigny-sur-Morrens (VD),Bretigny-sur-Morrens VD,Waadt,Vaud,Vaud,22
-5516,VD,Cugy VD,Cugy (VD),Cugy VD,Cugy VD,Cugy (VD),Cugy VD VD,Waadt,Vaud,Vaud,22
+5516,VD,Cugy VD,Cugy (VD),Cugy VD,Cugy VD,Cugy (VD),Cugy VD,Waadt,Vaud,Vaud,22
 5518,VD,Echallens,Echallens,Echallens,Echallens VD,Echallens (VD),Echallens VD,Waadt,Vaud,Vaud,22
 5520,VD,Essertines-sur-Yverdon,Essertines-sur-Yverdon,Essertines-sur-Yverdon,Essertines-sur-Yverdon VD,Essertines-sur-Yverdon (VD),Essertines-sur-Yverdon VD,Waadt,Vaud,Vaud,22
 5521,VD,Etagnières,Etagnières,Etagnières,Etagnières VD,Etagnières (VD),Etagnières VD,Waadt,Vaud,Vaud,22
 5522,VD,Fey,Fey,Fey,Fey VD,Fey (VD),Fey VD,Waadt,Vaud,Vaud,22
 5523,VD,Froideville,Froideville,Froideville,Froideville VD,Froideville (VD),Froideville VD,Waadt,Vaud,Vaud,22
-5527,VD,Morrens VD,Morrens (VD),Morrens VD,Morrens VD,Morrens (VD),Morrens VD VD,Waadt,Vaud,Vaud,22
+5527,VD,Morrens VD,Morrens (VD),Morrens VD,Morrens VD,Morrens (VD),Morrens VD,Waadt,Vaud,Vaud,22
 5529,VD,Oulens-sous-Echallens,Oulens-sous-Echallens,Oulens-sous-Echallens,Oulens-sous-Echallens VD,Oulens-sous-Echallens (VD),Oulens-sous-Echallens VD,Waadt,Vaud,Vaud,22
 5530,VD,Pailly,Pailly,Pailly,Pailly VD,Pailly (VD),Pailly VD,Waadt,Vaud,Vaud,22
 5531,VD,Penthéréaz,Penthéréaz,Penthéréaz,Penthéréaz VD,Penthéréaz (VD),Penthéréaz VD,Waadt,Vaud,Vaud,22
 5533,VD,Poliez-Pittet,Poliez-Pittet,Poliez-Pittet,Poliez-Pittet VD,Poliez-Pittet (VD),Poliez-Pittet VD,Waadt,Vaud,Vaud,22
 5534,VD,Rueyres,Rueyres,Rueyres,Rueyres VD,Rueyres (VD),Rueyres VD,Waadt,Vaud,Vaud,22
-5535,VD,Saint-Barthélemy VD,Saint-Barthélemy (VD),Saint-Barthélemy VD,Saint-Barthélemy VD,Saint-Barthélemy (VD),Saint-Barthélemy VD VD,Waadt,Vaud,Vaud,22
+5535,VD,Saint-Barthélemy VD,Saint-Barthélemy (VD),Saint-Barthélemy VD,Saint-Barthélemy VD,Saint-Barthélemy (VD),Saint-Barthélemy VD,Waadt,Vaud,Vaud,22
 5537,VD,Villars-le-Terroir,Villars-le-Terroir,Villars-le-Terroir,Villars-le-Terroir VD,Villars-le-Terroir (VD),Villars-le-Terroir VD,Waadt,Vaud,Vaud,22
 5539,VD,Vuarrens,Vuarrens,Vuarrens,Vuarrens VD,Vuarrens (VD),Vuarrens VD,Waadt,Vaud,Vaud,22
 5540,VD,Montilliez,Montilliez,Montilliez,Montilliez VD,Montilliez (VD),Montilliez VD,Waadt,Vaud,Vaud,22
@@ -1739,7 +1742,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 5562,VD,Mauborget,Mauborget,Mauborget,Mauborget VD,Mauborget (VD),Mauborget VD,Waadt,Vaud,Vaud,22
 5563,VD,Mutrux,Mutrux,Mutrux,Mutrux VD,Mutrux (VD),Mutrux VD,Waadt,Vaud,Vaud,22
 5564,VD,Novalles,Novalles,Novalles,Novalles VD,Novalles (VD),Novalles VD,Waadt,Vaud,Vaud,22
-5565,VD,Onnens VD,Onnens (VD),Onnens VD,Onnens VD,Onnens (VD),Onnens VD VD,Waadt,Vaud,Vaud,22
+5565,VD,Onnens VD,Onnens (VD),Onnens VD,Onnens VD,Onnens (VD),Onnens VD,Waadt,Vaud,Vaud,22
 5566,VD,Provence,Provence,Provence,Provence VD,Provence (VD),Provence VD,Waadt,Vaud,Vaud,22
 5568,VD,Sainte-Croix,Sainte-Croix,Sainte-Croix,Sainte-Croix VD,Sainte-Croix (VD),Sainte-Croix VD,Waadt,Vaud,Vaud,22
 5571,VD,Tévenon,Tévenon,Tévenon,Tévenon VD,Tévenon (VD),Tévenon VD,Waadt,Vaud,Vaud,22
@@ -1753,7 +1756,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 5588,VD,Paudex,Paudex,Paudex,Paudex VD,Paudex (VD),Paudex VD,Waadt,Vaud,Vaud,22
 5589,VD,Prilly,Prilly,Prilly,Prilly VD,Prilly (VD),Prilly VD,Waadt,Vaud,Vaud,22
 5590,VD,Pully,Pully,Pully,Pully VD,Pully (VD),Pully VD,Waadt,Vaud,Vaud,22
-5591,VD,Renens VD,Renens (VD),Renens VD,Renens VD,Renens (VD),Renens VD VD,Waadt,Vaud,Vaud,22
+5591,VD,Renens VD,Renens (VD),Renens VD,Renens VD,Renens (VD),Renens VD,Waadt,Vaud,Vaud,22
 5592,VD,Romanel-sur-Lausanne,Romanel-sur-Lausanne,Romanel-sur-Lausanne,Romanel-sur-Lausanne VD,Romanel-sur-Lausanne (VD),Romanel-sur-Lausanne VD,Waadt,Vaud,Vaud,22
 5601,VD,Chexbres,Chexbres,Chexbres,Chexbres VD,Chexbres (VD),Chexbres VD,Waadt,Vaud,Vaud,22
 5604,VD,Forel (Lavaux),Forel (Lavaux),Forel (Lavaux),Forel (Lavaux) VD,Forel (Lavaux) (VD),Forel (Lavaux) VD,Waadt,Vaud,Vaud,22
@@ -1775,18 +1778,18 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 5632,VD,Denges,Denges,Denges,Denges VD,Denges (VD),Denges VD,Waadt,Vaud,Vaud,22
 5633,VD,Echandens,Echandens,Echandens,Echandens VD,Echandens (VD),Echandens VD,Waadt,Vaud,Vaud,22
 5634,VD,Echichens,Echichens,Echichens,Echichens VD,Echichens (VD),Echichens VD,Waadt,Vaud,Vaud,22
-5635,VD,Ecublens VD,Ecublens (VD),Ecublens VD,Ecublens VD,Ecublens (VD),Ecublens VD VD,Waadt,Vaud,Vaud,22
+5635,VD,Ecublens VD,Ecublens (VD),Ecublens VD,Ecublens VD,Ecublens (VD),Ecublens VD,Waadt,Vaud,Vaud,22
 5636,VD,Etoy,Etoy,Etoy,Etoy VD,Etoy (VD),Etoy VD,Waadt,Vaud,Vaud,22
 5637,VD,Lavigny,Lavigny,Lavigny,Lavigny VD,Lavigny (VD),Lavigny VD,Waadt,Vaud,Vaud,22
 5638,VD,Lonay,Lonay,Lonay,Lonay VD,Lonay (VD),Lonay VD,Waadt,Vaud,Vaud,22
-5639,VD,Lully VD,Lully (VD),Lully VD,Lully VD,Lully (VD),Lully VD VD,Waadt,Vaud,Vaud,22
+5639,VD,Lully VD,Lully (VD),Lully VD,Lully VD,Lully (VD),Lully VD,Waadt,Vaud,Vaud,22
 5640,VD,Lussy-sur-Morges,Lussy-sur-Morges,Lussy-sur-Morges,Lussy-sur-Morges VD,Lussy-sur-Morges (VD),Lussy-sur-Morges VD,Waadt,Vaud,Vaud,22
 5642,VD,Morges,Morges,Morges,Morges VD,Morges (VD),Morges VD,Waadt,Vaud,Vaud,22
 5643,VD,Préverenges,Préverenges,Préverenges,Préverenges VD,Préverenges (VD),Préverenges VD,Waadt,Vaud,Vaud,22
 5644,VD,Reverolle,Reverolle,Reverolle,Reverolle VD,Reverolle (VD),Reverolle VD,Waadt,Vaud,Vaud,22
 5645,VD,Romanel-sur-Morges,Romanel-sur-Morges,Romanel-sur-Morges,Romanel-sur-Morges VD,Romanel-sur-Morges (VD),Romanel-sur-Morges VD,Waadt,Vaud,Vaud,22
 5646,VD,Saint-Prex,Saint-Prex,Saint-Prex,Saint-Prex VD,Saint-Prex (VD),Saint-Prex VD,Waadt,Vaud,Vaud,22
-5648,VD,Saint-Sulpice VD,Saint-Sulpice (VD),Saint-Sulpice VD,Saint-Sulpice VD,Saint-Sulpice (VD),Saint-Sulpice VD VD,Waadt,Vaud,Vaud,22
+5648,VD,Saint-Sulpice VD,Saint-Sulpice (VD),Saint-Sulpice VD,Saint-Sulpice VD,Saint-Sulpice (VD),Saint-Sulpice VD,Waadt,Vaud,Vaud,22
 5649,VD,Tolochenaz,Tolochenaz,Tolochenaz,Tolochenaz VD,Tolochenaz (VD),Tolochenaz VD,Waadt,Vaud,Vaud,22
 5650,VD,Vaux-sur-Morges,Vaux-sur-Morges,Vaux-sur-Morges,Vaux-sur-Morges VD,Vaux-sur-Morges (VD),Vaux-sur-Morges VD,Waadt,Vaud,Vaud,22
 5651,VD,Villars-Sainte-Croix,Villars-Sainte-Croix,Villars-Sainte-Croix,Villars-Sainte-Croix VD,Villars-Sainte-Croix (VD),Villars-Sainte-Croix VD,Waadt,Vaud,Vaud,22
@@ -1798,7 +1801,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 5663,VD,Bussy-sur-Moudon,Bussy-sur-Moudon,Bussy-sur-Moudon,Bussy-sur-Moudon VD,Bussy-sur-Moudon (VD),Bussy-sur-Moudon VD,Waadt,Vaud,Vaud,22
 5665,VD,Chavannes-sur-Moudon,Chavannes-sur-Moudon,Chavannes-sur-Moudon,Chavannes-sur-Moudon VD,Chavannes-sur-Moudon (VD),Chavannes-sur-Moudon VD,Waadt,Vaud,Vaud,22
 5669,VD,Curtilles,Curtilles,Curtilles,Curtilles VD,Curtilles (VD),Curtilles VD,Waadt,Vaud,Vaud,22
-5671,VD,Dompierre VD,Dompierre (VD),Dompierre VD,Dompierre VD,Dompierre (VD),Dompierre VD VD,Waadt,Vaud,Vaud,22
+5671,VD,Dompierre VD,Dompierre (VD),Dompierre VD,Dompierre VD,Dompierre (VD),Dompierre VD,Waadt,Vaud,Vaud,22
 5673,VD,Hermenches,Hermenches,Hermenches,Hermenches VD,Hermenches (VD),Hermenches VD,Waadt,Vaud,Vaud,22
 5674,VD,Lovatens,Lovatens,Lovatens,Lovatens VD,Lovatens (VD),Lovatens VD,Waadt,Vaud,Vaud,22
 5675,VD,Lucens,Lucens,Lucens,Lucens VD,Lucens (VD),Lucens VD,Waadt,Vaud,Vaud,22
@@ -1927,7 +1930,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 5911,VD,Cuarny,Cuarny,Cuarny,Cuarny VD,Cuarny (VD),Cuarny VD,Waadt,Vaud,Vaud,22
 5912,VD,Démoret,Démoret,Démoret,Démoret VD,Démoret (VD),Démoret VD,Waadt,Vaud,Vaud,22
 5913,VD,Donneloye,Donneloye,Donneloye,Donneloye VD,Donneloye (VD),Donneloye VD,Waadt,Vaud,Vaud,22
-5914,VD,Ependes VD,Ependes (VD),Ependes VD,Ependes VD,Ependes (VD),Ependes VD VD,Waadt,Vaud,Vaud,22
+5914,VD,Ependes VD,Ependes (VD),Ependes VD,Ependes VD,Ependes (VD),Ependes VD,Waadt,Vaud,Vaud,22
 5919,VD,Mathod,Mathod,Mathod,Mathod VD,Mathod (VD),Mathod VD,Waadt,Vaud,Vaud,22
 5921,VD,Molondin,Molondin,Molondin,Molondin VD,Molondin (VD),Molondin VD,Waadt,Vaud,Vaud,22
 5922,VD,Montagny-près-Yverdon,Montagny-près-Yverdon,Montagny-près-Yverdon,Montagny-près-Yverdon VD,Montagny-près-Yverdon (VD),Montagny-près-Yverdon VD,Waadt,Vaud,Vaud,22
@@ -1964,6 +1967,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 6034,VS,Orsières,Orsières,Orsières,Orsières VS,Orsières (VS),Orsières VS,Wallis,Valais,Vallese,23
 6035,VS,Sembrancher,Sembrancher,Sembrancher,Sembrancher VS,Sembrancher (VS),Sembrancher VS,Wallis,Valais,Vallese,23
 6036,VS,Vollèges,Vollèges,Vollèges,Vollèges VS,Vollèges (VS),Vollèges VS,Wallis,Valais,Vallese,23
+6037,VS,Val de Bagnes,Val de Bagnes,Val de Bagnes,Val de Bagnes VS,Val de Bagnes (VS),Val de Bagnes VS,Wallis,Valais,Vallese,23
 6052,VS,Bellwald,Bellwald,Bellwald,Bellwald VS,Bellwald (VS),Bellwald VS,Wallis,Valais,Vallese,23
 6054,VS,Binn,Binn,Binn,Binn VS,Binn (VS),Binn VS,Wallis,Valais,Vallese,23
 6056,VS,Ernen,Ernen,Ernen,Ernen VS,Ernen (VS),Ernen VS,Wallis,Valais,Vallese,23
@@ -1975,7 +1979,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 6082,VS,Ayent,Ayent,Ayent,Ayent VS,Ayent (VS),Ayent VS,Wallis,Valais,Vallese,23
 6083,VS,Evolène,Evolène,Evolène,Evolène VS,Evolène (VS),Evolène VS,Wallis,Valais,Vallese,23
 6084,VS,Hérémence,Hérémence,Hérémence,Hérémence VS,Hérémence (VS),Hérémence VS,Wallis,Valais,Vallese,23
-6087,VS,Saint-Martin VS,Saint-Martin (VS),Saint-Martin VS,Saint-Martin VS,Saint-Martin (VS),Saint-Martin VS VS,Wallis,Valais,Vallese,23
+6087,VS,Saint-Martin VS,Saint-Martin (VS),Saint-Martin VS,Saint-Martin VS,Saint-Martin (VS),Saint-Martin VS,Wallis,Valais,Vallese,23
 6089,VS,Vex,Vex,Vex,Vex VS,Vex (VS),Vex VS,Wallis,Valais,Vallese,23
 6090,VS,Mont-Noble,Mont-Noble,Mont-Noble,Mont-Noble VS,Mont-Noble (VS),Mont-Noble VS,Wallis,Valais,Vallese,23
 6101,VS,Agarn,Agarn,Agarn,Agarn VS,Agarn (VS),Agarn VS,Wallis,Valais,Vallese,23
@@ -2048,6 +2052,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 6250,VS,Veyras,Veyras,Veyras,Veyras VS,Veyras (VS),Veyras VS,Wallis,Valais,Vallese,23
 6252,VS,Anniviers,Anniviers,Anniviers,Anniviers VS,Anniviers (VS),Anniviers VS,Wallis,Valais,Vallese,23
 6253,VS,Crans-Montana,Crans-Montana,Crans-Montana,Crans-Montana VS,Crans-Montana (VS),Crans-Montana VS,Wallis,Valais,Vallese,23
+6254,VS,Noble-Contrée,Noble-Contrée,Noble-Contrée,Noble-Contrée VS,Noble-Contrée (VS),Noble-Contrée VS,Wallis,Valais,Vallese,23
 6261,VS,Arbaz,Arbaz,Arbaz,Arbaz VS,Arbaz (VS),Arbaz VS,Wallis,Valais,Vallese,23
 6263,VS,Grimisuat,Grimisuat,Grimisuat,Grimisuat VS,Grimisuat (VS),Grimisuat VS,Wallis,Valais,Vallese,23
 6265,VS,Savièse,Savièse,Savièse,Savièse VS,Savièse (VS),Savièse VS,Wallis,Valais,Vallese,23
@@ -2064,7 +2069,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 6290,VS,Saas-Fee,Saas-Fee,Saas-Fee,Saas-Fee VS,Saas-Fee (VS),Saas-Fee VS,Wallis,Valais,Vallese,23
 6291,VS,Saas-Grund,Saas-Grund,Saas-Grund,Saas-Grund VS,Saas-Grund (VS),Saas-Grund VS,Wallis,Valais,Vallese,23
 6292,VS,St. Niklaus,Saint-Nicolas,St. Niklaus,St. Niklaus VS,Saint-Nicolas (VS),St. Niklaus VS,Wallis,Valais,Vallese,23
-6293,VS,Stalden VS,Stalden (VS),Stalden VS,Stalden VS,Stalden (VS),Stalden VS VS,Wallis,Valais,Vallese,23
+6293,VS,Stalden VS,Stalden (VS),Stalden VS,Stalden VS,Stalden (VS),Stalden VS,Wallis,Valais,Vallese,23
 6294,VS,Staldenried,Staldenried,Staldenried,Staldenried VS,Staldenried (VS),Staldenried VS,Wallis,Valais,Vallese,23
 6295,VS,Täsch,Täsch,Täsch,Täsch VS,Täsch (VS),Täsch VS,Wallis,Valais,Vallese,23
 6296,VS,Törbel,Törbel,Törbel,Törbel VS,Törbel (VS),Törbel VS,Wallis,Valais,Vallese,23
@@ -2081,23 +2086,23 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 6417,NE,La Grande Béroche,La Grande Béroche,La Grande Béroche,La Grande Béroche NE,La Grande Béroche (NE),La Grande Béroche NE,Neuenburg,Neuchâtel,Neuchâtel,24
 6421,NE,La Chaux-de-Fonds,La Chaux-de-Fonds,La Chaux-de-Fonds,La Chaux-de-Fonds NE,La Chaux-de-Fonds (NE),La Chaux-de-Fonds NE,Neuenburg,Neuchâtel,Neuchâtel,24
 6422,NE,Les Planchettes,Les Planchettes,Les Planchettes,Les Planchettes NE,Les Planchettes (NE),Les Planchettes NE,Neuenburg,Neuchâtel,Neuchâtel,24
-6423,NE,La Sagne,La Sagne,La Sagne,La Sagne NE,La Sagne (NE),La Sagne NE,Neuenburg,Neuchâtel,Neuchâtel,24
+6423,NE,La Sagne,La Sagne,La Sagne,La SagNE,La Sagne (NE),La SagNE,Neuenburg,Neuchâtel,Neuchâtel,24
 6431,NE,Les Brenets,Les Brenets,Les Brenets,Les Brenets NE,Les Brenets (NE),Les Brenets NE,Neuenburg,Neuchâtel,Neuchâtel,24
-6432,NE,La Brévine,La Brévine,La Brévine,La Brévine NE,La Brévine (NE),La Brévine NE,Neuenburg,Neuchâtel,Neuchâtel,24
+6432,NE,La Brévine,La Brévine,La Brévine,La BréviNE,La Brévine (NE),La BréviNE,Neuenburg,Neuchâtel,Neuchâtel,24
 6433,NE,Brot-Plamboz,Brot-Plamboz,Brot-Plamboz,Brot-Plamboz NE,Brot-Plamboz (NE),Brot-Plamboz NE,Neuenburg,Neuchâtel,Neuchâtel,24
 6434,NE,Le Cerneux-Péquignot,Le Cerneux-Péquignot,Le Cerneux-Péquignot,Le Cerneux-Péquignot NE,Le Cerneux-Péquignot (NE),Le Cerneux-Péquignot NE,Neuenburg,Neuchâtel,Neuchâtel,24
 6435,NE,La Chaux-du-Milieu,La Chaux-du-Milieu,La Chaux-du-Milieu,La Chaux-du-Milieu NE,La Chaux-du-Milieu (NE),La Chaux-du-Milieu NE,Neuenburg,Neuchâtel,Neuchâtel,24
 6436,NE,Le Locle,Le Locle,Le Locle,Le Locle NE,Le Locle (NE),Le Locle NE,Neuenburg,Neuchâtel,Neuchâtel,24
 6437,NE,Les Ponts-de-Martel,Les Ponts-de-Martel,Les Ponts-de-Martel,Les Ponts-de-Martel NE,Les Ponts-de-Martel (NE),Les Ponts-de-Martel NE,Neuenburg,Neuchâtel,Neuchâtel,24
 6451,NE,Cornaux,Cornaux,Cornaux,Cornaux NE,Cornaux (NE),Cornaux NE,Neuenburg,Neuchâtel,Neuchâtel,24
-6452,NE,Cressier NE,Cressier (NE),Cressier NE,Cressier NE,Cressier (NE),Cressier NE NE,Neuenburg,Neuchâtel,Neuchâtel,24
+6452,NE,Cressier NE,Cressier (NE),Cressier NE,Cressier NE,Cressier (NE),Cressier NE,Neuenburg,Neuchâtel,Neuchâtel,24
 6453,NE,Enges,Enges,Enges,Enges NE,Enges (NE),Enges NE,Neuenburg,Neuchâtel,Neuchâtel,24
-6454,NE,Hauterive NE,Hauterive (NE),Hauterive NE,Hauterive NE,Hauterive (NE),Hauterive NE NE,Neuenburg,Neuchâtel,Neuchâtel,24
+6454,NE,Hauterive NE,Hauterive (NE),Hauterive NE,Hauterive NE,Hauterive (NE),Hauterive NE,Neuenburg,Neuchâtel,Neuchâtel,24
 6455,NE,Le Landeron,Le Landeron,Le Landeron,Le Landeron NE,Le Landeron (NE),Le Landeron NE,Neuenburg,Neuchâtel,Neuchâtel,24
 6456,NE,Lignières,Lignières,Lignières,Lignières NE,Lignières (NE),Lignières NE,Neuenburg,Neuchâtel,Neuchâtel,24
 6458,NE,Neuenburg,Neuchâtel,Neuenburg,Neuenburg NE,Neuchâtel (NE),Neuenburg NE,Neuenburg,Neuchâtel,Neuchâtel,24
 6459,NE,Saint-Blaise,Saint-Blaise,Saint-Blaise,Saint-Blaise NE,Saint-Blaise (NE),Saint-Blaise NE,Neuenburg,Neuchâtel,Neuchâtel,24
-6461,NE,La Tène,La Tène,La Tène,La Tène NE,La Tène (NE),La Tène NE,Neuenburg,Neuchâtel,Neuchâtel,24
+6461,NE,La Tène,La Tène,La Tène,La TèNE,La Tène (NE),La TèNE,Neuenburg,Neuchâtel,Neuchâtel,24
 6485,NE,Valangin,Valangin,Valangin,Valangin NE,Valangin (NE),Valangin NE,Neuenburg,Neuchâtel,Neuchâtel,24
 6487,NE,Val-de-Ruz,Val-de-Ruz,Val-de-Ruz,Val-de-Ruz NE,Val-de-Ruz (NE),Val-de-Ruz NE,Neuenburg,Neuchâtel,Neuchâtel,24
 6504,NE,La Côte-aux-Fées,La Côte-aux-Fées,La Côte-aux-Fées,La Côte-aux-Fées NE,La Côte-aux-Fées (NE),La Côte-aux-Fées NE,Neuenburg,Neuchâtel,Neuchâtel,24
@@ -2110,7 +2115,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 6605,GE,Bardonnex,Bardonnex,Bardonnex,Bardonnex GE,Bardonnex (GE),Bardonnex GE,Genf,Genève,Ginevra,25
 6606,GE,Bellevue,Bellevue,Bellevue,Bellevue GE,Bellevue (GE),Bellevue GE,Genf,Genève,Ginevra,25
 6607,GE,Bernex,Bernex,Bernex,Bernex GE,Bernex (GE),Bernex GE,Genf,Genève,Ginevra,25
-6608,GE,Carouge GE,Carouge (GE),Carouge GE,Carouge GE,Carouge (GE),Carouge GE GE,Genf,Genève,Ginevra,25
+6608,GE,CarouGE,Carouge (GE),CarouGE,CarouGE,Carouge (GE),CarouGE GE,Genf,Genève,Ginevra,25
 6609,GE,Cartigny,Cartigny,Cartigny,Cartigny GE,Cartigny (GE),Cartigny GE,Genf,Genève,Ginevra,25
 6610,GE,Céligny,Céligny,Céligny,Céligny GE,Céligny (GE),Céligny GE,Genf,Genève,Ginevra,25
 6611,GE,Chancy,Chancy,Chancy,Chancy GE,Chancy (GE),Chancy GE,Genf,Genève,Ginevra,25
@@ -2121,7 +2126,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 6616,GE,Collonge-Bellerive,Collonge-Bellerive,Collonge-Bellerive,Collonge-Bellerive GE,Collonge-Bellerive (GE),Collonge-Bellerive GE,Genf,Genève,Ginevra,25
 6617,GE,Cologny,Cologny,Cologny,Cologny GE,Cologny (GE),Cologny GE,Genf,Genève,Ginevra,25
 6618,GE,Confignon,Confignon,Confignon,Confignon GE,Confignon (GE),Confignon GE,Genf,Genève,Ginevra,25
-6619,GE,Corsier GE,Corsier (GE),Corsier GE,Corsier GE,Corsier (GE),Corsier GE GE,Genf,Genève,Ginevra,25
+6619,GE,Corsier GE,Corsier (GE),Corsier GE,Corsier GE,Corsier (GE),Corsier GE,Genf,Genève,Ginevra,25
 6620,GE,Dardagny,Dardagny,Dardagny,Dardagny GE,Dardagny (GE),Dardagny GE,Genf,Genève,Ginevra,25
 6621,GE,Genf,Genève,Ginevra,Genf GE,Genève (GE),Ginevra GE,Genf,Genève,Ginevra,25
 6622,GE,Genthod,Genthod,Genthod,Genthod GE,Genthod (GE),Genthod GE,Genf,Genève,Ginevra,25
@@ -2137,8 +2142,8 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 6632,GE,Perly-Certoux,Perly-Certoux,Perly-Certoux,Perly-Certoux GE,Perly-Certoux (GE),Perly-Certoux GE,Genf,Genève,Ginevra,25
 6633,GE,Plan-les-Ouates,Plan-les-Ouates,Plan-les-Ouates,Plan-les-Ouates GE,Plan-les-Ouates (GE),Plan-les-Ouates GE,Genf,Genève,Ginevra,25
 6634,GE,Pregny-Chambésy,Pregny-Chambésy,Pregny-Chambésy,Pregny-Chambésy GE,Pregny-Chambésy (GE),Pregny-Chambésy GE,Genf,Genève,Ginevra,25
-6635,GE,Presinge,Presinge,Presinge,Presinge GE,Presinge (GE),Presinge GE,Genf,Genève,Ginevra,25
-6636,GE,Puplinge,Puplinge,Puplinge,Puplinge GE,Puplinge (GE),Puplinge GE,Genf,Genève,Ginevra,25
+6635,GE,Presinge,Presinge,Presinge,PresinGE,Presinge (GE),PresinGE,Genf,Genève,Ginevra,25
+6636,GE,Puplinge,Puplinge,Puplinge,PuplinGE,Puplinge (GE),PuplinGE,Genf,Genève,Ginevra,25
 6637,GE,Russin,Russin,Russin,Russin GE,Russin (GE),Russin GE,Genf,Genève,Ginevra,25
 6638,GE,Satigny,Satigny,Satigny,Satigny GE,Satigny (GE),Satigny GE,Genf,Genève,Ginevra,25
 6639,GE,Soral,Soral,Soral,Soral GE,Soral (GE),Soral GE,Genf,Genève,Ginevra,25
@@ -2150,7 +2155,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 6645,GE,Veyrier,Veyrier,Veyrier,Veyrier GE,Veyrier (GE),Veyrier GE,Genf,Genève,Ginevra,25
 6702,JU,Boécourt,Boécourt,Boécourt,Boécourt JU,Boécourt (JU),Boécourt JU,Jura,Jura,Giura,26
 6703,JU,Bourrignon,Bourrignon,Bourrignon,Bourrignon JU,Bourrignon (JU),Bourrignon JU,Jura,Jura,Giura,26
-6704,JU,Châtillon JU,Châtillon (JU),Châtillon JU,Châtillon JU,Châtillon (JU),Châtillon JU JU,Jura,Jura,Giura,26
+6704,JU,Châtillon JU,Châtillon (JU),Châtillon JU,Châtillon JU,Châtillon (JU),Châtillon JU,Jura,Jura,Giura,26
 6706,JU,Courchapoix,Courchapoix,Courchapoix,Courchapoix JU,Courchapoix (JU),Courchapoix JU,Jura,Jura,Giura,26
 6708,JU,Courrendlin,Courrendlin,Courrendlin,Courrendlin JU,Courrendlin (JU),Courrendlin JU,Jura,Jura,Giura,26
 6709,JU,Courroux,Courroux,Courroux,Courroux JU,Courroux (JU),Courroux JU,Jura,Jura,Giura,26
@@ -2167,13 +2172,13 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 6724,JU,Soyhières,Soyhières,Soyhières,Soyhières JU,Soyhières (JU),Soyhières JU,Jura,Jura,Giura,26
 6729,JU,Haute-Sorne,Haute-Sorne,Haute-Sorne,Haute-Sorne JU,Haute-Sorne (JU),Haute-Sorne JU,Jura,Jura,Giura,26
 6730,JU,Val Terbi,Val Terbi,Val Terbi,Val Terbi JU,Val Terbi (JU),Val Terbi JU,Jura,Jura,Giura,26
-6741,JU,Le Bémont JU,Le Bémont (JU),Le Bémont JU,Le Bémont JU,Le Bémont (JU),Le Bémont JU JU,Jura,Jura,Giura,26
+6741,JU,Le Bémont JU,Le Bémont (JU),Le Bémont JU,Le Bémont JU,Le Bémont (JU),Le Bémont JU,Jura,Jura,Giura,26
 6742,JU,Les Bois,Les Bois,Les Bois,Les Bois JU,Les Bois (JU),Les Bois JU,Jura,Jura,Giura,26
 6743,JU,Les Breuleux,Les Breuleux,Les Breuleux,Les Breuleux JU,Les Breuleux (JU),Les Breuleux JU,Jura,Jura,Giura,26
 6744,JU,La Chaux-des-Breuleux,La Chaux-des-Breuleux,La Chaux-des-Breuleux,La Chaux-des-Breuleux JU,La Chaux-des-Breuleux (JU),La Chaux-des-Breuleux JU,Jura,Jura,Giura,26
 6745,JU,Les Enfers,Les Enfers,Les Enfers,Les Enfers JU,Les Enfers (JU),Les Enfers JU,Jura,Jura,Giura,26
-6748,JU,Les Genevez JU,Les Genevez (JU),Les Genevez JU,Les Genevez JU,Les Genevez (JU),Les Genevez JU JU,Jura,Jura,Giura,26
-6750,JU,Lajoux JU,Lajoux (JU),Lajoux JU,Lajoux JU,Lajoux (JU),Lajoux JU JU,Jura,Jura,Giura,26
+6748,JU,Les Genevez JU,Les Genevez (JU),Les Genevez JU,Les Genevez JU,Les Genevez (JU),Les Genevez JU,Jura,Jura,Giura,26
+6750,JU,Lajoux JU,Lajoux (JU),Lajoux JU,Lajoux JU,Lajoux (JU),Lajoux JU,Jura,Jura,Giura,26
 6751,JU,Montfaucon,Montfaucon,Montfaucon,Montfaucon JU,Montfaucon (JU),Montfaucon JU,Jura,Jura,Giura,26
 6753,JU,Muriaux,Muriaux,Muriaux,Muriaux JU,Muriaux (JU),Muriaux JU,Jura,Jura,Giura,26
 6754,JU,Le Noirmont,Le Noirmont,Le Noirmont,Le Noirmont JU,Le Noirmont (JU),Le Noirmont JU,Jura,Jura,Giura,26
