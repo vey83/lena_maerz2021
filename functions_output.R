@@ -11,12 +11,10 @@ get_output_gemeinden <- function(dta) {
 return(output_dw)  
 }  
 
-View(results_kantone)
-
 get_output_kantone <- function(dta) {
 
 output_dw_kantone <- dta %>%
-    select(Kantons_Nr,Kanton_d,Kanton_f,Ja_Stimmen_In_Prozent_Kanton) %>%
+    select(Kantons_Nr,Kanton_d,Kanton_f,Kanton_i,Ja_Stimmen_In_Prozent_Kanton) %>%
     mutate(Nein_Stimmen_In_Prozent_Kanton = round(100-Ja_Stimmen_In_Prozent_Kanton,1),
            Ja_Stimmen_In_Prozent_Kanton = round(Ja_Stimmen_In_Prozent_Kanton,1),
            Kanton_color = 50,
@@ -24,8 +22,6 @@ output_dw_kantone <- dta %>%
            Gemeinden_counted = 0,
            Legende = NA) %>%
     unique()
-
-View(output_dw_kantone)
 
 for (y in 1:nrow(output_dw_kantone)) {
   
