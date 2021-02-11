@@ -188,10 +188,10 @@ source("data_simulation_gemeinden.R")
   dw_edit_chart(datawrapper_codes[i,2],intro=undertitel_de,annotate=paste0("Letzte Aktualisierung: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
   dw_publish_chart(datawrapper_codes[i,2])
   
-  dw_edit_chart(datawrapper_codes[i,4],intro=undertitel_de,annotate=paste0("dernière mise à jour: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
+  dw_edit_chart(datawrapper_codes[i,4],intro=undertitel_fr,annotate=paste0("dernière mise à jour: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
   dw_publish_chart(datawrapper_codes[i,4])
   
-  dw_edit_chart(datawrapper_codes[i,6],intro=undertitel_de,annotate=paste0("Ultimo aggiornamento: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
+  dw_edit_chart(datawrapper_codes[i,6],intro=undertitel_it,annotate=paste0("Ultimo aggiornamento: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
   dw_publish_chart(datawrapper_codes[i,6])
   
   #Output Abstimmungen Kantone
@@ -204,12 +204,10 @@ source("data_simulation_gemeinden.R")
   dw_edit_chart(datawrapper_codes[i,3],intro=undertitel_de,annotate=paste0("Letzte Aktualisierung: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
   dw_publish_chart(datawrapper_codes[i,3])
   
-  dw_edit_chart(datawrapper_codes[i,5],intro=undertitel_de,annotate=paste0("dernière mise à jour: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
+  dw_edit_chart(datawrapper_codes[i,5],intro=undertitel_fr,annotate=paste0("dernière mise à jour: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
   dw_publish_chart(datawrapper_codes[i,5])
   
-  dw_edit_chart(datawrapper_codes[i,7],intro=undertitel_de,annotate=paste0("Ultimo aggiornamento: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
+  dw_edit_chart(datawrapper_codes[i,7],intro=undertitel_it,annotate=paste0("Ultimo aggiornamento: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
   dw_publish_chart(datawrapper_codes[i,7])
   
-  
-
 }
