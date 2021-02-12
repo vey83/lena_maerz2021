@@ -10,7 +10,7 @@ for (i in 1:length(vorlagen_short)) {
   results <- get_results(json_data,i)
   
 #Simulation Gemeinden
-source("data_simulation_gemeinden.R")
+#source("data_simulation_gemeinden.R")
   
 
   #Emergency adapt
@@ -27,7 +27,7 @@ source("data_simulation_gemeinden.R")
   results_kantone <- get_results(json_data,i,"cantonal")
   
   #Simulation Kantone
-  source("data_simulation_kantone.R")
+  #source("data_simulation_kantone.R")
   
   json_data$schweiz$vorlagen$kantone
   Ja_Stimmen_Kanton <- results_kantone %>%
