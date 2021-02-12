@@ -37,7 +37,19 @@ gitadd()
 gitcommit()
 gitpush()
 
+#Tabellen aktualisieren
+source("top_flop.R", encoding = "UTF-8")
+
+
+#Make Commit
+git2r::config(user.name = "awp-finanznachrichten",user.email = "sw@awp.ch")
+gitadd()
+gitcommit()
+gitpush()
+
 cat("Daten erfolgreich auf Github hochgeladen\n")
+
+
 
 
 #}
