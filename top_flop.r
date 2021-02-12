@@ -21,7 +21,7 @@ voile_top_de <- voile_raw %>%
   slice(1:50) %>%
   select(5,3) %>%
   rename(Gemeinde = Gemeinde_KT_d,
-         "Prozentsatz von ja" = Ja_Stimmen_In_Prozent)
+         "Ja-Anteil" = Ja_Stimmen_In_Prozent)
 
 write.csv(voile_top_de,"Tableaux/voile_top_de.csv")
 
@@ -53,7 +53,7 @@ voile_flop_de <- voile_raw %>%
   slice(1:50) %>%
   select(5,4) %>%
   rename(Gemeinde = Gemeinde_KT_d,
-         "Prozentsatz von nein" = Nein_Stimmen_In_Prozent)
+         "Nein-Anteil" = Nein_Stimmen_In_Prozent)
 
 write.csv(voile_flop_de,"Tableaux/voile_flop_de.csv")
 
@@ -89,7 +89,7 @@ eid_top_de <- eid_raw %>%
   slice(1:50) %>%
   select(5,3) %>%
   rename(Gemeinde = Gemeinde_KT_d,
-         "Prozentsatz von ja" = Ja_Stimmen_In_Prozent)
+         "Ja-Anteil" = Ja_Stimmen_In_Prozent)
 
 write.csv(eid_top_de,"Tableaux/eid_top_de.csv")
 
@@ -121,7 +121,7 @@ eid_flop_de <- eid_raw %>%
   slice(1:50) %>%
   select(5,4) %>%
   rename(Gemeinde = Gemeinde_KT_d,
-         "Prozentsatz von nein" = Nein_Stimmen_In_Prozent)
+         "Nein-Anteil" = Nein_Stimmen_In_Prozent)
 
 write.csv(eid_flop_de,"Tableaux/eid_flop_de.csv")
 
@@ -157,7 +157,7 @@ indo_top_de <- indo_raw %>%
   slice(1:50) %>%
   select(5,3) %>%
   rename(Gemeinde = Gemeinde_KT_d,
-         "Prozentsatz von ja" = Ja_Stimmen_In_Prozent)
+         "Ja-Anteil" = Ja_Stimmen_In_Prozent)
 
 write.csv(indo_top_de,"Tableaux/indo_top_de.csv")
 
@@ -189,7 +189,7 @@ indo_flop_de <- indo_raw %>%
   slice(1:50) %>%
   select(5,4) %>%
   rename(Gemeinde = Gemeinde_KT_d,
-         "Prozentsatz von nein" = Nein_Stimmen_In_Prozent)
+         "Nein-Anteil" = Nein_Stimmen_In_Prozent)
 
 write.csv(indo_flop_de,"Tableaux/indo_flop_de.csv")
 
