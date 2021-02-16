@@ -4,7 +4,6 @@ setwd("C:/Users/simon/OneDrive/LENA_Project/lena_maerz2021")
 ###Config: Bibliotheken laden, Pfade/Links definieren, bereits vorhandene Daten laden
 source("config.R",encoding = "UTF-8")
 
-
 ###Funktionen laden
 source("functions_readin.R", encoding = "UTF-8")
 source("functions_storyfinder.R", encoding = "UTF-8")
@@ -26,6 +25,8 @@ source("nationale_abstimmungen.R", encoding="UTF-8")
 
 ###Kantonale Abstimmungen###
 source("kantonale_abstimmungen.R", encoding="UTF-8")
+
+###Kantonale Abstimmungen Sonderfälle###
 
 #Wie lange hat LENA gebraucht
 time_end <- Sys.time()

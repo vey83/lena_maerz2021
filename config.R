@@ -33,12 +33,21 @@ vorlagen_short <- c("Verhuellungsverbot","E-ID-Gesetz","Indonesien")
 kantonal_short <- c("ZH_Sozialdetektive","GE_Coronavirus")
 
 #Nummer in JSON 
-kantonal_number <- c(1,6) #3,13,13
+kantonal_number <- c(1,6) 
 
-#Falls mehrere Vorlagen innerhalb eines Kantons, Vorlage auswählen
-kantonal_add <- c(2,1) #  1,1,1
+#Falls mehrere Vorlagen innerhalb eines Kantons, Vorlage auswaehlen
+kantonal_add <- c(2,1)
 
-###Vorhandene Daten laden Gripen / Masseneinwanderungsinitiative
+###Kurznamen und Nummern kantonale Vorlagen Spezialfaelle
+kantonal_short_special <- c("ZH_Polizeimeldungen","BE_Handel")
+
+#Nummer in JSON 
+kantonal_number_special <- c(1,2) 
+
+#Falls mehrere Vorlagen innerhalb eines Kantons, Vorlage auswaehlen
+kantonal_add_special <- c(3,1) 
+
+###Vorhandene Daten laden
 daten_minarett_bfs <- read_excel("Data/daten_minarett_bfs.xls", 
                                skip = 10)
 

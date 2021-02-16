@@ -4,7 +4,7 @@
 ##VOILE
 
 #VOILE_TOP
-voile_raw <- read_csv("https://raw.githubusercontent.com/awp-finanznachrichten/lena_maerz2021/master/Output/Verhuellungsverbot_dw.csv", encoding="UTF-8")
+voile_raw <- read_csv("https://raw.githubusercontent.com/awp-finanznachrichten/lena_maerz2021/master/Output/Verhuellungsverbot_dw.csv")
 
 voile_top_fr <- voile_raw %>%
   arrange(desc(Ja_Stimmen_In_Prozent)) %>%

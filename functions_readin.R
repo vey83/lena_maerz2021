@@ -243,3 +243,5 @@ get_results_kantonal <- function(dta_raw,
 
 
 cat("Funktionen geladen\n")
+                       
+

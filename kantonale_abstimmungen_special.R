@@ -1,22 +1,22 @@
-for (k in 1:length(kantonal_short) ) {
+k <- 2
+
+
+for (k in 1:length(kantonal_short_special) ) {
   
-  cat(paste0("\nErmittle Daten für folgende Vorlage: ",kantonal_short[k],"\n"))
+  cat(paste0("\nErmittle Daten für folgende Vorlage: ",kantonal_short_special[k],"\n"))
   
   results <- get_results_kantonal(json_data_kantone,
-                                  kantonal_number[k],
-                                  kantonal_add[k])
-  
+                                  kantonal_number_special[k],
+                                  kantonal_add_special[k])
+
+  #Simulation Gemeinden
+  source("data_simulation_gemeinden.R")
+ 
+
   #Daten anpassen Gemeinden
   results <- treat_gemeinden(results)
   results <- format_data_g(results)
   
-  #Kantonsergebnis hinzufügen
-  Ja_Stimmen_Kanton <- get_results_kantonal(json_data_kantone,
-                                            kantonal_number[k],
-                                            kantonal_add[k],
-                                            "kantonal")
-  
-  results$Ja_Stimmen_In_Prozent_Kanton <- Ja_Stimmen_Kanton
   
   #Wie viele Gemeinden sind ausgezählt?
   cat(paste0(sum(results$Gebiet_Ausgezaehlt)," Gemeinden sind ausgezählt.\n"))
@@ -39,9 +39,47 @@ for (k in 1:length(kantonal_short) ) {
   
   hist_check <- FALSE
   
+  #Gegenvorschlag hinzufügen
+  results_gegenvorschlag <- get_results_kantonal(json_data_kantone,
+                                                 kantonal_number_special[k],
+                                                 kantonal_add_special[k]+1)
+  
+  
+
+  #Simulation Gemeinden
+  source("data_simulation_gegenvorschlag.R")
+  
+  
+
+  results_gegenvorschlag <- results_gegenvorschlag[,c(4:6,11)]
+  results_gegenvorschlag$neinStimmenInProzent <- 100-results_gegenvorschlag$jaStimmenInProzent
+  
+  colnames(results_gegenvorschlag) <- c("Ja_Prozent_Gegenvorschlag","Ja_Absolut_Gegenvorschlag","Nein_Absolut_Gegenvorschlag",
+                                        "Gemeinde_Nr","Nein_Prozent_Gegenvorschlag")
+  
+  results <- merge(results,results_gegenvorschlag)
+  
+
+  #Stichentscheid hinzufügen
+  results_stichentscheid <- get_results_kantonal(json_data_kantone,
+                                                 kantonal_number_special[k],
+                                                 kantonal_add_special[k]+2)
+  
+  #Simulation Gemeinden
+  source("data_simulation_stichentscheid.R")
+  
+  results_stichentscheid  <- results_stichentscheid[,c(4,11)]
+  results_stichentscheid$neinStimmenInProzent <- 100-results_stichentscheid$jaStimmenInProzent
+  
+  colnames(results_stichentscheid) <- c("Stichentscheid_Zustimmung_Hauptvorlage","Gemeinde_Nr","Stichentscheid_Zustimmung_Gegenvorschlag")
+  
+  results <- merge(results,results_stichentscheid)
+
   #Ausgezählte Gemeinden auswählen
   results_notavailable <- results[results$Gebiet_Ausgezaehlt == FALSE,]
   results <- results[results$Gebiet_Ausgezaehlt == TRUE,]
+  
+
   
   #Sind schon Daten vorhanden?
   if (nrow(results) > 0) {
@@ -49,29 +87,21 @@ for (k in 1:length(kantonal_short) ) {
     #Daten anpassen
     results <- augment_raw_data(results)
     
-    #Intros generieren
-    results <- normal_intro(results)
-    
-    
-    
-    #Vergleich innerhalb des Kantons (falls Daten vom Kanton vorhanden) -> Ändern von FALSE auf TRUE
-    
-    if (json_data_kantone$kantone$vorlagen[[kantonal_number[k]]]$vorlageBeendet[[kantonal_add[k]]] == FALSE) {
-    
-    results <- kanton_storyfinder_kantonal(results)
-    
-    }
+    #Texte generieren
+    results <- special_intro(results)
     
     #Textvorlagen laden
     Textbausteine <- as.data.frame(read_excel("Data/Textbausteine_LENA_Maerz2021.xlsx", 
-                                              sheet = kantonal_short[k]))
+                                              sheet = kantonal_short_special[k]))
     cat("Textvorlagen geladen\n\n")
     
+
     #Texte einfügen
     results <- build_texts(results)
     
+ 
     #Variablen ersetzen 
-    results <- replace_variables(results)
+    results <- replace_variables_special(results)
     
     ###Texte anpassen und optimieren
     results <- excuse_my_french(results)
@@ -92,6 +122,8 @@ for (k in 1:length(kantonal_short) ) {
     
   }
   
+
+  
   #Texte speichern
   #library(xlsx)
   #write.xlsx(results,paste0(kantonal_short[k],"_texte.xlsx"))
@@ -99,9 +131,9 @@ for (k in 1:length(kantonal_short) ) {
   ###Output generieren für Datawrapper
   output_dw <- get_output_gemeinden(results)
   
-  write.csv(output_dw,paste0("Output/",kantonal_short[k],"_dw.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  write.csv(output_dw,paste0("Output/",kantonal_short_special[k],"_dw.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
   
-  cat(paste0("\nGenerated output for Vorlage ",kantonal_short[k],"\n"))
+  cat(paste0("\nGenerated output for Vorlage ",kantonal_short_special[k],"\n"))
   
 }
 
