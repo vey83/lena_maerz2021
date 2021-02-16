@@ -27,6 +27,7 @@ source("nationale_abstimmungen.R", encoding="UTF-8")
 source("kantonale_abstimmungen.R", encoding="UTF-8")
 
 ###Kantonale Abstimmungen Sonderfälle###
+source("kantonale_abstimmungen_special.R", encoding="UTF-8")
 
 #Wie lange hat LENA gebraucht
 time_end <- Sys.time()
