@@ -156,8 +156,9 @@ replace_variables_special <- function(dta) {
     dta$Text_d[i] <- str_replace_all(dta$Text_d[i],"#NeinStimmenGegenvorschlagInProzent",gsub("[.]",",",round(dta$Nein_Prozent_Gegenvorschlag[i],1)))
     dta$Text_d[i] <- str_replace_all(dta$Text_d[i],"#JaStimmenGegenvorschlagAbsolut",as.character(format(dta$Ja_Absolut_Gegenvorschlag[i],big.mark="'")))
     dta$Text_d[i] <- str_replace_all(dta$Text_d[i],"#NeinStimmenGegenvorschlagAbsolut",as.character(format(dta$Nein_Absolut_Gegenvorschlag[i],big.mark="'")))
-    dta$Text_d[i] <- str_replace_all(dta$Text_d[i],"#StichentscheidZustimmungHauptvorlageInProzent",as.character(format(dta$Stichentscheid_Zustimmung_Hauptvorlage[i],big.mark="'")))
-    dta$Text_d[i] <- str_replace_all(dta$Text_d[i],"#StichentscheidZustimmungGegenvorschlagInProzent",as.character(format(dta$Stichentscheid_Zustimmung_Gegenvorschlag[i],big.mark="'")))
+    dta$Text_d[i] <- str_replace_all(dta$Text_d[i],"#StichentscheidZustimmungHauptvorlageInProzent",gsub("[.]",",",round(dta$Stichentscheid_Zustimmung_Hauptvorlage[i],1)))
+    dta$Text_d[i] <- str_replace_all(dta$Text_d[i],"#StichentscheidZustimmungGegenvorschlagInProzent",gsub("[.]",",",round(dta$Stichentscheid_Zustimmung_Gegenvorschlag[i],1)))
+    
     
     dta$Text_f[i] <- str_replace_all(dta$Text_f[i],"#Gemeinde_f",dta$Gemeinde_f[i])
     dta$Text_f[i] <- str_replace_all(dta$Text_f[i],"#Kanton_f",dta$Kanton_f[i])
@@ -169,8 +170,8 @@ replace_variables_special <- function(dta) {
     dta$Text_f[i] <- str_replace_all(dta$Text_f[i],"#NeinStimmenGegenvorschlagInProzent",gsub("[.]",",",round(dta$Nein_Prozent_Gegenvorschlag[i],1)))
     dta$Text_f[i] <- str_replace_all(dta$Text_f[i],"#JaStimmenGegenvorschlagAbsolut",as.character(format(dta$Ja_Absolut_Gegenvorschlag[i],big.mark="'")))
     dta$Text_f[i] <- str_replace_all(dta$Text_f[i],"#NeinStimmenGegenvorschlagAbsolut",as.character(format(dta$Nein_Absolut_Gegenvorschlag[i],big.mark="'")))
-    dta$Text_f[i] <- str_replace_all(dta$Text_f[i],"#StichentscheidZustimmungHauptvorlageInProzent",as.character(format(dta$Stichentscheid_Zustimmung_Hauptvorlage[i],big.mark="'")))
-    dta$Text_f[i] <- str_replace_all(dta$Text_f[i],"#StichentscheidZustimmungGegenvorschlagInProzent",as.character(format(dta$Stichentscheid_Zustimmung_Gegenvorschlag[i],big.mark="'")))
+    dta$Text_f[i] <- str_replace_all(dta$Text_f[i],"#StichentscheidZustimmungHauptvorlageInProzent",gsub("[.]",",",round(dta$Stichentscheid_Zustimmung_Hauptvorlage[i],1)))
+    dta$Text_f[i] <- str_replace_all(dta$Text_f[i],"#StichentscheidZustimmungGegenvorschlagInProzent",gsub("[.]",",",round(dta$Stichentscheid_Zustimmung_Gegenvorschlag[i],1)))
     
     dta$Text_i[i] <- str_replace_all(dta$Text_i[i],"#Gemeinde_i",dta$Gemeinde_i[i])
     dta$Text_i[i] <- str_replace_all(dta$Text_i[i],"#Kanton_i",dta$Kanton_i[i])
@@ -182,9 +183,9 @@ replace_variables_special <- function(dta) {
     dta$Text_i[i] <- str_replace_all(dta$Text_i[i],"#NeinStimmenGegenvorschlagInProzent",gsub("[.]",",",round(dta$Nein_Prozent_Gegenvorschlag[i],1)))
     dta$Text_i[i] <- str_replace_all(dta$Text_i[i],"#JaStimmenGegenvorschlagAbsolut",as.character(format(dta$Ja_Absolut_Gegenvorschlag[i],big.mark="'")))
     dta$Text_i[i] <- str_replace_all(dta$Text_i[i],"#NeinStimmenGegenvorschlagAbsolut",as.character(format(dta$Nein_Absolut_Gegenvorschlag[i],big.mark="'")))
-    dta$Text_i[i] <- str_replace_all(dta$Text_i[i],"#StichentscheidZustimmungHauptvorlageInProzent",as.character(format(dta$Stichentscheid_Zustimmung_Hauptvorlage[i],big.mark="'")))
-    dta$Text_i[i] <- str_replace_all(dta$Text_i[i],"#StichentscheidZustimmungGegenvorschlagInProzent",as.character(format(dta$Stichentscheid_Zustimmung_Gegenvorschlag[i],big.mark="'")))
-
+    dta$Text_i[i] <- str_replace_all(dta$Text_i[i],"#StichentscheidZustimmungHauptvorlageInProzent",gsub("[.]",",",round(dta$Stichentscheid_Zustimmung_Hauptvorlage[i],1)))
+    dta$Text_i[i] <- str_replace_all(dta$Text_i[i],"#StichentscheidZustimmungGegenvorschlagInProzent",gsub("[.]",",",round(dta$Stichentscheid_Zustimmung_Gegenvorschlag[i],1)))
+    
   }
   
   return(dta)   

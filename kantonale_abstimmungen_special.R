@@ -1,6 +1,3 @@
-k <- 2
-
-
 for (k in 1:length(kantonal_short_special) ) {
   
   cat(paste0("\nErmittle Daten für folgende Vorlage: ",kantonal_short_special[k],"\n"))
@@ -10,7 +7,7 @@ for (k in 1:length(kantonal_short_special) ) {
                                   kantonal_add_special[k])
 
   #Simulation Gemeinden
-  source("data_simulation_gemeinden.R")
+  #source("data_simulation_gemeinden.R")
  
 
   #Daten anpassen Gemeinden
@@ -47,7 +44,7 @@ for (k in 1:length(kantonal_short_special) ) {
   
 
   #Simulation Gemeinden
-  source("data_simulation_gegenvorschlag.R")
+  #source("data_simulation_gegenvorschlag.R")
   
   
 
@@ -66,7 +63,7 @@ for (k in 1:length(kantonal_short_special) ) {
                                                  kantonal_add_special[k]+2)
   
   #Simulation Gemeinden
-  source("data_simulation_stichentscheid.R")
+  #source("data_simulation_stichentscheid.R")
   
   results_stichentscheid  <- results_stichentscheid[,c(4,11)]
   results_stichentscheid$neinStimmenInProzent <- 100-results_stichentscheid$jaStimmenInProzent
