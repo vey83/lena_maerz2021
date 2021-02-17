@@ -146,6 +146,7 @@ for (i in 1:length(vorlagen_short)) {
     
   }
   
+  
   #Texte speichern
   #library(xlsx)
   #write.xlsx(results,paste0(vorlagen_short[i],"_texte.xlsx"),row.names = FALSE)
