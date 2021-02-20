@@ -146,7 +146,7 @@ source("data_simulation_gemeinden.R")
     
   }
   
-  
+
   #Texte speichern
   #library(xlsx)
   #write.xlsx(results,paste0(vorlagen_short[i],"_texte.xlsx"),row.names = FALSE)
@@ -163,9 +163,9 @@ source("data_simulation_gemeinden.R")
   ###Output generieren für Datawrapper Tessin
   
   #Output Abstimmungen Gemeinde
-  output_dw_ticino <- get_output_gemeinden(results)
   output_dw_ticino <- results[results$Kanton_Short == "TI",]
-  
+  output_dw_ticino <- get_output_gemeinden(output_dw_ticino)
+
   #Output speichern
   write.csv(output_dw_ticino,paste0("Output/",vorlagen_short[i],"_dw_ticino.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
   
