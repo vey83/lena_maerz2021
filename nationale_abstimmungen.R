@@ -10,7 +10,7 @@ for (i in 1:length(vorlagen_short)) {
   results <- get_results(json_data,i)
   
 #Simulation Gemeinden
-#source("data_simulation_gemeinden.R")
+source("data_simulation_gemeinden.R")
   
 
   #Emergency adapt
@@ -27,7 +27,7 @@ for (i in 1:length(vorlagen_short)) {
   results_kantone <- get_results(json_data,i,"cantonal")
   
   #Simulation Kantone
-  #source("data_simulation_kantone.R")
+  source("data_simulation_kantone.R")
   
   json_data$schweiz$vorlagen$kantone
   Ja_Stimmen_Kanton <- results_kantone %>%
@@ -148,14 +148,12 @@ for (i in 1:length(vorlagen_short)) {
   
   
   #Texte speichern
-  #library(xlsx)
-  #write.xlsx(results,paste0(vorlagen_short[i],"_texte.xlsx"),row.names = FALSE)
+  library(xlsx)
+  write.xlsx(results,paste0(vorlagen_short[i],"_texte.xlsx"),row.names = FALSE)
   
   ###Output generieren für Datawrapper
   
   #Output Abstimmungen Gemeinde
-  
-  
   output_dw <- get_output_gemeinden(results)
   
   #Output speichern

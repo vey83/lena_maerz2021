@@ -1,5 +1,5 @@
 #Daten simulieren Gemeinde!!!
-for (a in 1:520) { 
+for (a in 1:nrow(results)) { 
 
 results$gebietAusgezaehlt[a] = TRUE
 
