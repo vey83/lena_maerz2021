@@ -96,8 +96,8 @@ for (k in 1:length(kantonal_short) ) {
   }
   
   #Texte speichern
-  library(xlsx)
-  write.xlsx(results,paste0(kantonal_short[k],"_texte.xlsx"))
+  #library(xlsx)
+  #write.xlsx(results,paste0(kantonal_short[k],"_texte.xlsx"))
   
   ###Output generieren für Datawrapper
   output_dw <- get_output_gemeinden(results)
@@ -105,6 +105,7 @@ for (k in 1:length(kantonal_short) ) {
   write.csv(output_dw,paste0("Output/",kantonal_short[k],"_dw.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
   
   cat(paste0("\nGenerated output for Vorlage ",kantonal_short[k],"\n"))
+  
   
 }
 
