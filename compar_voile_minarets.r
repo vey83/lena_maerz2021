@@ -6,6 +6,9 @@ mina09_raw <-  read_excel("Data/daten_minarett_bfs-2.xls")
 mina09 <- mina09_raw %>%
   select(3,11)
 
+#Runden
+mina09$`Ja in %` <- round(mina09$`Ja in %`,1)
+
 #en français
 voile21_fr <- voile21_raw %>%
   select(1,3,4,6) %>%
