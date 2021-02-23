@@ -30,7 +30,7 @@ voile_top_it <- voile_raw %>%
   arrange(desc(Ja_Stimmen_In_Prozent)) %>%
   slice(1:50) %>%
   select(7,3) %>%
-  rename(Municipio = Gemeinde_KT_i,
+  rename(Comune = Gemeinde_KT_i,
          "Percentuale di sì" = Ja_Stimmen_In_Prozent)
 
 write.csv(voile_top_it,"Tableaux/voile_top_it.csv", fileEncoding = "UTF-8")
@@ -62,7 +62,7 @@ voile_flop_it <- voile_raw %>%
   arrange(desc(Nein_Stimmen_In_Prozent)) %>%
   slice(1:50) %>%
   select(7,4) %>%
-  rename(Municipio = Gemeinde_KT_i,
+  rename(Comune = Gemeinde_KT_i,
          "Percentuale di no" = Nein_Stimmen_In_Prozent)
 
 write.csv(voile_flop_it,"Tableaux/voile_flop_it.csv", fileEncoding = "UTF-8")
@@ -95,7 +95,7 @@ eid_top_it <- eid_raw %>%
   arrange(desc(Ja_Stimmen_In_Prozent)) %>%
   slice(1:50) %>%
   select(7,3) %>%
-  rename(Municipio = Gemeinde_KT_i,
+  rename(Comune = Gemeinde_KT_i,
          "Percentuale di sì" = Ja_Stimmen_In_Prozent)
 
 write.csv(eid_top_it,"Tableaux/eid_top_it.csv", fileEncoding = "UTF-8")
@@ -127,7 +127,7 @@ eid_flop_it <- eid_raw %>%
   arrange(desc(Nein_Stimmen_In_Prozent)) %>%
   slice(1:50) %>%
   select(7,4) %>%
-  rename(Municipio = Gemeinde_KT_i,
+  rename(Comune = Gemeinde_KT_i,
          "Percentuale di no" = Nein_Stimmen_In_Prozent)
 
 write.csv(eid_flop_it,"Tableaux/eid_flop_it.csv", fileEncoding = "UTF-8")
@@ -163,7 +163,7 @@ indo_top_it <- indo_raw %>%
   arrange(desc(Ja_Stimmen_In_Prozent)) %>%
   slice(1:50) %>%
   select(7,3) %>%
-  rename(Municipio = Gemeinde_KT_i,
+  rename(Comune = Gemeinde_KT_i,
          "Percentuale di sì" = Ja_Stimmen_In_Prozent)
 
 write.csv(indo_top_it,"Tableaux/indo_top_it.csv", fileEncoding = "UTF-8")
@@ -195,7 +195,7 @@ indo_flop_it <- indo_raw %>%
   arrange(desc(Nein_Stimmen_In_Prozent)) %>%
   slice(1:50) %>%
   select(7,4) %>%
-  rename(Municipio = Gemeinde_KT_i,
+  rename(Comune = Gemeinde_KT_i,
          "Percentuale di no" = Nein_Stimmen_In_Prozent)
 
 write.csv(indo_flop_it,"Tableaux/indo_flop_it.csv", fileEncoding = "UTF-8")
