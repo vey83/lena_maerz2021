@@ -169,6 +169,22 @@ source("data_simulation_gemeinden.R")
   #Output speichern
   write.csv(output_dw_ticino,paste0("Output/",vorlagen_short[i],"_dw_ticino.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
   
+  ###Output generieren für Datawrapper Radiotop
+  
+  #Output Abstimmungen Gemeinde
+  output_dw_radiotop <- results[results$Kanton_Short == "ZH" |
+                                  results$Kanton_Short == "SH" |
+                                  results$Kanton_Short == "TG" |
+                                  results$Kanton_Short == "SG" |
+                                  results$Kanton_Short == "AI" |
+                                  results$Kanton_Short == "AR",]
+  
+  output_dw_radiotop <- get_output_gemeinden(output_dw_radiotop)
+  
+  #Output speichern
+  write.csv(output_dw_radiotop,paste0("Output/",vorlagen_short[i],"_dw_radiotop.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  
+  
   #Output Abstimmungen Kantone
   output_dw_kantone <- get_output_kantone(results)
   

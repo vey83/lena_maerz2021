@@ -41,7 +41,7 @@ gitpush()
 
 #Tabellen aktualisieren
 source("top_flop.R", encoding = "UTF-8")
-
+source("compar_voile_minarets.R", encoding = "UTF-8")
 
 #Make Commit
 git2r::config(user.name = "awp-finanznachrichten",user.email = "sw@awp.ch")
