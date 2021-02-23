@@ -46,18 +46,18 @@ augment_de <- voile21_de %>%
   arrange(desc(ecart)) %>%
   select(4,2,5,6) %>%
   rename(Gemeinde = Gemeinde_KT_d,
-         'Oui à l\'interdiction de dissimuler son visage dans l\'espace public (2021)' = Ja_Stimmen_In_Prozent,
-         'Oui à l\'interdiction de construire des minarets (2009)' = 'Ja in %',
-         'Ecart (en points de pourcentage)' = ecart) %>%
+         'Ja zum Verhüllungsverbot (2021)' = Ja_Stimmen_In_Prozent,
+         'Ja zum Minarettverbot (2009)' = 'Ja in %',
+         'Veränderung (in Prozentpunkten)' = ecart) %>%
   slice(1:50)
 
 diminu_de <- voile21_de %>%
   arrange(ecart) %>%
   select(4,2,5,6) %>%
   rename(Gemeinde = Gemeinde_KT_d,
-         'Oui à l\'interdiction de dissimuler son visage dans l\'espace public (2021)' = Ja_Stimmen_In_Prozent,
-         'Oui à l\'interdiction de construire des minarets (2009)' = 'Ja in %',
-         'Ecart (en points de pourcentage)' = ecart) %>%
+         'Ja zum Verhüllungsverbot (2021)' = Ja_Stimmen_In_Prozent,
+         'Ja zum Minarettverbot (2009)' = 'Ja in %',
+         'Veränderung (in Prozentpunkten)' = ecart) %>%
   slice(1:50)
 
 write.csv(augment_de,"Tableaux/augment_de.csv", fileEncoding = "UTF-8")
